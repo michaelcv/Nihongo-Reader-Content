@@ -1,0 +1,165 @@
+{
+  "id": "tanabata",
+  "format": "book",
+  "titleJa": "たなばた（おりひめ と ひこぼし）",
+  "titleFr": "Tanabata - Les amoureux des étoiles",
+  "titleEn": "Tanabata - The Star-Crossed Lovers",
+  "coverImage": "images/tanabata_cover_21fe9e43.jpg",
+  "descriptionFr": "La célèbre légende japonaise du festival des étoiles (7 juillet) adaptée au niveau JLPT N4 en 6 chapitres. Découvrez l'histoire d'Orihime et Hikoboshi, séparés par la Voie lactée.",
+  "descriptionEn": "The famous Japanese Star Festival legend (July 7th) adapted to JLPT N4 level across 6 chapters. Discover the story of Orihime and Hikoboshi, separated across the Milky Way.",
+  "author": "Conte traditionnel (Édition N4)",
+  "authorEn": "Traditional Folklore (N4 Edition)",
+  "level": "N4",
+  "category": "Folklore",
+  "categoryEn": "Folklore",
+  "tags": [
+    "Livre",
+    "Folklore",
+    "Contes traditionnels",
+    "N4",
+    "Été"
+  ],
+  "tagsEn": [
+    "Book",
+    "Folklore",
+    "Traditional Tales",
+    "N4",
+    "Summer"
+  ],
+  "chapters": [
+    {
+      "id": "chap-1",
+      "chapterNumber": 1,
+      "titleJa": "一：空 の うつくしい 女の子",
+      "titleFr": "Chapitre 1 : La belle tisserande du ciel",
+      "titleEn": "Chapter 1: The Beautiful Maiden of the Sky",
+      "summaryFr": "Près de la Voie lactée vit Orihime, une jeune fille dévouée qui tisse du matin au soir de magnifiques étoffes pour les habitants du ciel.",
+      "summaryEn": "Near the Milky Way lives Orihime, a devoted young woman who weaves splendid garments from morning till night for the people of heaven.",
+      "imageUrl": "images/tanabata_chapter1_596ebcb6.jpg",
+      "text": "むかし、天の川 の ちかく に、おりひめ と いう うつくしい 女の子 が 住んで いました。\nおりひめ は 毎日、てん の 人たち の ため に、きれい な 着物 を つくって いました。\n朝 から ばん まで、休まない で 仕事 を します から、てん の お父さん も とても よろこんで いました。",
+      "translationsFr": [
+        "Il y a bien longtemps, près de la Voie lactée, vivait une belle jeune fille nommée Orihime.",
+        "Chaque jour, Orihime confectionnait de magnifiques kimonos pour les habitants du ciel.",
+        "Comme elle travaillait du matin au soir sans relâche, son père, le roi du ciel, en était très heureux."
+      ],
+      "translationsEn": [
+        "Long ago, near the Milky Way, lived a beautiful maiden named Orihime.",
+        "Every day, Orihime crafted lovely kimono garments for the people of heaven.",
+        "Because she worked from morning until evening without resting, her father in heaven was deeply pleased."
+      ]
+    },
+    {
+      "id": "chap-2",
+      "chapterNumber": 2,
+      "titleJa": "二：まじめ な ひこぼし",
+      "titleFr": "Chapitre 2 : Le sérieux Hikoboshi",
+      "titleEn": "Chapter 2: Earnest Hikoboshi",
+      "summaryFr": "De l'autre côté de la rivière céleste vit Hikoboshi, un jeune homme travailleur qui s'occupe chaque jour des animaux dans les montagnes.",
+      "summaryEn": "Across the celestial river lives Hikoboshi, a diligent young man who cares tirelessly for the mountain animals every day.",
+      "imageUrl": "images/tanabata_chapter2_176e49ea.jpg",
+      "text": "川 の あちら には、ひこぼし と いう まじめ な わかい 男 の 人 が いました。\nひこぼし も 毎日、山 や 川 で 動物 と いっしょに、よく はたらいて いました。\nてん の お父さん は「ふたり は とても まじめ で すばらしい 人 だ」と 思いました。",
+      "translationsFr": [
+        "De l'autre côté de la rivière vivait un jeune homme sérieux et travailleur nommé Hikoboshi.",
+        "Hikoboshi aussi travaillait dur chaque jour avec les animaux entre la montagne et la rivière.",
+        "Le père céleste se dit : « Ce sont tous deux des êtres admirables et si appliqués ! »"
+      ],
+      "translationsEn": [
+        "On the other side of the river lived an earnest young man named Hikoboshi.",
+        "Hikoboshi also worked diligently every day alongside the animals by the mountains and river.",
+        "The heavenly father thought, \"Both of them are truly admirable and hardworking.\""
+      ]
+    },
+    {
+      "id": "chap-3",
+      "chapterNumber": 3,
+      "titleJa": "三：ふたりの けっこん",
+      "titleFr": "Chapitre 3 : Le mariage des deux amoureux",
+      "titleEn": "Chapter 3: The Marriage of the Two",
+      "summaryFr": "Orihime et Hikoboshi se rencontrent et se marient. Mais si heureux ensemble, ils négligent peu à peu tout leur travail.",
+      "summaryEn": "Orihime and Hikoboshi meet and get married. Yet so happy together, they gradually forget their daily duties.",
+      "imageUrl": "images/tanabata_chapter3_37044ff8.jpg",
+      "text": "しばらく して、おりひめ と ひこぼし は 会って、けっこん しました。\nふたり は とても なかが よくて、毎日 いっしょに あそんだり 話したり して ばかり いました。\n「きょう も あそびましょう！」と いって、おりひめ は 着物 を つくらなく なりました。\nひこぼし も 仕事 を わすれて、毎日 たのしく あそんで しまいました。",
+      "translationsFr": [
+        "Peu après, Orihime et Hikoboshi se rencontrèrent et se marièrent.",
+        "Ils s'entendaient si bien qu'ils passaient toutes leurs journées à jouer et à discuter ensemble.",
+        "« Amusons-nous encore aujourd'hui ! » disait Orihime, qui cessa de tisser des kimonos.",
+        "Hikoboshi oublia lui aussi son travail et ne fit plus que s'amuser chaque jour."
+      ],
+      "translationsEn": [
+        "Before long, Orihime and Hikoboshi met and got married.",
+        "The two got along so wonderfully that they spent every day playing and talking together.",
+        "\"Let's play today too!\" Orihime would say, and she stopped weaving kimono cloth.",
+        "Hikoboshi also forgot his work and spent every day just having fun."
+      ]
+    },
+    {
+      "id": "chap-4",
+      "chapterNumber": 4,
+      "titleJa": "四：おこった お父さん",
+      "titleFr": "Chapitre 4 : La colère du père céleste",
+      "titleEn": "Chapter 4: The Father's Anger",
+      "summaryFr": "Mécontent de leur paresse, le roi du ciel sépare les deux époux de part et d'autre de la vaste Voie lactée.",
+      "summaryEn": "Angered by their neglect, the heavenly father separates the couple on opposite banks of the vast Milky Way.",
+      "imageUrl": "images/tanabata_chapter4_84f72e34.jpg",
+      "text": "それを 見た てん の お父さん は、たいへん おこりました。\n「ふたり は ぜんぜん 仕事 を しない で、あそんで ばかり いる！」\nてん の お父さん は、大きな 天の川 の ひがし と にし に、ふたり を とおく おきました。\n川 が とても 広くて ふかい ので、ふたり は もう 会う こと が できません。",
+      "translationsFr": [
+        "En voyant cela, le père céleste entra dans une grande colère :",
+        "« Ces deux-là ne travaillent plus du tout et ne font que s'amuser ! »",
+        "Il sépara alors les deux époux très loin l'un de l'autre, à l'est et à l'ouest de la grande Voie lactée.",
+        "La rivière étant si large et profonde, ils ne pouvaient plus se revoir."
+      ],
+      "translationsEn": [
+        "Seeing this, the heavenly father grew terribly angry.",
+        "\"The two of them aren't doing any work at all—they just play all day!\"",
+        "The heavenly father placed them far apart on the east and west sides of the vast Milky Way.",
+        "Because the river was so wide and deep, the two could no longer meet."
+      ]
+    },
+    {
+      "id": "chap-5",
+      "chapterNumber": 5,
+      "titleJa": "五：七月 なのか の 日",
+      "titleFr": "Chapitre 5 : La promesse du 7 juillet",
+      "titleEn": "Chapter 5: The Promise of July 7th",
+      "summaryFr": "Touché par les larmes d'Orihime, son père autorise les amoureux à se retrouver une nuit par an, le 7 juillet, s'ils travaillent sérieusement.",
+      "summaryEn": "Moved by Orihime's tears, her father promises they may reunite one night each year on July 7th if they work hard again.",
+      "imageUrl": "images/tanabata_chapter5_7d0c0815.jpg",
+      "text": "おりひめ は とても かなしく なって、毎日 なく ばかり でした。\nひこぼし も、川 の あちら で さびしく まって いました。\nなく おりひめ を 見て、てん の お父さん は やさしく 言いました。\n「毎日 まじめ に 仕事 を する なら、一ねん に ひとつ の 夜、七月 なのか だけ 会っても いいよ。」",
+      "translationsFr": [
+        "Orihime devint infiniment triste et passait ses journées à pleurer.",
+        "Hikoboshi aussi attendait tristement de l'autre côté de la rivière.",
+        "En voyant Orihime pleurer, le père céleste lui parla avec douceur :",
+        "« Si vous travaillez sérieusement chaque jour, vous pourrez vous revoir une seule nuit par an, le sept juillet. »"
+      ],
+      "translationsEn": [
+        "Orihime grew deeply sorrowful and did nothing but cry every day.",
+        "Hikoboshi too waited lonely on the far bank of the river.",
+        "Seeing Orihime weeping, the heavenly father spoke gently:",
+        "\"If you work earnestly every day, you may meet just one night a year, on the seventh of July.\""
+      ]
+    },
+    {
+      "id": "chap-6",
+      "chapterNumber": 6,
+      "titleJa": "六：天の川 と わたしたち",
+      "titleFr": "Chapitre 6 : La Voie lactée et nos vœux",
+      "titleEn": "Chapter 6: The Milky Way and Our Wishes",
+      "summaryFr": "Chaque 7 juillet, des oiseaux forment un pont sur la Voie lactée pour réunir les amoureux, et sur Terre chacun accroche ses vœux aux branches.",
+      "summaryEn": "Every July 7th, birds form a bridge across the Milky Way so they can reunite, while people hang colorful wish papers on branches.",
+      "imageUrl": "images/tanabata_chapter6_69991662.jpg",
+      "text": "それから、ふたり は また 毎日 まじめ に 仕事 を する ように なりました。\nそして 七月 なのか の 夜 に なると、たくさんの 鳥 が あつまって、天の川 の 上 に はし を つくります。\nおりひめ と ひこぼし は その はし を わたって、うれしそうに 会う こと が できます。\n今でも、七月 なのか の 夜 には、きれいな いろ の 紙 に ゆめ や いのり を かいて、木 の えだ に かざります。",
+      "translationsFr": [
+        "Depuis ce jour, les deux amoureux se remirent à travailler sérieusement chaque jour.",
+        "Et lorsque vient la nuit du sept juillet, de nombreux oiseaux se rassemblent pour former un pont au-dessus de la Voie lactée.",
+        "Orihime et Hikoboshi traversent alors ce pont et peuvent se retrouver remplis de joie.",
+        "Aujourd'hui encore, le soir du sept juillet, on écrit ses rêves et ses vœux sur de jolis papiers colorés pour les suspendre aux branches des arbres."
+      ],
+      "translationsEn": [
+        "From then on, both of them began working diligently every day once again.",
+        "And when the night of July 7th arrives, flocks of birds gather to form a bridge across the Milky Way.",
+        "Orihime and Hikoboshi walk across that bridge and joyfully reunite.",
+        "Even today, on the night of July 7th, people write their dreams and prayers on colorful slips of paper and hang them on tree branches."
+      ]
+    }
+  ]
+}

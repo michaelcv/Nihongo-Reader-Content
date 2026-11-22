@@ -1,0 +1,63 @@
+{
+  "id": "weekend-invitation",
+  "titleJa": "どようび に いっしょに あそびませんか",
+  "titleFr": "Inviter un ami : Organiser une sortie le week-end",
+  "titleEn": "Inviting a Friend: Making Weekend Plans",
+  "level": "N5",
+  "author": "Nihongo Reader Débutant",
+  "authorEn": "Nihongo Reader Beginner",
+  "category": "Mises en situation",
+  "categoryEn": "Real-Life Situations",
+  "tags": [
+    "Mises en situation",
+    "Dialogue",
+    "N5",
+    "Débutant",
+    "Loisirs"
+  ],
+  "tagsEn": [
+    "Real-Life Situations",
+    "Dialogue",
+    "N5",
+    "Beginner",
+    "Leisure"
+  ],
+  "descriptionFr": "Pratiquez l'invitation et la prise de rendez-vous en japonais (JLPT N5) : proposer une sortie au cinéma (〜ませんか), accepter (〜ましょう), fixer l'heure et le lieu devant la gare.",
+  "descriptionEn": "Practice inviting someone and setting up plans in Japanese (JLPT N5): suggesting a movie outing (~masen ka), accepting (~mashou), and agreeing on a meeting time and place at the station.",
+  "imageUrl": "images/weekend_meetup_n5_1794867090434.jpg",
+  "text": "ゆみ：トマ さん、あした の どようび は ひま ですか。\n\nトマ：はい、どようび は 学校 が 休み です から、ひま ですよ。\n\nゆみ：よかった！いっしょに えいが を 見ませんか。その あと で ひる ごはん も 食べましょう。\n\nトマ：いい ですね！ぜひ 行きましょう。何時 に あいます か。\n\nゆみ：えいが は 午前 十時 半 から です。九時 四十五ふん に えき の 東 の 前 で あいましょう。\n\nトマ：わかりました。えき の 東 の 前 ですね。雨 が ふる でしょうか。\n\nゆみ：いいえ、てんき は はれ ですよ。たのしみ ですね！\n\nトマ：はい！では、どようび に また あいましょう！",
+  "translationsFr": [
+    "Yumi : « Tom, es-tu libre demain samedi ? »",
+    "",
+    "Tom : « Oui, comme il n'y a pas école samedi, je suis libre. »",
+    "",
+    "Yumi : « Super ! Et si on allait voir un film ensemble ? Ensuite, déjeunons aussi ensemble. »",
+    "",
+    "Tom : « C'est une bonne idée ! Allons-y volontiers. À quelle heure se retrouve-t-on ? »",
+    "",
+    "Yumi : « Le film commence à dix heures trente du matin. Retrouvons-nous à neuf heures quarante-cinq devant la sortie est de la gare. »",
+    "",
+    "Tom : « Compris. Devant la sortie est de la gare. Va-t-il pleuvoir ? »",
+    "",
+    "Yumi : « Non, il fera beau. J'ai vraiment hâte ! »",
+    "",
+    "Tom : « Moi aussi ! Alors à samedi ! »"
+  ],
+  "translationsEn": [
+    "Yumi: \"Tom, are you free tomorrow, Saturday?\"",
+    "",
+    "Tom: \"Yes, since school is off on Saturday, I'm free.\"",
+    "",
+    "Yumi: \"Great! Would you like to see a movie together? Let's eat lunch afterwards too.\"",
+    "",
+    "Tom: \"Sounds great! Let's definitely go. What time shall we meet?\"",
+    "",
+    "Yumi: \"The movie starts at 10:30 AM. Let's meet at 9:45 in front of the east side of the station.\"",
+    "",
+    "Tom: \"Got it. In front of the east side of the station. Will it rain?\"",
+    "",
+    "Yumi: \"No, the weather will be sunny. I'm looking forward to it!\"",
+    "",
+    "Tom: \"Yes! Well then, see you on Saturday!\""
+  ]
+}

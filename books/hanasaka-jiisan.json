@@ -1,0 +1,188 @@
+{
+  "id": "hanasaka-jiisan",
+  "format": "book",
+  "titleJa": "はなさか じいさん",
+  "titleFr": "Le Vieil Homme qui faisait fleurir les cerisiers (Hanasaka Jīsan)",
+  "titleEn": "The Old Man Who Made Dead Trees Blossom (Hanasaka Jīsan)",
+  "coverImage": "images/hanasaka_cover_1795248243984.jpg",
+  "descriptionFr": "Un grand classique du folklore japonais adapté au niveau JLPT N4 en 5 chapitres. Suivez un gentil couple âgé et leur fidèle chien blanc Shiro, dont la bonté finit par faire fleurir en plein hiver les cerisiers morts devant le seigneur.",
+  "descriptionEn": "A timeless Japanese folktale adapted to JLPT N4 level across 5 chapters. Follow a kind elderly couple and their loyal white dog Shiro, whose kindness brings lifeless winter cherry trees into radiant bloom before the lord.",
+  "author": "Conte traditionnel (Édition N4)",
+  "authorEn": "Traditional Folklore (N4 Edition)",
+  "level": "N4",
+  "category": "Folklore",
+  "categoryEn": "Folklore",
+  "tags": [
+    "Livre",
+    "Folklore",
+    "Contes traditionnels",
+    "N4",
+    "Printemps",
+    "Chien"
+  ],
+  "tagsEn": [
+    "Book",
+    "Folklore",
+    "Traditional Tales",
+    "N4",
+    "Spring",
+    "Dog"
+  ],
+  "chapters": [
+    {
+      "id": "chap-1",
+      "chapterNumber": 1,
+      "titleJa": "一：白い 犬 の しろ と こばん",
+      "titleFr": "Chapitre 1 : Shiro le chien blanc et les pièces d'or",
+      "titleEn": "Chapter 1: Shiro the White Dog and the Gold Coins",
+      "summaryFr": "Un gentil couple âgé aime comme son enfant un petit chien blanc nommé Shiro. Un jour, Shiro creuse le jardin et leur fait découvrir un trésor de pièces d'or.",
+      "summaryEn": "A kind elderly couple loves a fluffy white dog named Shiro like their own child. One day, Shiro digs in the garden and leads them to gleaming gold coins.",
+      "imageUrl": "images/hanasaka_gold_1795248327923.jpg",
+      "text": "むかし、ある むら に、心 の やさしい おじいさん と おばあさん が 住んで いました。\nふたり には 子ども が いません でした から、「しろ」と いう 白い 犬 を 子ども の ように 大切 に そだてて いました。\n\nある はれ た 日、おじいさん が はたけ で はたらいて いる と、しろ が 急 に なき始めました。\n「ここ ほれ、ワンワン！ ここ ほれ、ワンワン！」\nおじいさん が ふしぎ に 思って そこ を ほって みる と、土 の 中 から キラキラ ひかる こばん が たくさん 出て 来ました。\n\n「まあ、なんて すばらしい こと でしょう！」と おばあさん も とても よろこびました。\nふたり は しろ に おいしい ごちそう を あげて、近所 の 人 にも お金 を わけて あげました。",
+      "translationsFr": [
+        "Il y a bien longtemps, dans un village, vivaient un vieil homme et une vieille femme au cœur bon.",
+        "Comme ils n'avaient pas d'enfants, ils élevaient avec amour un petit chien blanc nommé « Shiro » comme leur propre fils.",
+        "",
+        "Un jour de beau temps, alors que le vieil homme travaillait au champ, Shiro se mit soudain à aboyer :",
+        "« Creuse ici, ouaf ouaf ! Creuse ici, ouaf ouaf ! »",
+        "Intrigué, le vieil homme essaya de creuser à cet endroit et vit apparaître de nombreuses pièces d'or étincelantes sous la terre.",
+        "",
+        "« Oh, quelle merveilleuse surprise ! » se réjouit aussi la vieille femme.",
+        "Tous deux offrirent un bon festin à Shiro et partagèrent même cet argent avec leurs voisins."
+      ],
+      "translationsEn": [
+        "Long ago, in a quiet village, lived a kindhearted old man and old woman.",
+        "Having no children of their own, they lovingly raised a white dog named \"Shiro\" as if he were their child.",
+        "",
+        "One sunny day, while the old man was working in the garden field, Shiro suddenly began barking:",
+        "\"Dig right here, woof woof! Dig right here, woof woof!\"",
+        "Curious, the old man dug into the earth there and uncovered heaps of sparkling oval gold coins.",
+        "",
+        "\"Oh, how wonderful this is!\" cried the old woman with joy.",
+        "They gave Shiro a delicious treat and even shared part of the money with people in the neighborhood."
+      ]
+    },
+    {
+      "id": "chap-2",
+      "chapterNumber": 2,
+      "titleJa": "二：となりの いじわる な ふうふ",
+      "titleFr": "Chapitre 2 : Les voisins jaloux et le petit pin",
+      "titleEn": "Chapter 2: The Greedy Neighbor and the Pine Sapling",
+      "summaryFr": "Le voisin avide emprunte Shiro de force, mais ne trouve que des cailloux et des tessons. Par méchanceté, il s'en prend à Shiro ; le gentil couple plante un pin sur sa tombe.",
+      "summaryEn": "The greedy neighbor forces Shiro to dig in his yard, finding only stones and broken pottery. After the neighbor harms Shiro, the grieving couple plants a pine sapling in his memory.",
+      "imageUrl": "images/hanasaka_neighbor_1795248244479.jpg",
+      "text": "その 話 を 聞いた となり の よくばり な おじいさん は、うらやましく なりました。\n「おれの ところ でも たから を ほりださせよう。」と 言って、むり に しろ を つれて 帰りました。\nしかし、となり の 庭 を ほっても、出て 来た の は われた おさら や きたない いし ばかり でした。\n\nおこった となり の おじいさん は しろ を ひどく たたいて、かわいそうに しろ は 死んで しまいました。\nやさしい おじいさん と おばあさん は 毎日 なきながら、庭 に しろ の おはか を 作りました。\nそして、「しろ、いつ まで も わすれない よ。」と 言って、そこ に 小さな まつ の 木 を うえました。",
+      "translationsFr": [
+        "En apprenant cette histoire, le vieux voisin cupide devint très envieux.",
+        "« Je vais lui faire déterrer un trésor chez moi aussi ! » dit-il en emmenant Shiro de force chez lui.",
+        "Mais lorsqu'il creusa dans son jardin, il ne sortit que de la vaisselle cassée et de sales cailloux.",
+        "",
+        "Furieux, le méchant voisin frappa durement Shiro, et le pauvre chien finit malheureusement par mourir.",
+        "Tout en pleurant chaque jour, le gentil couple fit une petite tombe pour Shiro dans son jardin.",
+        "Puis ils y plantèrent un jeune pin en disant : « Shiro, nous ne t'oublierons jamais. »"
+      ],
+      "translationsEn": [
+        "Hearing this story, the greedy old man living next door grew deeply envious.",
+        "\"I'll make him dig up treasure at my place too!\" he declared, dragging Shiro back to his yard.",
+        "Yet when he dug in his neighborly yard, nothing came out except broken dishes and dirty stones.",
+        "",
+        "Furious, the mean neighbor struck Shiro harshly, and sadly the poor dog passed away.",
+        "Weeping day after day, the kind old couple made a quiet grave for Shiro in their garden.",
+        "Saying, \"Shiro, we will never forget you,\" they planted a little pine sapling right beside it."
+      ]
+    },
+    {
+      "id": "chap-3",
+      "chapterNumber": 3,
+      "titleJa": "三：まつ の 木 の うす",
+      "titleFr": "Chapitre 3 : Le mortier taillé dans le pin",
+      "titleEn": "Chapter 3: The Mortar Carved from the Pine",
+      "summaryFr": "Le petit pin grandit à vue d'œil. Une nuit, Shiro apparaît en rêve et demande qu'on taille un mortier dans son tronc : à chaque coup de pilon, il verse de l'or !",
+      "summaryEn": "The pine sapling grows swiftly into a tall tree. Shiro appears in a dream asking them to carve a wooden mortar from it—and as they pound mochi, gold pours forth!",
+      "imageUrl": "images/hanasaka_mortar_1795248244041.jpg",
+      "text": "すると ふしぎ な こと に、まつ の 木 は みるみる 大きくなって、りっぱ な 木 に なりました。\nある 夜、おじいさん の ゆめ に しろ が あらわれて、言いました。\n「おじいさん、この 木 を きって うす を 作り、おもち を ついて ください。」\n\nおじいさん は さっそく まつ の 木 で 大きな うす を 作りました。\nそして おばあさん と いっしょに おもち を つき始める と、うす の 中 から また キラキラ した こばん や たからもの が あふれ出て 来ました。\n「ありがとう、しろ！ きみ は まだ わたしたち を 見て いて くれる ん だ ね。」",
+      "translationsFr": [
+        "Chose incroyable, le petit pin grandit à vue d'œil et devint un arbre magnifique.",
+        "Une nuit, Shiro apparut en rêve au vieil homme et lui dit :",
+        "« Grand-père, coupez cet arbre pour en faire un mortier et préparez-y des gâteaux de riz mochi. »",
+        "",
+        "Le vieil homme fabriqua aussitôt un grand mortier avec le bois du pin.",
+        "Et dès qu'il commença à piler le mochi avec sa femme, des pièces d'or étincelantes et des trésors jaillirent à nouveau du mortier !",
+        "« Merci, Shiro ! Tu continues encore à veiller sur nous ! »"
+      ],
+      "translationsEn": [
+        "Amazingly, the pine sapling grew rapidly before their eyes into a magnificent tall tree.",
+        "One night, Shiro appeared in the old man's dream and spoke:",
+        "\"Grandfather, please cut this tree to make a mortar and pound rice cakes inside it.\"",
+        "",
+        "Right away, the old man carved a large wooden mortar from the pine tree.",
+        "As he and his wife began pounding mochi together, gleaming gold coins and treasures overflowed from the mortar once more!",
+        "\"Thank you, Shiro! You are still watching over us, aren't you?\""
+      ]
+    },
+    {
+      "id": "chap-4",
+      "chapterNumber": 4,
+      "titleJa": "四：やきすてられた うす と はい",
+      "titleFr": "Chapitre 4 : Le mortier brûlé et les cendres précieuses",
+      "titleEn": "Chapter 4: The Burned Mortar and Precious Ashes",
+      "summaryFr": "Le voisin jaloux emprunte le mortier et, furieux de n'en tirer que des saletés, le brûle. Le gentil vieillard recueille les cendres, et Shiro lui souffle un nouveau secret.",
+      "summaryEn": "Borrowing the mortar and getting only rubbish, the furious neighbor burns it to ashes. The gentle old man gathers the ashes, and Shiro whispers one more magical secret in a dream.",
+      "imageUrl": "images/hanasaka_ashes_1795248245308.jpg",
+      "text": "それ を 知った となり の ふうふ は、また うす を かりて 行きました。\nでも、ふたり が つく と きたない ごみ ばかり 出る ので、おこって うす を 火 で やいて しまいました。\n\nかなしく なった やさしい おじいさん は、せめて はい だけ でも もらって 帰る こと に しました。\nその よる、また しろ が ゆめ の 中 で ささやきました。\n「おじいさん、その はい を かれた さくら の 木 に まいて ください。きっと きれい な 花 が さきます よ。」\nおじいさん は はい を かご に 大切 に 入れて、あさ を 待ちました。",
+      "translationsFr": [
+        "En apprenant cela, les voisins jaloux vinrent encore emprunter le mortier.",
+        "Mais lorsqu'ils se mirent à piler, il n'en sortit que de vilains déchets ; furieux, ils jetèrent le mortier au feu et le brûlèrent.",
+        "",
+        "Attristé, le gentil vieil homme décida au moins de rapporter les cendres à la maison.",
+        "Ce soir-là, Shiro murmura à nouveau dans son rêve :",
+        "« Grand-père, répandez ces cendres sur les cerisiers desséchés. De belles fleurs s'épanouiront sûrement ! »",
+        "Le vieil homme rangea précieusement les cendres dans un panier et attendit le matin."
+      ],
+      "translationsEn": [
+        "Learning of this, the greedy couple came to borrow the mortar as well.",
+        "Yet when they pounded it, only foul rubbish came out, so in anger they threw the mortar into the fire and burned it.",
+        "",
+        "Saddened, the kind old man decided to at least bring the remaining ashes home.",
+        "That night, Shiro whispered gently in his dream once more:",
+        "\"Grandfather, please scatter those ashes over the withered cherry trees. Lovely blossoms are sure to bloom!\"",
+        "The old man carefully placed the ashes into a woven basket and waited for dawn."
+      ]
+    },
+    {
+      "id": "chap-5",
+      "chapterNumber": 5,
+      "titleJa": "五：日本一 の 花さか じいさん",
+      "titleFr": "Chapitre 5 : Le meilleur faiseur de fleurs du Japon",
+      "titleEn": "Chapter 5: Japan's Greatest Flower-Blooming Old Man",
+      "summaryFr": "Grimpé sur un cerisier sec devant le cortège du seigneur, le vieil homme répand les cendres en chantant : des nuages de fleurs de cerisier éclosent et émerveillent tout le pays !",
+      "summaryEn": "Climbing a withered cherry tree as the feudal lord passes, the old man scatters the ashes in song—causing glorious clouds of pink sakura to bloom and delighting the entire land!",
+      "imageUrl": "images/hanasaka_cover_1795248243984.jpg",
+      "text": "次 の 日、おじいさん は かれた さくら の 木 に のぼり、大きな こえ で うたいながら はい を まきました。\n「かれ木 に 花 を さかせましょう！」\nすると、冬 の さむい 空 に パッと ピンク色 の さくら が まんかい に なりました。\n\nちょうど そこ を とおりかかった りっぱ な とのさま は、おおよろこび で いいました。\n「おお、みごと だ！ おまえ こそ 日本一 の 花さか じいさん だ！」\nとのさま は おじいさん に たくさん の ごほうび を くれました。\n\nあと から まね を した となり の おじいさん は、はい が とのさま の 目 に 入って しかられて しまいました。\nやさしい おじいさん と おばあさん は、さくら の 花 に かこまれて、いつ まで も しあわせ に くらしました。",
+      "translationsFr": [
+        "Le lendemain, le vieil homme grimpa sur un cerisier sec et répandit les cendres en chantant d'une voix forte :",
+        "« Faisons fleurir les arbres desséchés ! »",
+        "Aussitôt, dans le ciel froid d'hiver, des fleurs de cerisier roses s'épanouirent d'un coup en pleine floraison !",
+        "",
+        "Un noble seigneur qui passait justement par là s'exclama, ravi :",
+        "« Oh, quel spectacle splendide ! Tu es vraiment le meilleur faiseur de fleurs de tout le Japon ! »",
+        "Le seigneur remit au vieil homme de nombreuses et généreuses récompenses.",
+        "",
+        "Quant au voisin qui voulut l'imiter ensuite, les cendres volèrent dans les yeux du seigneur et il fut sévèrement réprimandé.",
+        "Le gentil vieil homme et sa femme vécurent heureux pour toujours, entourés de fleurs de cerisier."
+      ],
+      "translationsEn": [
+        "The next day, the old man climbed a leafless cherry tree and scattered the ashes while singing loudly:",
+        "\"Let us make the dead trees bloom with flowers!\"",
+        "Instantly, against the crisp winter sky, clouds of pink cherry blossoms burst into full bloom!",
+        "",
+        "A noble lord who happened to be passing by exclaimed with delight:",
+        "\"Oh, how magnificent! You truly are the greatest flower-blooming old man in all of Japan!\"",
+        "The lord presented the old man with abundant rewards.",
+        "",
+        "When the greedy neighbor tried to copy him afterward, the ashes blew straight into the lord's eyes and he was scolded.",
+        "Surrounded by cherry blossoms, the gentle old man and his wife lived happily ever after."
+      ]
+    }
+  ]
+}

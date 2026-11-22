@@ -1,0 +1,521 @@
+{
+  "id": "yokai-valley-rpg",
+  "format": "rpg-gamebook",
+  "titleJa": "きりの たにと かたなの 試し",
+  "titleFr": "La Vallée des Brumes et l'Épreuve du Sabreur",
+  "titleEn": "The Misty Valley & The Swordsman's Trial",
+  "level": "N3",
+  "author": "Nihongo Reader RPG",
+  "authorEn": "Nihongo Reader RPG",
+  "category": "Livre-Jeu de Rôle",
+  "categoryEn": "RPG Gamebook",
+  "tags": [
+    "Livre-Jeu de Rôle",
+    "RPG",
+    "N3",
+    "Fantastique",
+    "Combat"
+  ],
+  "tagsEn": [
+    "RPG Gamebook",
+    "RPG",
+    "N3",
+    "Fantasy",
+    "Combat"
+  ],
+  "synopsisFr": "Incarnez Kenta, un jeune voyageur explorant la mystérieuse Vallée des Brumes (JLPT N3) pour retrouver le sabre sacré. Gagnez de l'or, achetez ou trouvez de l'équipement, déjouez des pièges mortels aux jets de dés (1d20) et affrontez des yōkai au tour par tour tout en apprenant le japonais !",
+  "synopsisEn": "Play as Kenta, a young traveler venturing into the mysterious Misty Valley (JLPT N3) to reclaim a sacred katana. Earn gold, buy or discover gear, dodge deadly traps with d20 rolls, and battle yōkai in turn-based combat while practicing Japanese!",
+  "coverImage": "images/rpg_samurai_valley_cover_1794511159348.jpg",
+  "initialCharacter": {
+    "nameJa": "けんた（ケンタ）",
+    "nameFr": "Kenta le Sabreur",
+    "nameEn": "Kenta the Swordsman",
+    "classFr": "Rōnin Débutant",
+    "classEn": "Apprentice Rōnin",
+    "level": 1,
+    "baseMaxHp": 18,
+    "baseAc": 11,
+    "stats": {
+      "str": 14,
+      "dex": 13,
+      "con": 12,
+      "wis": 12
+    },
+    "startingGold": 45,
+    "startingEquipment": [
+      {
+        "id": "bokken",
+        "nameJa": "木の かたな",
+        "nameFr": "Sabre en bois (Bokken)",
+        "nameEn": "Wooden Bokken",
+        "slot": "weapon",
+        "descriptionFr": "Un sabre d'entraînement solide (+1 Attaque, 1d6 dégâts).",
+        "descriptionEn": "A sturdy wooden training sword (+1 Attack, 1d6 damage).",
+        "attackBonus": 1,
+        "damageDice": "1d6",
+        "valueGold": 15
+      },
+      {
+        "id": "cloth_haori",
+        "nameJa": "旅の 着物",
+        "nameFr": "Haori de voyage renforcé",
+        "nameEn": "Reinforced Traveler Coat",
+        "slot": "armor",
+        "descriptionFr": "Veste traditionnelle doublée de cuir souple (+2 CA).",
+        "descriptionEn": "Traditional coat lined with supple leather (+2 AC).",
+        "acBonus": 2,
+        "valueGold": 20
+      },
+      {
+        "id": "plum_onigiri",
+        "nameJa": "おいしい ご飯",
+        "nameFr": "Boule de riz nourrissante",
+        "nameEn": "Nourishing Rice Meal",
+        "slot": "consumable",
+        "descriptionFr": "Riz nourrissant qui restaure 1d8+2 PV.",
+        "descriptionEn": "Nourishing rice that restores 1d8+2 HP.",
+        "healDice": "1d8+2",
+        "quantity": 2,
+        "valueGold": 10
+      }
+    ]
+  },
+  "startChapterId": "node_torii",
+  "chapters": {
+    "node_torii": {
+      "id": "node_torii",
+      "chapterNumber": 1,
+      "titleJa": "一：きりの とりいと 古い 道",
+      "titleFr": "Chapitre 1 : Le Torii Brumeux et l'Ancien Sentier",
+      "titleEn": "Chapter 1: The Misty Torii and the Old Path",
+      "imageUrl": "images/rpg_samurai_valley_cover_1794511159348.jpg",
+      "text": "朝早く、あなたは 深い きりに つつまれた 山の 道の 入口に 着きました。\n赤い とりいの 前には、古い 石の 明かりと 二つの 道が あります。\nむらの 人の 話では、この たにの おくに ある 神社に すごい かたなが 眠って います。\nしかし、道には 危険な わなや 恐ろしい おにが いるそうです。\n右の 道は あたたかい 明かりが 見える 小さな 家へ 続いて います。\n左の 道は 静かで 古い たけの はやしの 建物へ 続いて います。",
+      "translationsFr": [
+        "Tôt le matin, vous arrivez à l'entrée d'un sentier de montagne enveloppé d'une brume épaisse.",
+        "Devant le torii rouge se trouvent une vieille lanterne de pierre et deux chemins.",
+        "Selon les villageois, un sabre extraordinaire repose dans le sanctuaire au fond de cette vallée.",
+        "Cependant, il paraît que la route cache des pièges dangereux et un terrible oni.",
+        "Le chemin de droite mène à une petite maison où brille une douce lumière.",
+        "Le chemin de gauche s'enfonce vers de vieux bâtiments silencieux dans un bois de bambous."
+      ],
+      "translationsEn": [
+        "Early in the morning, you arrive at the entrance of a mountain trail wrapped in thick mist.",
+        "In front of the red torii gate stand an old stone light and two paths.",
+        "According to the villagers, an extraordinary sword slumbers inside the shrine deep within this valley.",
+        "However, dangerous traps and a fearsome oni are said to lurk along the way.",
+        "The right path leads to a small house glowing with a warm light.",
+        "The left path continues toward quiet old buildings inside a bamboo grove."
+      ],
+      "choices": [
+        {
+          "id": "choice_go_hut",
+          "textJa": "右の 山の 家に 入って、旅の 用意を する",
+          "textFr": "Aller vers la cabane à droite pour préparer votre équipement",
+          "textEn": "Head to the mountain house on the right to prepare for your journey",
+          "targetChapterId": "node_hut",
+          "hintFr": "Rencontre avec un marchand utile",
+          "hintEn": "Visit a helpful merchant"
+        },
+        {
+          "id": "choice_inspect_lantern",
+          "textJa": "古い 石の 明かりの 文字を よく 調べる",
+          "textFr": "Examiner attentivement les inscriptions sur la vieille lanterne",
+          "textEn": "Carefully inspect the characters on the old stone light",
+          "targetChapterId": "node_secret_cache",
+          "hintFr": "Peut révéler un trésor caché",
+          "hintEn": "Might reveal a hidden treasure",
+          "skillCheck": {
+            "stat": "wis",
+            "dc": 11,
+            "labelFr": "Déchiffrer les anciens caractères",
+            "labelEn": "Decipher the ancient characters",
+            "failureChapterId": "node_bamboo_ruins",
+            "failureDamageDice": "1d4"
+          }
+        },
+        {
+          "id": "choice_go_bamboo",
+          "textJa": "左の たけの はやしへ まっすぐ 進む",
+          "textFr": "Avancer directement vers le bois de bambous à gauche",
+          "textEn": "Walk straight toward the bamboo grove on the left",
+          "targetChapterId": "node_bamboo_ruins",
+          "hintFr": "Raccourci risqué",
+          "hintEn": "Risky shortcut"
+        }
+      ]
+    },
+    "node_secret_cache": {
+      "id": "node_secret_cache",
+      "chapterNumber": 2,
+      "titleJa": "二：かくされた 石の 箱",
+      "titleFr": "Chapitre 2 : Le Coffre de Pierre Dissimulé",
+      "titleEn": "Chapter 2: The Hidden Stone Chest",
+      "text": "石の 明かりの 後ろに 小さな ボタンを 見つけました！\nそっと 押すと、石の 下から 古い 箱が 現れました。\n中には お金と、風の 力が ある 美しい 石が 入って いました。\nこれで 次の 戦いの ために 少し 安心できます。",
+      "translationsFr": [
+        "Vous découvrez un petit bouton derrière la lanterne de pierre !",
+        "En appuyant doucement dessus, un vieux coffret surgit sous la pierre.",
+        "À l'intérieur reposent de l'or ainsi qu'une belle pierre dotée de la force du vent.",
+        "Vous vous sentez désormais un peu plus serein pour le combat à venir."
+      ],
+      "translationsEn": [
+        "You discover a small button behind the stone light!",
+        "Pressing it gently causes an old box to emerge from beneath the stone.",
+        "Inside lie gold coins and a beautiful stone imbued with the power of the wind.",
+        "With this, you feel much more at ease for the upcoming battle."
+      ],
+      "rewards": {
+        "xp": 40,
+        "gold": 30,
+        "items": [
+          {
+            "id": "wind_omamori",
+            "nameJa": "風の 石",
+            "nameFr": "Amulette du Vent",
+            "nameEn": "Wind Stone Charm",
+            "slot": "accessory",
+            "descriptionFr": "Talisman béni (+1 DEX, +1 CA).",
+            "descriptionEn": "Blessed talisman (+1 DEX, +1 AC).",
+            "acBonus": 1,
+            "statBonuses": {
+              "dex": 1
+            },
+            "valueGold": 35
+          }
+        ]
+      },
+      "choices": [
+        {
+          "id": "choice_cache_to_hut",
+          "textJa": "お金を 持って 山の 店へ 行く",
+          "textFr": "Emporter l'or et rejoindre la boutique de montagne",
+          "textEn": "Take the gold and head to the mountain shop",
+          "targetChapterId": "node_hut"
+        },
+        {
+          "id": "choice_cache_to_bamboo",
+          "textJa": "風の 石を 持って たけの はやしへ 進む",
+          "textFr": "Garder la pierre du vent et avancer vers le bois de bambous",
+          "textEn": "Take the wind stone and proceed into the bamboo grove",
+          "targetChapterId": "node_bamboo_ruins"
+        }
+      ]
+    },
+    "node_hut": {
+      "id": "node_hut",
+      "chapterNumber": 3,
+      "titleJa": "三：山の 店の 親切な 商人",
+      "titleFr": "Chapitre 3 : Le Marchand Bienveillant",
+      "titleEn": "Chapter 3: The Kindly Mountain Merchant",
+      "text": "小さな 山の 店に 入ると、優しい おじいさんが あたたかい お茶を いれて いました。\n「いらっしゃい、若い 旅の 人。これから たにの おくへ 行くのかい？」\nつくえの 上には するどい てつの かたなと、元気に なる 薬が ならんで います。\n「おには とても 強いから、いい 道具を 持って 行くといいよ。」",
+      "translationsFr": [
+        "En entrant dans la petite boutique de montagne, un aimable vieil homme prépare du thé chaud.",
+        "« Bienvenue, jeune voyageur. Vas-tu donc t'aventurer au fond de la vallée ? »",
+        "Sur la table sont alignés un katana de fer tranchant et un remède qui redonne des forces.",
+        "« L'Oni est très fort, tu devrais emporter du bon matériel avec toi. »"
+      ],
+      "translationsEn": [
+        "Stepping into the small mountain shop, a gentle old man is brewing warm green tea.",
+        "\"Welcome, young traveler. Are you heading deep into the valley?\"",
+        "Laid out on the desk are a sharp iron katana and restorative medicine.",
+        "\"The Oni is very strong—it would be wise to take good gear with you.\""
+      ],
+      "choices": [
+        {
+          "id": "choice_buy_katana",
+          "textJa": "「てつの かたなが ほしいです」（35G）",
+          "textFr": "Acheter le Katana d'Acier Trempé (35 Or)",
+          "textEn": "Buy the Tempered Iron Katana (35 Gold)",
+          "targetChapterId": "",
+          "stayOnChapter": true,
+          "costGold": 35,
+          "hintFr": "Arme puissante (+2 Attaque, 1d8+1)",
+          "hintEn": "Strong weapon (+2 Attack, 1d8+1)",
+          "grantItems": [
+            {
+              "id": "iron_katana",
+              "nameJa": "てつの かたな",
+              "nameFr": "Katana d'Acier Trempé",
+              "nameEn": "Tempered Iron Katana",
+              "slot": "weapon",
+              "descriptionFr": "Lame forgée avec soin (+2 Attaque, 1d8+1 dégâts).",
+              "descriptionEn": "Carefully forged blade (+2 Attack, 1d8+1 damage).",
+              "attackBonus": 2,
+              "damageDice": "1d8+1",
+              "valueGold": 60
+            }
+          ]
+        },
+        {
+          "id": "choice_buy_elixir",
+          "textJa": "「お茶の 薬を 二つ ください」（20G）",
+          "textFr": "Acheter deux Élixirs au Thé (20 Or)",
+          "textEn": "Buy two Healing Tea Elixirs (20 Gold)",
+          "targetChapterId": "",
+          "stayOnChapter": true,
+          "costGold": 20,
+          "hintFr": "2x Soins puissants (2d6+2 PV)",
+          "hintEn": "2x Strong Healing (2d6+2 HP)",
+          "grantItems": [
+            {
+              "id": "matcha_elixir",
+              "nameJa": "お茶の 薬",
+              "nameFr": "Élixir au Thé Médicinal",
+              "nameEn": "Medicinal Tea Elixir",
+              "slot": "consumable",
+              "descriptionFr": "Boisson médicinale rare qui rend 2d6+2 PV.",
+              "descriptionEn": "Rare medicinal brew restoring 2d6+2 HP.",
+              "healDice": "2d6+2",
+              "quantity": 2,
+              "valueGold": 15
+            }
+          ]
+        },
+        {
+          "id": "choice_leave_hut",
+          "textJa": "お礼を 言って、たけの はやしへ 出発する",
+          "textFr": "Remercier le marchand et partir vers le bois de bambous",
+          "textEn": "Thank the merchant and head toward the bamboo grove",
+          "targetChapterId": "node_bamboo_ruins",
+          "hintFr": "Suite vers le Chapitre 4 (Ruines de bambou)",
+          "hintEn": "Continue to Chapter 4 (Bamboo Ruins)"
+        },
+        {
+          "id": "choice_hut_to_spring",
+          "textJa": "山の ほそい 道を 歩いて、きれいな いずみへ 向かう",
+          "textFr": "Prendre l'étroit sentier de montagne vers la source claire",
+          "textEn": "Take the narrow mountain path toward the clear spring",
+          "targetChapterId": "node_spring",
+          "hintFr": "Accès direct au Chapitre 5 (Source claire)",
+          "hintEn": "Direct path to Chapter 5 (Clear Spring)"
+        }
+      ]
+    },
+    "node_bamboo_ruins": {
+      "id": "node_bamboo_ruins",
+      "chapterNumber": 4,
+      "titleJa": "四：たけの 古い 建物と わな",
+      "titleFr": "Chapitre 4 : Les Ruines de Bambou et le Piège",
+      "titleEn": "Chapter 4: The Bamboo Ruins & Ancient Trap",
+      "imageUrl": "images/rpg_bamboo_ruins_trap_1794511159745.jpg",
+      "text": "高い たけが 空を かくす 古い 建物に 入りました。\n突然、あしの 下の 石が 小さな 音を 立てました！\nかべの あなから するどい たけが 急に 飛び出して きます。\nはやく 体を 動かして、危険を さけなければ なりません！",
+      "translationsFr": [
+        "Vous pénétrez dans de vieux bâtiments où de grands bambous cachent le ciel.",
+        "Soudain, une pierre sous votre pied émet un petit son inquiétant !",
+        "Des bambous acérés jaillissent brusquement d'ouvertures dans le mur.",
+        "Vous devez bouger vite pour éviter le danger !"
+      ],
+      "translationsEn": [
+        "You step into old buildings where tall bamboo hides the sky.",
+        "Suddenly, a stone beneath your foot makes a sharp sound!",
+        "Sharp bamboo spears burst out suddenly from holes in the wall.",
+        "You must move quickly to avoid the danger!"
+      ],
+      "trap": {
+        "id": "trap_bamboo_arrows",
+        "nameJa": "かべの 危険な わな",
+        "nameFr": "Piège dangereux du mur",
+        "nameEn": "Dangerous Wall Trap",
+        "stat": "dex",
+        "dc": 12,
+        "damageDice": "1d6",
+        "successTextFr": "D'un bond agile sur le côté, vous évitez tous les projectiles qui se plantent dans la pierre !",
+        "successTextEn": "With an agile sidestep, you dodge every projectile as they clatter harmlessly against the stone!",
+        "failureTextFr": "Un éclat de bambou vous érafle l'épaule avant que vous ne puissiez vous baisser.",
+        "failureTextEn": "A bamboo shaft grazes your shoulder before you manage to duck for cover."
+      },
+      "rewards": {
+        "xp": 35,
+        "gold": 15
+      },
+      "choices": [
+        {
+          "id": "choice_ruins_to_spring",
+          "textJa": "もりの きれいな いずみへ 歩いて 休む",
+          "textFr": "Marcher vers la source claire de la forêt pour vous reposer",
+          "textEn": "Walk toward the clear forest spring to catch your breath",
+          "targetChapterId": "node_spring"
+        },
+        {
+          "id": "choice_ruins_to_bridge",
+          "textJa": "急いで 赤い おにが 待つ 赤い はしへ 向かう",
+          "textFr": "Foncer directement vers le pont rouge où attend l'Oni",
+          "textEn": "Rush straight toward the red bridge where the Oni waits",
+          "targetChapterId": "node_oni_bridge"
+        }
+      ]
+    },
+    "node_spring": {
+      "id": "node_spring",
+      "chapterNumber": 5,
+      "titleJa": "五：きれいな いずみと 悪い たぬき",
+      "titleFr": "Chapitre 5 : La Source Claire et le Tanuki Brigand",
+      "titleEn": "Chapter 5: The Clear Spring & Wicked Tanuki",
+      "text": "もりの おくで、冷たくて きれいな 水が 出る いずみを 見つけました。\n水を 飲もうと した 時、木の 後ろから 大きな たぬきが 飛び出しました！\n「待て！ここは ぼくの いずみだぞ！お金を 置いて いけ！」\n悪い たぬきが 木の ぼうを 持って 向かって きます。",
+      "translationsFr": [
+        "Au cœur de la forêt, vous découvrez une source limpide d'eau fraîche.",
+        "Au moment où vous voulez boire, un gros tanuki surgit de derrière un arbre !",
+        "« Halte ! C'est ma source ici ! Laisse ton or et file ! »",
+        "Le méchant tanuki brandit son gourdin de bois et fonce sur vous."
+      ],
+      "translationsEn": [
+        "Deep in the forest, you find a clear spring bubbling with cold water.",
+        "Just as you lean down to drink, a large tanuki leaps out from behind a tree!",
+        "\"Hold it! This is my spring! Leave your gold and get out!\"",
+        "The wicked tanuki raises a wooden club and charges toward you."
+      ],
+      "enemy": {
+        "id": "enemy_tanuki",
+        "nameJa": "悪い たぬき",
+        "nameFr": "Tanuki Brigand",
+        "nameEn": "Wicked Tanuki",
+        "level": 1,
+        "maxHp": 13,
+        "ac": 11,
+        "attackBonus": 3,
+        "damageDice": "1d6",
+        "xpReward": 65,
+        "goldReward": 25,
+        "fleeDc": 10,
+        "fleeTargetChapterId": "node_bamboo_ruins",
+        "descriptionFr": "Un esprit farceur mais vif armé d'un lourd bâton.",
+        "descriptionEn": "A nimble, mischievous trickster armed with a heavy club.",
+        "lootItems": [
+          {
+            "id": "forest_talisman",
+            "nameJa": "もりの 石",
+            "nameFr": "Talisman d'Écorce Sacrée",
+            "nameEn": "Sacred Forest Treasure",
+            "slot": "accessory",
+            "descriptionFr": "Protège le porteur (+1 CA, +1 CON).",
+            "descriptionEn": "Protects the wearer (+1 AC, +1 CON).",
+            "acBonus": 1,
+            "statBonuses": {
+              "con": 1
+            },
+            "valueGold": 30
+          }
+        ]
+      },
+      "rewards": {
+        "healHp": 5
+      },
+      "choices": [
+        {
+          "id": "choice_spring_to_bridge",
+          "textJa": "いずみの 水で きずを なおして、赤い はしへ 向かう",
+          "textFr": "Soigner vos blessures avec l'eau de la source (+5 PV) et marcher vers le pont rouge",
+          "textEn": "Heal your wounds with the spring water (+5 HP) and head to the red bridge",
+          "targetChapterId": "node_oni_bridge"
+        }
+      ]
+    },
+    "node_oni_bridge": {
+      "id": "node_oni_bridge",
+      "chapterNumber": 6,
+      "titleJa": "六：赤い はしと 強い 赤い おに",
+      "titleFr": "Chapitre 6 : Le Pont Rouge et le Gardien Oni",
+      "titleEn": "Chapter 6: The Red Bridge & The Strong Red Oni",
+      "imageUrl": "images/rpg_oni_guardian_1794511160073.jpg",
+      "text": "きりの 向こうに、川を 渡る 美しい 赤い はしが 現れました。\nはしの まんなかには、大きな てつの ぼうを 持った 赤い おにが 立って います。\n「よく ここまで 来たな、若い 人よ。しかし、ここから 先は 通さない！」\n赤い おにの 目が 赤く 光り、はげしい 戦いが 始まろうと して います！",
+      "translationsFr": [
+        "Au-delà de la brume apparaît un magnifique pont rouge enjambant la rivière.",
+        "Au milieu du pont se dresse un redoutable Oni rouge armé d'une immense massue de fer.",
+        "« Bravo d'être arrivé jusqu'ici, jeune guerrier. Mais nul ne passe au-delà ! »",
+        "Les yeux de l'Oni s'illuminent en rouge alors qu'un combat acharné est sur le point de commencer !"
+      ],
+      "translationsEn": [
+        "Beyond the mist appears a beautiful red bridge crossing the river.",
+        "Standing in the middle of the bridge is a Red Oni holding a giant iron club.",
+        "\"Well done making it this far, young traveler. Yet I will not let you pass beyond here!\"",
+        "The Red Oni's eyes glow crimson as a fierce battle is about to begin!"
+      ],
+      "enemy": {
+        "id": "enemy_crimson_oni",
+        "nameJa": "強い 赤い おに",
+        "nameFr": "Gardien Oni Écarlate",
+        "nameEn": "Strong Red Oni",
+        "level": 2,
+        "maxHp": 22,
+        "ac": 13,
+        "attackBonus": 4,
+        "damageDice": "1d8+1",
+        "xpReward": 120,
+        "goldReward": 50,
+        "fleeDc": 14,
+        "fleeTargetChapterId": "node_spring",
+        "descriptionFr": "Colosse ancestral gardant l'accès au sanctuaire sacré.",
+        "descriptionEn": "Ancient colossus guarding the path to the sacred shrine.",
+        "lootItems": [
+          {
+            "id": "oni_horn_seal",
+            "nameJa": "おにの 強い 力",
+            "nameFr": "Sceau de Force d'Oni",
+            "nameEn": "Oni Strength Seal",
+            "slot": "accessory",
+            "descriptionFr": "Confère une puissance guerrière (+2 FOR).",
+            "descriptionEn": "Grants fierce warrior strength (+2 STR).",
+            "statBonuses": {
+              "str": 2
+            },
+            "valueGold": 80
+          }
+        ]
+      },
+      "choices": [
+        {
+          "id": "choice_enter_shrine",
+          "textJa": "はしを 渡って、神社の とを 開く",
+          "textFr": "Traverser le pont victorieusement et ouvrir la porte du sanctuaire",
+          "textEn": "Cross the bridge in triumph and open the shrine door",
+          "targetChapterId": "node_sacred_shrine"
+        }
+      ]
+    },
+    "node_sacred_shrine": {
+      "id": "node_sacred_shrine",
+      "chapterNumber": 7,
+      "titleJa": "おわり：光の 神社と すごい かたな",
+      "titleFr": "Chapitre Final : Le Sanctuaire de Lumière et le Sabre Sacré",
+      "titleEn": "Final Chapter: The Sunlit Shrine & Sacred Katana",
+      "imageUrl": "images/rpg_sacred_katana_shrine_1794511160490.jpg",
+      "text": "赤い おにを 倒した あと、深い きりは 静かに 晴れて いきました。\n美しい 光が 入る 神社の まんなかに、すごい かたなが かがやいて います。\nあなたは お礼の 気持ちで、その かたなに さわりました。あたたかい 力が 体に 広がります。\nそして、若い けんたの ぼうけんは 見事な 勝ちで 終わりました！",
+      "translationsFr": [
+        "Après avoir vaincu l'Oni rouge, la brume épaisse se dissipe paisiblement.",
+        "Au centre du sanctuaire où pénètre une magnifique lumière brille un sabre prodigieux.",
+        "Avec un sentiment de gratitude, vous touchez ce sabre et sentez une force chaleureuse se répandre dans votre corps.",
+        "C'est ainsi que l'aventure du jeune Kenta s'achève par une brillante victoire !"
+      ],
+      "translationsEn": [
+        "After defeating the Red Oni, the deep mist quietly clears away.",
+        "At the center of the shrine bathed in beautiful light gleams an extraordinary sword.",
+        "With a feeling of gratitude, you touch the sword and feel a warm power spread through your body.",
+        "And thus, young Kenta's adventure ended in a splendid victory!"
+      ],
+      "rewards": {
+        "xp": 100,
+        "gold": 100,
+        "items": [
+          {
+            "id": "sacred_katana",
+            "nameJa": "光る 神の かたな",
+            "nameFr": "Sabre Sacré de la Vallée",
+            "nameEn": "Shining Sacred Katana",
+            "slot": "weapon",
+            "descriptionFr": "Arme légendaire (+4 Attaque, 1d10+2 dégâts).",
+            "descriptionEn": "Legendary weapon (+4 Attack, 1d10+2 damage).",
+            "attackBonus": 4,
+            "damageDice": "1d10+2",
+            "valueGold": 300
+          }
+        ]
+      },
+      "choices": [],
+      "isEnding": true,
+      "endingType": "victory",
+      "endingBadgeFr": "Triomphe du Sabreur",
+      "endingBadgeEn": "Swordsman's Triumph",
+      "endingSummaryFr": "Félicitations ! Vous avez surmonté les pièges, géré votre équipement et vaincu le Gardien Oni pour conquérir le Sabre Sacré.",
+      "endingSummaryEn": "Congratulations! You survived the traps, mastered your gear, and defeated the Oni Guardian to claim the Sacred Katana."
+    }
+  }
+}

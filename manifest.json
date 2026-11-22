@@ -1,0 +1,1840 @@
+{
+  "version": 1795382297398,
+  "generatedAt": "2026-11-22T21:18:17.398Z",
+  "texts": [
+    {
+      "id": "asking-directions",
+      "titleJa": "えき は どこ ですか（みち を きく）",
+      "titleFr": "Demander son chemin : Trouver la gare et s'orienter",
+      "titleEn": "Asking for Directions: Finding the Station",
+      "level": "N5",
+      "author": "Nihongo Reader Débutant",
+      "authorEn": "Nihongo Reader Beginner",
+      "category": "Mises en situation",
+      "categoryEn": "Real-Life Situations",
+      "tags": [
+        "Mises en situation",
+        "Orientation",
+        "N5",
+        "Débutant",
+        "Voyage"
+      ],
+      "tagsEn": [
+        "Real-Life Situations",
+        "Directions",
+        "N5",
+        "Beginner",
+        "Travel"
+      ],
+      "descriptionFr": "Une situation essentielle au quotidien et en voyage : interpeller poliment un passant, demander où se trouve la gare (Doko desu ka) et comprendre les directions simples en niveau N5 strict.",
+      "descriptionEn": "An essential everyday and travel scenario: politely asking a passerby where the station is (Doko desu ka) and following simple directions using strict JLPT N5 kanji and vocabulary.",
+      "imageUrl": "images/tokyo_station_directions_1794688736254.jpg",
+      "text": "トム：あのう、すみません。ちょっと きいて も いい ですか。\n\n女の人：はい、何 ですか。\n\nトム：みち が わかりません。電車の えき は どこ に あります か。\n\n女の人：ああ、電車の えき ですね。ここ から あるいて 五ふん ぐらい ですよ。\n\nトム：ほんとう ですか！どう やって 行きます か。\n\n女の人：この みち を まっすぐ あるいて ください。おおきい こうえん が あります。\n\nトム：はい、まっすぐ ですね。\n\n女の人：こうえん の かど に おみせ が あります。その かど を 右 へ 行って ください。\n\nトム：おみせ の かど を 右 ですね。\n\n女の人：はい。右 へ 行くと、左 に あおい たてもの が あります。そこ が えき です。\n\nトム：よく わかりました。どうも ありがとう ございます！\n\n女の人：いいえ。おげんき で！",
+      "preview": "トム：あのう、すみません。ちょっと きいて も いい ですか。\n\n女の人：はい、何 ですか。\n\nトム：みち が わかりません。電車の えき は どこ に あります か。\n\n女の人：ああ、電車の えき ですね。ここ から あるいて 五ふん ぐらい ですよ。\n\nトム：ほんとう ですか",
+      "charCount": 300,
+      "updatedAt": 1795382295689
+    },
+    {
+      "id": "daily-intro",
+      "titleJa": "わたし の 毎日 と 日本 へ の やすみ",
+      "titleFr": "Ma routine quotidienne et vacances au Japon",
+      "titleEn": "My Daily Routine and Vacation Plans in Japan",
+      "level": "N5",
+      "author": "Nihongo Reader Débutant",
+      "authorEn": "Nihongo Reader Beginner",
+      "category": "Vie quotidienne",
+      "categoryEn": "Daily Life",
+      "tags": [
+        "Vie quotidienne",
+        "Présentation",
+        "N5",
+        "Débutant",
+        "Voyage"
+      ],
+      "tagsEn": [
+        "Daily Life",
+        "Self-Introduction",
+        "N5",
+        "Beginner",
+        "Travel"
+      ],
+      "descriptionFr": "Vocabulaire simple du quotidien, présentation et projets de vacances au Japon, 100 % conforme au niveau JLPT N5.",
+      "descriptionEn": "Simple everyday vocabulary, self-introduction, and travel plans for Japan, strictly aligned with JLPT N5 kanji and vocabulary.",
+      "imageUrl": "images/tokyo_street_cover_1794688717643.jpg",
+      "text": "はじめまして！わたし の 名前 は トマ です。フランス の パリ に すんで います。\n\nわたし は 毎日 あさ 七じ に おきます。あさ ごはん を 食べた 後で、あたたかい こうちゃ を のみます。\nそして、毎日 一じかん、日本語 を べんきょう します。かんじ を 読む の は すこし むずかしい です が、とても おもしろい です。\n\n来年 の 五月 に、友だち と いっしょに とうきょう と きょうと へ 行きます。\nおいしい すし や カレー を たくさん 食べて、ふるい たてもの や こうえん を たくさん 見たい です。\n\n日本 の 人 と たのしく 話せる よう に、今 から たくさん 本 を 読みます！",
+      "preview": "はじめまして！わたし の 名前 は トマ です。フランス の パリ に すんで います。\n\nわたし は 毎日 あさ 七じ に おきます。あさ ごはん を 食べた 後で、あたたかい こうちゃ を のみます。\nそして、毎日 一じかん、日本語 を べんきょう します。かんじ を 読む ",
+      "charCount": 236,
+      "updatedAt": 1795382295694
+    },
+    {
+      "id": "emma-onsen-rules",
+      "titleJa": "エマ の おんせん の ルール",
+      "titleFr": "Emma aux bains thermaux : Les règles de l'onsen",
+      "titleEn": "Emma at the Hot Springs: Onsen Rules and Etiquette",
+      "level": "N4",
+      "author": "Nihongo Reader Culture",
+      "authorEn": "Nihongo Reader Culture",
+      "category": "Culture & Société",
+      "categoryEn": "Culture & Society",
+      "tags": [
+        "Culture & Société",
+        "Voyage",
+        "N4",
+        "Vie quotidienne",
+        "Éducation"
+      ],
+      "tagsEn": [
+        "Culture & Society",
+        "Travel",
+        "N4",
+        "Daily Life",
+        "Education"
+      ],
+      "descriptionFr": "Lors d'un séjour en auberge traditionnelle (ryokan) pendant les vacances d'hiver, Emma apprend les règles essentielles pour profiter d'un bain thermal japonais (onsen) en niveau JLPT N4.",
+      "descriptionEn": "During a winter break trip to a traditional Japanese inn (ryokan), Emma learns the essential etiquette for enjoying a Japanese hot spring bath (onsen) at JLPT N4 level.",
+      "imageUrl": "images/ryokan_hotel_checkin_n4_1794867091875.jpg",
+      "text": "冬 の やすみ に、エマ は ゆみ と いっしょに、山 の 中 の 古い 旅館 へ 旅行 に 行きました。\n旅館 に つくと、きれいな へや が ありました。\n「エマ さん、夜 の ごはん の まえ に、あたたかい おんせん に 入りませんか。」と ゆみ が 言いました。\n\nエマ は はじめて の おんせん でした から、ゆみ に 大切 な こと を ききました。\n「おふろ に 入る まえ に、ふく を ぜんぶ ぬぎます。おふろ の 中 では、ふく を きません。」\n「それから、おゆ に 入る まえ に、かならず 体 を よく あらって ください。せっけん も きれい に あらって おきます。」\n\n「ながい かみ は どう します か。」と エマ が しつもん しました。\n「おゆ に かみ が 入らない ように、うえ に あげて おく と いいですよ。ちいさな ハンカチ も おゆ の 中 に いれません。」\nおふろ の 中 では、およいだり、はしったり、大きな 音 を 出したり して は いけません。みんな が あんしん して やすむ ため です。\n\nエマ は ルール を よく きいて、しずかに あつい おふろ に 入りました。\n体 が あたたかく なって、とても いい 気持ち に なりました。\nおふろ を 出た あと は、つめたい 水 を しっかり 飲んで、へや で おいしい ごはん を たのしく 食べました。",
+      "preview": "冬 の やすみ に、エマ は ゆみ と いっしょに、山 の 中 の 古い 旅館 へ 旅行 に 行きました。\n旅館 に つくと、きれいな へや が ありました。\n「エマ さん、夜 の ごはん の まえ に、あたたかい おんせん に 入りませんか。」と ゆみ が 言いました。\n\nエマ",
+      "charCount": 460,
+      "updatedAt": 1795382295700
+    },
+    {
+      "id": "emma-shrine-temple",
+      "titleJa": "エマ の じんじゃ と てら",
+      "titleFr": "Emma au sanctuaire et au temple : Gestes et coutumes",
+      "titleEn": "Emma at Shrines and Temples: Etiquette and Customs",
+      "level": "N4",
+      "author": "Nihongo Reader Culture",
+      "authorEn": "Nihongo Reader Culture",
+      "category": "Culture & Société",
+      "categoryEn": "Culture & Society",
+      "tags": [
+        "Culture & Société",
+        "Traditions",
+        "N4",
+        "Voyage",
+        "Éducation"
+      ],
+      "tagsEn": [
+        "Culture & Society",
+        "Traditions",
+        "N4",
+        "Travel",
+        "Education"
+      ],
+      "descriptionFr": "Emma découvre les différences entre un sanctuaire shintō (jinja) et un temple bouddhiste (tera) avec son amie Yumi : s'incliner devant le portail, se purifier les mains et prier avec respect (JLPT N4).",
+      "descriptionEn": "Emma learns the differences between a Shinto shrine (jinja) and a Buddhist temple (tera) with her friend Yumi: bowing at the gate, purifying her hands, and praying respectfully (JLPT N4).",
+      "imageUrl": "images/gamebook_shrine_cover_1793565592568.jpg",
+      "text": "秋 の よく はれた 日曜日、エマ は 日本 の 古い 建物 や れきし を もっと 知る ために、友だち の ゆみ と じんじゃ や てら へ 行きました。\n\nまず、山 の ちかく に ある 古い じんじゃ に つきました。\nまえ には 大きな 赤い もん が あります。\n「エマ さん、ここ を とおる まえ に、かるく あたま を さげましょう。」と ゆみ が 教えました。\n中 へ 入ると、つめたい 水 が 出る ところ が ありました。\n二人は まず 左 の 手、つぎ に 右 の 手 を あらって、口 も きれいに しました。\n\nながい みち を 歩いて、建物 の 前 に つきました。\n「じんじゃ では、二度 あたま を さげて、しずかに いのります。」\nエマ は ゆみ と おなじ ように して、ていねいに いのりました。\n\n午後 には、町 の 中 の しずかな てら も 見 に 行きました。\nりっぱな 古い 建物 と うつくしい にわ が あり、いけ の 中 を 魚 が およいで いました。\n二人は りょうほう の 手 を いっしょに して、しずかに いのりました。\nエマ は きれいな にわ で 写真 を とって、日本 の よい ところ を たくさん 知りました。",
+      "preview": "秋 の よく はれた 日曜日、エマ は 日本 の 古い 建物 や れきし を もっと 知る ために、友だち の ゆみ と じんじゃ や てら へ 行きました。\n\nまず、山 の ちかく に ある 古い じんじゃ に つきました。\nまえ には 大きな 赤い もん が あります。\n「エ",
+      "charCount": 397,
+      "updatedAt": 1795382295707
+    },
+    {
+      "id": "emma-station-train",
+      "titleJa": "エマ の えき と 電車",
+      "titleFr": "Emma à la gare : Prendre le train et acheter un billet",
+      "titleEn": "Emma at the Station: Buying a Ticket and Riding the Train",
+      "level": "N5",
+      "author": "Nihongo Reader Débutant",
+      "authorEn": "Nihongo Reader Beginner",
+      "category": "Mises en situation",
+      "categoryEn": "Real-Life Situations",
+      "tags": [
+        "Mises en situation",
+        "Transports",
+        "N5",
+        "Débutant",
+        "Vie quotidienne"
+      ],
+      "tagsEn": [
+        "Real-Life Situations",
+        "Transport",
+        "N5",
+        "Beginner",
+        "Daily Life"
+      ],
+      "descriptionFr": "Suivez Emma à la gare japonaise en niveau JLPT N5 strict : acheter un billet, trouver son quai, prendre le train dans le calme, céder sa place et sortir par la bonne sortie.",
+      "descriptionEn": "Follow Emma at a Japanese train station at strict JLPT N5 level: buying a ticket, finding the right platform, riding quietly, offering a seat, and taking the right exit.",
+      "imageUrl": "images/tokyo_station_directions_1794688736254.jpg",
+      "text": "きょう は やすみ です。エマ は 友だち の ゆみ と いっしょに、電車 で まち へ 出かけます。\n\nあさ 九時 に、アパート の ちかく の えき へ 行きました。\nはじめに、えき の そば で、きっぷ を かいます。\nお金 を いれて、ほしい きっぷ の ボタン を おします。エマ は 二百円 の きっぷ を かいました。\nそれから、きっぷ を いれて、えき の 中 へ はいります。あとで、また きっぷ を とる の を わすれません。\n\n「ゆみ さん、電車 は どこ から のります か。」\n「あちら の 一ばん の ところ ですよ。つぎ の 電車 は 九時 はん に 来ます。」\n二人は しずかに ならんで、電車 を まちました。\n\n電車 が きました。ドア が あいて、みんな が でて から、のります。\n電車 の 中 は とても しずか です。みんな しずかに のります。\nつぎ の えき で、おじいさん が のりましたから、エマ は たって、「どうぞ」と いいました。\n\nすこし のって、おおきな えき に つきました。\n「ゆみ さん、きょう は どこ から 外 へ 出ます か。」\n「ひがし から 出ましょう。ちかく に きれいな きっさてん が あります よ。」\nエマ は えき で きっぷ を いれて、外 へ 出ました。たのしい 一日が はじまりました。",
+      "preview": "きょう は やすみ です。エマ は 友だち の ゆみ と いっしょに、電車 で まち へ 出かけます。\n\nあさ 九時 に、アパート の ちかく の えき へ 行きました。\nはじめに、えき の そば で、きっぷ を かいます。\nお金 を いれて、ほしい きっぷ の ボタン を おし",
+      "charCount": 447,
+      "updatedAt": 1795382295712
+    },
+    {
+      "id": "first-meeting",
+      "titleJa": "はじめまして（わたし の 名前）",
+      "titleFr": "Première rencontre : La présentation de soi (Jikoshōkai)",
+      "titleEn": "First Meeting: Self-Introduction (Jikoshōkai)",
+      "level": "N5",
+      "author": "Nihongo Reader Débutant",
+      "authorEn": "Nihongo Reader Beginner",
+      "category": "Mises en situation",
+      "categoryEn": "Real-Life Situations",
+      "tags": [
+        "Mises en situation",
+        "Dialogue",
+        "N5",
+        "Débutant",
+        "Présentation"
+      ],
+      "tagsEn": [
+        "Real-Life Situations",
+        "Dialogue",
+        "N5",
+        "Beginner",
+        "Self-Introduction"
+      ],
+      "descriptionFr": "Apprenez à vous présenter lors d'une première rencontre : salutations, nom, nationalité, études et goûts avec uniquement des kanji et mots de niveau JLPT N5.",
+      "descriptionEn": "Learn how to introduce yourself on a first encounter: greetings, name, nationality, studies, and interests using strictly JLPT N5 kanji and vocabulary.",
+      "imageUrl": "images/japanese_greeting_cover_1794688718159.jpg",
+      "text": "たなか：はじめまして！わたし は たなか です。日本 の 人 です。よろしく おねがい します。\n\nトマ：はじめまして、たなか さん！わたし の 名前 は トマ・ベルナール です。フランス から 来ました。\n\nたなか：トマ さん、日本語 が とても じょうず ですね！学生 ですか。\n\nトマ：ありがとう ございます。はい、大学 で 日本語 と えいご を べんきょう して います。\n\nたなか：そうですか。トマ さん は 何 が すき ですか。\n\nトマ：わたし は えいが を 見る こと と、ラジオ を きく こと が すき です。うた も だいすき です。\n\nたなか：いい ですね！わたし も うた が すき ですよ。また いっしょ に はなしましょう。\n\nトマ：はい！どうぞ よろしく おねがい します！",
+      "preview": "たなか：はじめまして！わたし は たなか です。日本 の 人 です。よろしく おねがい します。\n\nトマ：はじめまして、たなか さん！わたし の 名前 は トマ・ベルナール です。フランス から 来ました。\n\nたなか：トマ さん、日本語 が とても じょうず ですね！学生 ですか",
+      "charCount": 277,
+      "updatedAt": 1795382295716
+    },
+    {
+      "id": "hospital-pharmacy",
+      "titleJa": "病院 で（体 の ぐあい と くすり）",
+      "titleFr": "Chez le médecin : Expliquer ses symptômes et se soigner",
+      "titleEn": "At the Clinic: Explaining Symptoms and Getting Medicine",
+      "level": "N4",
+      "author": "Nihongo Reader Intermédiaire",
+      "authorEn": "Nihongo Reader Intermediate",
+      "category": "Mises en situation",
+      "categoryEn": "Real-Life Situations",
+      "tags": [
+        "Mises en situation",
+        "Santé",
+        "N4",
+        "Dialogue",
+        "Vie quotidienne"
+      ],
+      "tagsEn": [
+        "Real-Life Situations",
+        "Health",
+        "N4",
+        "Dialogue",
+        "Daily Life"
+      ],
+      "descriptionFr": "Une mise en situation indispensable au niveau JLPT N4 : décrire ses symptômes chez le médecin (maux de tête, fièvre, gorge), comprendre les recommandations (〜たほうがいい) et la prise de médicaments.",
+      "descriptionEn": "An essential JLPT N4 real-life scenario: describing symptoms at a clinic (headache, fever, sore throat), understanding medical advice (~ta hou ga ii), and taking prescribed medicine.",
+      "imageUrl": "images/clinic_pharmacy_n4_1794867092383.jpg",
+      "text": "医者：今日は どう しましたか。\n\nわたし：きのう の 夜 から、あたま が いたくて、ねつ も 少し あります。のど も いたいです。\n\n医者：そうですか。せき も 出ますか。ねつ は どのぐらい ありましたか。\n\nわたし：けさ は 三十七度 はん ぐらい ありました。ごはん も あまり 食べられません。\n\n医者：ちょっと 口 を あけて ください。……うん、かぜ ですね。あまり むり を しない ほうが いい ですよ。\n\nわたし：はい。あした の 仕事 は 休んだ ほうが いい ですか。\n\n医者：そうですね。二、三日 家 で ゆっくり 休んで ください。それから、食事 の あと で この くすり を のんで ください。\n\nわたし：わかりました。あたたかい お茶 や 水 を たくさん のんでも いい ですか。\n\n医者：はい、その ほうが 早く よくなりますよ。お大事 に。\n\nわたし：どうも ありがとう ございました。",
+      "preview": "医者：今日は どう しましたか。\n\nわたし：きのう の 夜 から、あたま が いたくて、ねつ も 少し あります。のど も いたいです。\n\n医者：そうですか。せき も 出ますか。ねつ は どのぐらい ありましたか。\n\nわたし：けさ は 三十七度 はん ぐらい ありました。ごはん ",
+      "charCount": 327,
+      "updatedAt": 1795382295722
+    },
+    {
+      "id": "hotel-checkin",
+      "titleJa": "旅館 で チェックイン",
+      "titleFr": "À l'auberge japonaise : Check-in et informations sur le séjour",
+      "titleEn": "At the Japanese Inn: Check-in and Stay Information",
+      "level": "N4",
+      "author": "Nihongo Reader Intermédiaire",
+      "authorEn": "Nihongo Reader Intermediate",
+      "category": "Mises en situation",
+      "categoryEn": "Real-Life Situations",
+      "tags": [
+        "Mises en situation",
+        "Voyage",
+        "N4",
+        "Hébergement",
+        "Dialogue"
+      ],
+      "tagsEn": [
+        "Real-Life Situations",
+        "Travel",
+        "N4",
+        "Accommodation",
+        "Dialogue"
+      ],
+      "descriptionFr": "Un dialogue complet de voyage en niveau JLPT N4 : arriver dans un ryokan, confirmer sa réservation, poser des questions sur le petit-déjeuner, le bain japonais (ofuro) et le Wi-Fi avec des formules polies.",
+      "descriptionEn": "A complete JLPT N4 travel dialogue: checking in at a traditional Japanese inn (ryokan), confirming a reservation, and politely asking about breakfast, the bath (ofuro), and Wi-Fi.",
+      "imageUrl": "images/ryokan_hotel_checkin_n4_1794867091875.jpg",
+      "text": "フロント：いらっしゃいませ。ようこそ。お名前 を おねがい します。\n\nわたし：こんにちは。マルタン と いいます。きょう から 二日 の よやく を して います。\n\nフロント：マルタン さま ですね。はい、よやく が あります。すみませんが、パスポート を 見せて いただけませんか。\n\nわたし：はい、どうぞ。えき から ここ まで あるいて 来ましたから、少し つかれました。\n\nフロント：ゆっくり 休んで ください。おへや は 三かい の 302 です。こちら が かぎ です。\n\nわたし：ありがとう ございます。朝 ごはん は 何時 から ですか。\n\nフロント：朝 ごはん は 七時 から 九時 まで、一かい の 食堂 です。おふろ は 夜 十一時 まで 入れます よ。\n\nわたし：わかりました。あのう、へや で インターネット は 使えます か。\n\nフロント：はい、もちろんです。この かみ に パスワード が 書いて あります から、ごらん ください。何か こまった ことが ありましたら、いつでも 電話 を して ください。\n\nわたし：とても 親切 に ありがとう ございます。",
+      "preview": "フロント：いらっしゃいませ。ようこそ。お名前 を おねがい します。\n\nわたし：こんにちは。マルタン と いいます。きょう から 二日 の よやく を して います。\n\nフロント：マルタン さま ですね。はい、よやく が あります。すみませんが、パスポート を 見せて いただけま",
+      "charCount": 399,
+      "updatedAt": 1795382295727
+    },
+    {
+      "id": "konbini-shopping",
+      "titleJa": "コンビニ で かいもの（おべんとう と お水）",
+      "titleFr": "Au konbini : Acheter un bento et passer en caisse",
+      "titleEn": "At the Konbini: Buying a Bento and Checking Out",
+      "level": "N5",
+      "author": "Nihongo Reader Débutant",
+      "authorEn": "Nihongo Reader Beginner",
+      "category": "Mises en situation",
+      "categoryEn": "Real-Life Situations",
+      "tags": [
+        "Mises en situation",
+        "Achats",
+        "N5",
+        "Débutant",
+        "Vie quotidienne"
+      ],
+      "tagsEn": [
+        "Real-Life Situations",
+        "Shopping",
+        "N5",
+        "Beginner",
+        "Daily Life"
+      ],
+      "descriptionFr": "Une situation incontournable de la vie au Japon en niveau JLPT N5 strict : acheter un bento et une boisson au konbini, demander à le réchauffer et répondre aux questions de la caisse (baguettes, sac, paiement).",
+      "descriptionEn": "An everyday essential scenario in Japan at strict JLPT N5 level: buying a bento and a drink at a convenience store, asking to warm it up, and answering checkout questions (chopsticks, bag, payment).",
+      "imageUrl": "images/konbini_shopping_n5_1794867090834.jpg",
+      "text": "おみせ の 人：いらっしゃいませ！\n\nわたし：すみません。この おべんとう と つめたい お水 を ください。\n\nおみせ の 人：はい、わかりました。おべんとう は あたたかく します か。\n\nわたし：はい、おねがい します。\n\nおみせ の 人：では、すこし まって ください。……はい、どうぞ。おはし は いくつ いります か。\n\nわたし：ひとつ おねがい します。あ、ふくろ は いりません。わたし の かばん が あります から。\n\nおみせ の 人：わかりました。ぜんぶ で 六百八十円 です。\n\nわたし：千円 で おねがい します。\n\nおみせ の 人：はい、三百二十円 と おべんとう です。どうも ありがとう ございました！\n\nわたし：ありがとう ございました！",
+      "preview": "おみせ の 人：いらっしゃいませ！\n\nわたし：すみません。この おべんとう と つめたい お水 を ください。\n\nおみせ の 人：はい、わかりました。おべんとう は あたたかく します か。\n\nわたし：はい、おねがい します。\n\nおみせ の 人：では、すこし まって ください。…",
+      "charCount": 270,
+      "updatedAt": 1795382295731
+    },
+    {
+      "id": "ordering-cafe",
+      "titleJa": "日本 の カフェ で たのむ（〜を ください）",
+      "titleFr": "Commander au café : Boissons, plats et formules de politesse",
+      "titleEn": "Ordering at a Cafe: Drinks, Food, and Polite Requests",
+      "level": "N5",
+      "author": "Nihongo Reader Débutant",
+      "authorEn": "Nihongo Reader Beginner",
+      "category": "Mises en situation",
+      "categoryEn": "Real-Life Situations",
+      "tags": [
+        "Mises en situation",
+        "Café & Restaurant",
+        "N5",
+        "Débutant",
+        "Nourriture"
+      ],
+      "tagsEn": [
+        "Real-Life Situations",
+        "Cafe & Restaurant",
+        "N5",
+        "Beginner",
+        "Food"
+      ],
+      "descriptionFr": "Commander dans un café japonais en niveau N5 strict : boissons chaudes ou froides, compteurs simples (ひとつ), prix et choix sur place ou à emporter.",
+      "descriptionEn": "Order in a Japanese cafe at strict JLPT N5 level: hot or cold drinks, native counters (hitotsu), prices, and choosing between eating here or taking home.",
+      "imageUrl": "images/japanese_cafe_cover_1794688717105.jpg",
+      "text": "おみせ の 人：いらっしゃいませ！こんにちは。なに を のみます か。\n\nわたし：こんにちは。なに が おいしい ですか。\n\nおみせ の 人：きょう は あたたかい コーヒー と こうちゃ が とても おいしい ですよ。\n\nわたし：では、あたたかい コーヒー を ひとつ と、つめたい こうちゃ を ひとつ ください。\n\nおみせ の 人：はい、わかりました。あまい おかし は いかが ですか。おいしい パン も あります よ。\n\nわたし：おいしそう ですね！その あまい パン も ひとつ ください。\n\nおみせ の 人：ありがとう ございます。ここ で 食べます か、いえ へ もって かえります か。\n\nわたし：ここ で 食べます。\n\nおみせ の 人：はい、わかりました。ぜんぶ で 千二百円 です。\n\nわたし：千二百円 ですね。はい、二千円 です。\n\nおみせ の 人：はい、八百円 です。ありがとう ございます。あそこ の テーブル で すこし まって ください。",
+      "preview": "おみせ の 人：いらっしゃいませ！こんにちは。なに を のみます か。\n\nわたし：こんにちは。なに が おいしい ですか。\n\nおみせ の 人：きょう は あたたかい コーヒー と こうちゃ が とても おいしい ですよ。\n\nわたし：では、あたたかい コーヒー を ひとつ と、つめ",
+      "charCount": 343,
+      "updatedAt": 1795382295736
+    },
+    {
+      "id": "shopping-kore-sore-are",
+      "titleJa": "おみせ で かいもの（これ・それ・あれ・どれ）",
+      "titleFr": "Faire des achats : Demander le prix avec Kore, Sore, Are",
+      "titleEn": "Shopping: Asking Prices with Kore, Sore, and Are",
+      "level": "N5",
+      "author": "Nihongo Reader Débutant",
+      "authorEn": "Nihongo Reader Beginner",
+      "category": "Mises en situation",
+      "categoryEn": "Real-Life Situations",
+      "tags": [
+        "Mises en situation",
+        "Achats",
+        "N5",
+        "Débutant",
+        "Grammaire"
+      ],
+      "tagsEn": [
+        "Real-Life Situations",
+        "Shopping",
+        "N5",
+        "Beginner",
+        "Grammar"
+      ],
+      "descriptionFr": "Mise en situation dans une boutique japonaise en niveau N5 strict : désigner des objets (ceci, cela, celui-là bas) et demander leur prix (ikura desu ka).",
+      "descriptionEn": "Situational dialogue in a Japanese shop using strictly JLPT N5 kanji and vocabulary: pointing out items and asking prices (ikura desu ka).",
+      "imageUrl": "images/japanese_stationery_shop_1794350190714.jpg",
+      "text": "おみせ の 人：いらっしゃいませ！なにか あります か。\n\nわたし：すみません、これ は 何 ですか。\n\nおみせ の 人：それ は 日本 の きれいな かみ の ノート です。\n\nわたし：とても きれい ですね。これ は いくら ですか。\n\nおみせ の 人：それ は 八百円 です。\n\nわたし：わかりました。では、その あおい ペン は いくら ですか。\n\nおみせ の 人：この ペン は 三百円 です。とても いい ペン ですよ。\n\nわたし：あそこ に ある、あの 本 は 何 ですか。\n\nおみせ の 人：ああ、あれ は きょうと の 本 です。きれいな え が たくさん あります。千五百円 です。\n\nわたし：そうですか。じゃあ、この ノート と、その あおい ペン を ください。\n\nおみせ の 人：はい、わかりました。ノート と ペン で、ぜんぶ で 千百円 です。ありがとう ございます！",
+      "preview": "おみせ の 人：いらっしゃいませ！なにか あります か。\n\nわたし：すみません、これ は 何 ですか。\n\nおみせ の 人：それ は 日本 の きれいな かみ の ノート です。\n\nわたし：とても きれい ですね。これ は いくら ですか。\n\nおみせ の 人：それ は 八百円 です",
+      "charCount": 305,
+      "updatedAt": 1795382295740
+    },
+    {
+      "id": "student-week-n5",
+      "titleJa": "りゅうがくせい の たのしい 毎日（N5 たんご）",
+      "titleFr": "La semaine bien remplie d'Emma (Vocabulaire JLPT N5)",
+      "titleEn": "Emma's Busy Week (JLPT N5 Vocabulary Story)",
+      "level": "N5",
+      "author": "Nihongo Reader Débutant",
+      "authorEn": "Nihongo Reader Beginner",
+      "category": "Vie quotidienne",
+      "categoryEn": "Daily Life",
+      "tags": [
+        "Vie quotidienne",
+        "Vocabulaire",
+        "N5",
+        "Débutant",
+        "Études"
+      ],
+      "tagsEn": [
+        "Daily Life",
+        "Vocabulary",
+        "N5",
+        "Beginner",
+        "Studies"
+      ],
+      "descriptionFr": "Une histoire complète du quotidien au Japon spécialement écrite au niveau JLPT N5 strict pour pratiquer plus de cent mots essentiels du programme N5 : jours de la semaine, famille, vêtements, cuisine, transports, poste et loisirs.",
+      "descriptionEn": "A complete slice-of-life Japanese story crafted strictly at JLPT N5 level to practice over a hundred essential N5 vocabulary words: days of the week, family, clothing, kitchen, transport, post office, and hobbies.",
+      "imageUrl": "images/student_week_n5_1794950950113.jpg",
+      "text": "わたし の 名前 は エマ です。がいこくじん の りゅうがくせい です。\n\nきょねん は 外国 に すんで いましたが、今年 は 日本 の 小さな アパート に すんで います。\n\nりょうしん と きょうだい は 外国 に います。あに と おねえさん と いもうと と おとうと が います。\n\nわたしたち は 毎年 おなじ 山 へ りょこう を します。さらいねん も ひこうき に のって、ホテル へ 行きましょう。\n\nわたし は まいあさ 六時 半 に おきます。は を みがいて、シャワー を あびます。\n\nそれから、シャツ と ズボン か スカート、くつした と セーター を きます。コート と うわぎ と めがね も もちます。\n\nさいふ と とけい と きっぷ を ポケット に いれます。電気 を けして、まど を しめて、げんかん から でかけます。\n\nエレベーター で 下 へ おりて、じてんしゃ や バス や ちかてつ で 学校 へ 行きます。\n\nげつようび と すいようび は、きっさてん と レストラン の そば の こうさてん を まがって、きょうしつ へ 行きます。\n\nクラス の みなさん と いっしょに、やさしい 先生 から 日本語 の じゅぎょう を ならいます。\n\nえんぴつ と ボールペン で さくぶん や ぶんしょう を かいて、よく しつもん を します。\n\nテスト の 前 は、じしょ を つかって、まいばん しゅくだい を れんしゅう します。\n\n午後 は としょかん へ 行き、しんぶん や ざっし を かりて、五十 ページ ぐらい よみます。\n\nかようび と もくようび は、デパート と ぎんこう の ちかく の おみせ で はたらきます。\n\nしごと は すこし おおい ですが、とても べんり で、つまらない 日 は すくない です。\n\n先月 と 今月 は おとな の 人 が おおぜい 来ました。来月 も いそがしい の でしょう。いいえ、まだ わかりません。\n\nきんようび の 午後 は ゆうびんきょく へ 行き、きって と ふうとう と はがき を かいました。\n\nポスト に てがみ を いれて から、ちず を 見て、タクシー で いえ へ かえりました。\n\nわたし の アパート の ろうか は せまい ですが、おてあらい と だいどころ は きれい です。\n\nばんごはん の ために、れいぞうこ から たまご、ぎゅうにゅう、やさい、ぎゅうにく、ぶたにく、とりにく を だします。\n\nしお と さとう と しょうゆ と バター を つかって、あたたかい ゆうはん を つくります。\n\nからい りょうり は すこし へた ですが、まずく ない です。とても おいしい です！\n\nテーブル の 上 に ちゃわん、カップ、コップ、スプーン、フォーク を ならべます。\n\nかびん に あかい はな を いれて、テレビ の ニュース を 見たり、ギター で おんがく を ひいたり します。\n\nにちようび の てんき は くもり でした が、おにいさん の たんじょうび の パーティー を しました。\n\nおととい、やすい のみもの と たべもの を たくさん かいました。おばさん も きて、みんなで うたいました。\n\n友だち の カメラ で しゃしん を とりました。それから、プール へ 行く 人 も、えいがかん へ 行く 人 も いました。\n\nあさって は、また たのしい 毎日 が はじまります。毎月、げんき に べんきょう します！",
+      "preview": "わたし の 名前 は エマ です。がいこくじん の りゅうがくせい です。\n\nきょねん は 外国 に すんで いましたが、今年 は 日本 の 小さな アパート に すんで います。\n\nりょうしん と きょうだい は 外国 に います。あに と おねえさん と いもうと と おとう",
+      "charCount": 1135,
+      "updatedAt": 1795382295744
+    },
+    {
+      "id": "tokyo-seasons",
+      "titleJa": "日本 の 春・夏・秋・冬 と さくら",
+      "titleFr": "Les quatre saisons et la culture des fleurs de cerisier",
+      "titleEn": "Japan's Four Seasons and Cherry Blossom Culture",
+      "level": "N4",
+      "author": "Nihongo Reader Culture",
+      "authorEn": "Nihongo Reader Culture",
+      "category": "Culture & Société",
+      "categoryEn": "Culture & Society",
+      "tags": [
+        "Culture & Société",
+        "Saisons",
+        "N4",
+        "Nature",
+        "Hanami"
+      ],
+      "tagsEn": [
+        "Culture & Society",
+        "Seasons",
+        "N4",
+        "Nature",
+        "Hanami"
+      ],
+      "descriptionFr": "Découvrez le printemps japonais et la tradition du Hanami sous les cerisiers en fleurs, adapté au niveau JLPT N4.",
+      "descriptionEn": "Discover Japanese spring and the tradition of Hanami under blooming cherry trees, strictly tailored to JLPT N4 kanji and vocabulary.",
+      "imageUrl": "images/tokyo_sakura_seasons_1794688718113.jpg",
+      "text": "日本 に は、春、夏、秋、冬 の 四つ の うつくしい きせつ が あります。\n\nとくに 春 は、日本 中 で「さくら」と いう きれいな 花 が たくさん さく 特別 な 時 です。三月 の 終わり から 四月 の はじめ に かけて、うすい あかい 色 の さくら が いっぱい に さきます。\n\n人 たち は 家族 や 友だち、会社 の 人 と いっしょ に こうえん に 行って、木 の 下 に すわって、「お花見」を します。\n\nおいしい ごはん を 食べたり、お茶 を 飲んだり し ながら、うつくしい 花 を 見て とても たのしい 時間 に なります。\n風 が ふくと、さくら の 花 が 風 に のって しずか に とんで きます。その うつくしい 花 を 見ると、みんな とても うれしい 気持ち に なります。",
+      "preview": "日本 に は、春、夏、秋、冬 の 四つ の うつくしい きせつ が あります。\n\nとくに 春 は、日本 中 で「さくら」と いう きれいな 花 が たくさん さく 特別 な 時 です。三月 の 終わり から 四月 の はじめ に かけて、うすい あかい 色 の さくら が いっぱ",
+      "charCount": 266,
+      "updatedAt": 1795382295750
+    },
+    {
+      "id": "tsuru",
+      "titleJa": "つる の おれい（つる の お話）",
+      "titleFr": "La reconnaissance de la grue",
+      "titleEn": "The Crane's Gratitude (Tsuru no Ongaeshi)",
+      "level": "N4",
+      "author": "Conte traditionnel",
+      "authorEn": "Traditional Folklore",
+      "category": "Folklore",
+      "categoryEn": "Folklore",
+      "tags": [
+        "Folklore",
+        "Contes traditionnels",
+        "N4",
+        "Légendes",
+        "Poésie"
+      ],
+      "tagsEn": [
+        "Folklore",
+        "Traditional Tales",
+        "N4",
+        "Legends",
+        "Poetry"
+      ],
+      "descriptionFr": "Une fable poétique et touchante sur la bienveillance et la confiance, adaptée au niveau JLPT N4.",
+      "descriptionEn": "A poetic and touching folktale about kindness and trust, strictly adapted to JLPT N4 kanji and vocabulary.",
+      "imageUrl": "images/tsuru_crane_snow_1794688722798.jpg",
+      "text": "むかし、ゆき が ふる さむい 日 に、やさしい わかい 男 の 人 が 山道 を 歩いて いました。\n\n男 の 人 は、あし を けが して うごけない 白い とり（つる）を 見つけました。\n「おお、いたそう だね。今 すぐ せわ を して あげる からね。」\n\n男 の 人 は ていねい に あし の せわ を して、つる を 空 へ とばせて あげました。つる は うれしそう に ないて、青い 空 へ とんで 行きました。\n\nその 日 の 夜、ゆき と 風 が とても つよい 中、家 の ドア が どんどん なる 音 が しました。\nドア を 開けると、そこ に は 見た こと も ない うつくしい 女の子 が 立って いました。\n\n「ゆき で 道 が わからなく なりました。おねがい します、今夜 ここ に とめて ください。」\n\nわかい 男 の 人 は よろこんで 家 に 入れて、あたたかい 食事 を ごちそう しました。",
+      "preview": "むかし、ゆき が ふる さむい 日 に、やさしい わかい 男 の 人 が 山道 を 歩いて いました。\n\n男 の 人 は、あし を けが して うごけない 白い とり（つる）を 見つけました。\n「おお、いたそう だね。今 すぐ せわ を して あげる からね。」\n\n男 の 人 は",
+      "charCount": 303,
+      "updatedAt": 1795382295754
+    },
+    {
+      "id": "wagahai",
+      "titleJa": "私は猫である",
+      "titleFr": "Je suis un chat (Adaptation N3 de Natsume Sōseki)",
+      "titleEn": "I Am a Cat (N3 Adaptation after Natsume Sōseki)",
+      "level": "N3",
+      "author": "夏目漱石 (Adaptation N3)",
+      "authorEn": "Natsume Sōseki (N3 Adaptation)",
+      "category": "Littérature",
+      "categoryEn": "Literature",
+      "tags": [
+        "Littérature",
+        "Classique",
+        "N3",
+        "Animaux",
+        "Satire"
+      ],
+      "tagsEn": [
+        "Literature",
+        "Classics",
+        "N3",
+        "Animals",
+        "Satire"
+      ],
+      "descriptionFr": "Le célèbre début du chef-d'œuvre de Natsume Sōseki adapté au niveau JLPT N3, raconté du point de vue d'un chat observateur.",
+      "descriptionEn": "The famous opening of Natsume Sōseki's classic masterpiece adapted to JLPT N3 level, told from the perspective of an observant cat.",
+      "imageUrl": "images/wagahai_cat_tatami_1794688719027.jpg",
+      "text": "私は猫である。名前はまだない。\n\nどこで生まれたか、ぜんぜん覚えていない。ただ、暗くて少しつめたい所で、いつもないていたことだけは覚えている。\n\n私はここで初めて人間というものを見た。しかもあとで聞くと、それは学生という、人間の中で一番怖い人たちだったそうだ。\n\nこの学生というのは、時々私たちをつかまえて、料理して食べるという話である。しかしその時は何も考えなかったから、別に怖いとも思わなかった。\n\nただ、彼の手の上に乗せられて、すっと持ち上げられた時、少し空を飛ぶような感じがあっただけである。",
+      "preview": "私は猫である。名前はまだない。\n\nどこで生まれたか、ぜんぜん覚えていない。ただ、暗くて少しつめたい所で、いつもないていたことだけは覚えている。\n\n私はここで初めて人間というものを見た。しかもあとで聞くと、それは学生という、人間の中で一番怖い人たちだったそうだ。\n\nこの学生というの",
+      "charCount": 242,
+      "updatedAt": 1795382295758
+    },
+    {
+      "id": "weekend-invitation",
+      "titleJa": "どようび に いっしょに あそびませんか",
+      "titleFr": "Inviter un ami : Organiser une sortie le week-end",
+      "titleEn": "Inviting a Friend: Making Weekend Plans",
+      "level": "N5",
+      "author": "Nihongo Reader Débutant",
+      "authorEn": "Nihongo Reader Beginner",
+      "category": "Mises en situation",
+      "categoryEn": "Real-Life Situations",
+      "tags": [
+        "Mises en situation",
+        "Dialogue",
+        "N5",
+        "Débutant",
+        "Loisirs"
+      ],
+      "tagsEn": [
+        "Real-Life Situations",
+        "Dialogue",
+        "N5",
+        "Beginner",
+        "Leisure"
+      ],
+      "descriptionFr": "Pratiquez l'invitation et la prise de rendez-vous en japonais (JLPT N5) : proposer une sortie au cinéma (〜ませんか), accepter (〜ましょう), fixer l'heure et le lieu devant la gare.",
+      "descriptionEn": "Practice inviting someone and setting up plans in Japanese (JLPT N5): suggesting a movie outing (~masen ka), accepting (~mashou), and agreeing on a meeting time and place at the station.",
+      "imageUrl": "images/weekend_meetup_n5_1794867090434.jpg",
+      "text": "ゆみ：トマ さん、あした の どようび は ひま ですか。\n\nトマ：はい、どようび は 学校 が 休み です から、ひま ですよ。\n\nゆみ：よかった！いっしょに えいが を 見ませんか。その あと で ひる ごはん も 食べましょう。\n\nトマ：いい ですね！ぜひ 行きましょう。何時 に あいます か。\n\nゆみ：えいが は 午前 十時 半 から です。九時 四十五ふん に えき の 東 の 前 で あいましょう。\n\nトマ：わかりました。えき の 東 の 前 ですね。雨 が ふる でしょうか。\n\nゆみ：いいえ、てんき は はれ ですよ。たのしみ ですね！\n\nトマ：はい！では、どようび に また あいましょう！",
+      "preview": "ゆみ：トマ さん、あした の どようび は ひま ですか。\n\nトマ：はい、どようび は 学校 が 休み です から、ひま ですよ。\n\nゆみ：よかった！いっしょに えいが を 見ませんか。その あと で ひる ごはん も 食べましょう。\n\nトマ：いい ですね！ぜひ 行きましょう。何",
+      "charCount": 235,
+      "updatedAt": 1795382295762
+    }
+  ],
+  "books": [
+    {
+      "id": "hanasaka-jiisan",
+      "format": "book",
+      "titleJa": "はなさか じいさん",
+      "titleFr": "Le Vieil Homme qui faisait fleurir les cerisiers (Hanasaka Jīsan)",
+      "titleEn": "The Old Man Who Made Dead Trees Blossom (Hanasaka Jīsan)",
+      "level": "N4",
+      "author": "Conte traditionnel (Édition N4)",
+      "authorEn": "Traditional Folklore (N4 Edition)",
+      "category": "Folklore",
+      "categoryEn": "Folklore",
+      "tags": [
+        "Livre",
+        "Folklore",
+        "Contes traditionnels",
+        "N4",
+        "Printemps",
+        "Chien"
+      ],
+      "tagsEn": [
+        "Book",
+        "Folklore",
+        "Traditional Tales",
+        "N4",
+        "Spring",
+        "Dog"
+      ],
+      "descriptionFr": "Un grand classique du folklore japonais adapté au niveau JLPT N4 en 5 chapitres. Suivez un gentil couple âgé et leur fidèle chien blanc Shiro, dont la bonté finit par faire fleurir en plein hiver les cerisiers morts devant le seigneur.",
+      "descriptionEn": "A timeless Japanese folktale adapted to JLPT N4 level across 5 chapters. Follow a kind elderly couple and their loyal white dog Shiro, whose kindness brings lifeless winter cherry trees into radiant bloom before the lord.",
+      "coverImage": "images/hanasaka_cover_1795248243984.jpg",
+      "chaptersCount": 5,
+      "chaptersSummary": [
+        {
+          "id": "chap-1",
+          "chapterNumber": 1,
+          "titleJa": "一：白い 犬 の しろ と こばん",
+          "titleFr": "Chapitre 1 : Shiro le chien blanc et les pièces d'or",
+          "titleEn": "Chapter 1: Shiro the White Dog and the Gold Coins",
+          "summaryFr": "Un gentil couple âgé aime comme son enfant un petit chien blanc nommé Shiro. Un jour, Shiro creuse le jardin et leur fait découvrir un trésor de pièces d'or.",
+          "summaryEn": "A kind elderly couple loves a fluffy white dog named Shiro like their own child. One day, Shiro digs in the garden and leads them to gleaming gold coins.",
+          "charCount": 272
+        },
+        {
+          "id": "chap-2",
+          "chapterNumber": 2,
+          "titleJa": "二：となりの いじわる な ふうふ",
+          "titleFr": "Chapitre 2 : Les voisins jaloux et le petit pin",
+          "titleEn": "Chapter 2: The Greedy Neighbor and the Pine Sapling",
+          "summaryFr": "Le voisin avide emprunte Shiro de force, mais ne trouve que des cailloux et des tessons. Par méchanceté, il s'en prend à Shiro ; le gentil couple plante un pin sur sa tombe.",
+          "summaryEn": "The greedy neighbor forces Shiro to dig in his yard, finding only stones and broken pottery. After the neighbor harms Shiro, the grieving couple plants a pine sapling in his memory.",
+          "charCount": 244
+        },
+        {
+          "id": "chap-3",
+          "chapterNumber": 3,
+          "titleJa": "三：まつ の 木 の うす",
+          "titleFr": "Chapitre 3 : Le mortier taillé dans le pin",
+          "titleEn": "Chapter 3: The Mortar Carved from the Pine",
+          "summaryFr": "Le petit pin grandit à vue d'œil. Une nuit, Shiro apparaît en rêve et demande qu'on taille un mortier dans son tronc : à chaque coup de pilon, il verse de l'or !",
+          "summaryEn": "The pine sapling grows swiftly into a tall tree. Shiro appears in a dream asking them to carve a wooden mortar from it—and as they pound mochi, gold pours forth!",
+          "charCount": 219
+        },
+        {
+          "id": "chap-4",
+          "chapterNumber": 4,
+          "titleJa": "四：やきすてられた うす と はい",
+          "titleFr": "Chapitre 4 : Le mortier brûlé et les cendres précieuses",
+          "titleEn": "Chapter 4: The Burned Mortar and Precious Ashes",
+          "summaryFr": "Le voisin jaloux emprunte le mortier et, furieux de n'en tirer que des saletés, le brûle. Le gentil vieillard recueille les cendres, et Shiro lui souffle un nouveau secret.",
+          "summaryEn": "Borrowing the mortar and getting only rubbish, the furious neighbor burns it to ashes. The gentle old man gathers the ashes, and Shiro whispers one more magical secret in a dream.",
+          "charCount": 209
+        },
+        {
+          "id": "chap-5",
+          "chapterNumber": 5,
+          "titleJa": "五：日本一 の 花さか じいさん",
+          "titleFr": "Chapitre 5 : Le meilleur faiseur de fleurs du Japon",
+          "titleEn": "Chapter 5: Japan's Greatest Flower-Blooming Old Man",
+          "summaryFr": "Grimpé sur un cerisier sec devant le cortège du seigneur, le vieil homme répand les cendres en chantant : des nuages de fleurs de cerisier éclosent et émerveillent tout le pays !",
+          "summaryEn": "Climbing a withered cherry tree as the feudal lord passes, the old man scatters the ashes in song—causing glorious clouds of pink sakura to bloom and delighting the entire land!",
+          "charCount": 277
+        }
+      ],
+      "updatedAt": 1795382295767
+    },
+    {
+      "id": "kasa-jizo",
+      "format": "book",
+      "titleJa": "かさ じぞう",
+      "titleFr": "Les six Jizō et le chapeau de paille (Kasa Jizō)",
+      "titleEn": "The Six Jizō and the Straw Hats (Kasa Jizō)",
+      "level": "N4",
+      "author": "Conte traditionnel (Édition N4)",
+      "authorEn": "Traditional Folklore (N4 Edition)",
+      "category": "Folklore",
+      "categoryEn": "Folklore",
+      "tags": [
+        "Livre",
+        "Folklore",
+        "Contes traditionnels",
+        "N4",
+        "Hiver"
+      ],
+      "tagsEn": [
+        "Book",
+        "Folklore",
+        "Traditional Tales",
+        "N4",
+        "Winter"
+      ],
+      "descriptionFr": "Un célèbre conte d'hiver japonais adapté au niveau JLPT N4. Par une journée de neige avant le Nouvel An, un vieil homme pauvre mais généreux offre ses chapeaux de paille invendus à six statues de Jizō transies de froid.",
+      "descriptionEn": "A beloved Japanese winter folktale adapted to JLPT N4 level. On a snowy day just before New Year, a poor yet kindhearted old man gives his unsold straw hats to six freezing stone Jizō statues.",
+      "coverImage": "images/kasa_jizo_cover_1794868190480.jpg",
+      "chaptersCount": 5,
+      "chaptersSummary": [
+        {
+          "id": "chap-1",
+          "chapterNumber": 1,
+          "titleJa": "一：冬 の むら と 五つ の かさ",
+          "titleFr": "Chapitre 1 : Le village d'hiver et les cinq chapeaux",
+          "titleEn": "Chapter 1: The Winter Village and the Five Hats",
+          "summaryFr": "Avant le Nouvel An, un vieux couple pauvre mais bon décide d'aller vendre cinq chapeaux de paille en ville sous la neige.",
+          "summaryEn": "Just before New Year, a poor yet kind elderly couple decides the old man will go sell five straw hats in town through the snow.",
+          "charCount": 237
+        },
+        {
+          "id": "chap-2",
+          "chapterNumber": 2,
+          "titleJa": "二：さむい 町 で",
+          "titleFr": "Chapitre 2 : Dans la ville glacée",
+          "titleEn": "Chapter 2: In the Cold Town",
+          "summaryFr": "En ville, personne n'achète les chapeaux de paille. La nuit tombe sous une neige plus forte et le vieil homme rentre bredouille.",
+          "summaryEn": "In town, nobody buys the straw hats. Night approaches under heavier snow, and the old man starts walking home empty-handed.",
+          "charCount": 238
+        },
+        {
+          "id": "chap-3",
+          "chapterNumber": 3,
+          "titleJa": "三：ゆき の 中 の おじぞうさま",
+          "titleFr": "Chapitre 3 : Les six Jizō sous la neige",
+          "titleEn": "Chapter 3: The Jizō Statues in the Snow",
+          "summaryFr": "Sur le chemin du retour, le vieil homme offre ses cinq chapeaux et son propre foulard aux six statues de pierre couvertes de neige.",
+          "summaryEn": "On the way home, the old man gives his five straw hats and his own headband cloth to six snow-covered stone Jizō statues.",
+          "charCount": 271
+        },
+        {
+          "id": "chap-4",
+          "chapterNumber": 4,
+          "titleJa": "四：しずか な 夜 と ふしぎ な 歌",
+          "titleFr": "Chapitre 4 : La nuit paisible et le chant mystérieux",
+          "titleEn": "Chapter 4: The Quiet Night and the Mysterious Song",
+          "summaryFr": "La vieille femme loue la bonté de son mari. Tard dans la nuit, un chant mystérieux s'approche de leur maison sous la neige.",
+          "summaryEn": "The old woman praises her husband's kindness. Late at night, a mysterious chanting voice approaches their cottage through the snow.",
+          "charCount": 232
+        },
+        {
+          "id": "chap-5",
+          "chapterNumber": 5,
+          "titleJa": "五：お正月 の 朝 と おくりもの",
+          "titleFr": "Chapitre 5 : Le matin du Nouvel An et les présents",
+          "titleEn": "Chapter 5: New Year's Morning and the Gifts",
+          "summaryFr": "Le couple découvre de généreux cadeaux devant la porte et aperçoit les six Jizō coiffés de leurs chapeaux s'éloigner dans la neige.",
+          "summaryEn": "The couple finds generous gifts outside their door and sees the six Jizō wearing the straw hats walking away in the snow.",
+          "charCount": 245
+        }
+      ],
+      "updatedAt": 1795382295771
+    },
+    {
+      "id": "kintaro",
+      "format": "book",
+      "titleJa": "きんたろう",
+      "titleFr": "Kintarō - L'enfant fort de la montagne",
+      "titleEn": "Kintarō - The Strong Boy of the Mountain",
+      "level": "N5",
+      "author": "Conte traditionnel (Édition N5)",
+      "authorEn": "Traditional Folklore (N5 Edition)",
+      "category": "Folklore",
+      "categoryEn": "Folklore",
+      "tags": [
+        "Livre",
+        "Folklore",
+        "Contes traditionnels",
+        "N5",
+        "Débutant",
+        "Montagne"
+      ],
+      "tagsEn": [
+        "Book",
+        "Folklore",
+        "Traditional Tales",
+        "N5",
+        "Beginner",
+        "Mountain"
+      ],
+      "descriptionFr": "Le célèbre conte japonais de Kintarō en édition JLPT N5 intégrale. Suivez le petit garçon plein d'énergie du mont Ashigara, ses amis de la forêt et le grand pont de bois avec des kanji et un vocabulaire strictement adaptés aux débutants.",
+      "descriptionEn": "The famous Japanese folktale of Kintarō in a strict JLPT N5 beginner edition. Follow the energetic mountain boy, his forest friends, and the wooden bridge using strictly N5 kanji and accessible vocabulary.",
+      "coverImage": "images/kintaro_cover_1794954930844.jpg",
+      "chaptersCount": 5,
+      "chaptersSummary": [
+        {
+          "id": "chap-1",
+          "chapterNumber": 1,
+          "titleJa": "一：山の 小さな いえ",
+          "titleFr": "Chapitre 1 : La petite maison dans la montagne",
+          "titleEn": "Chapter 1: The Little House in the Mountain",
+          "summaryFr": "Au cœur de la montagne vit Kintarō, un petit garçon plein d'énergie qui pousse les grands arbres avec aisance et joue avec joie.",
+          "summaryEn": "Deep in the mountain lives Kintarō, an energetic little boy who easily pushes giant trees and plays joyfully every day.",
+          "charCount": 186
+        },
+        {
+          "id": "chap-2",
+          "chapterNumber": 2,
+          "titleJa": "二：山の ともだち",
+          "titleFr": "Chapitre 2 : Les amis de la montagne",
+          "titleEn": "Chapter 2: Friends of the Mountain",
+          "summaryFr": "Kintarō retrouve chaque jour ses amis de la forêt — un grand ours, un chien adorable et de petits oiseaux — pour courir, nager et chanter.",
+          "summaryEn": "Every day Kintarō meets his forest friends—a big bear, a cute dog, and little birds—to run, swim, and sing together.",
+          "charCount": 179
+        },
+        {
+          "id": "chap-3",
+          "chapterNumber": 3,
+          "titleJa": "三：川の 上の ふとい 木",
+          "titleFr": "Chapitre 3 : Le grand tronc au-dessus de la rivière",
+          "titleEn": "Chapter 3: The Thick Tree Over the River",
+          "summaryFr": "Après une forte pluie qui a emporté le pont, Kintarō pousse un tronc épais par-dessus la rivière pour aider ses amis à traverser.",
+          "summaryEn": "After heavy rain washes away the bridge, Kintarō pushes a heavy tree trunk across the river so his friends can cross safely.",
+          "charCount": 212
+        },
+        {
+          "id": "chap-4",
+          "chapterNumber": 4,
+          "titleJa": "四：りっぱな 男の人",
+          "titleFr": "Chapitre 4 : L'homme distingué",
+          "titleEn": "Chapter 4: The Noble Man",
+          "summaryFr": "Un voyageur venu de la grande ville, Yorimitsu, observe la force de Kintarō près du pont et l'invite à le suivre.",
+          "summaryEn": "A traveler from the big town named Yorimitsu witnesses Kintarō's strength by the bridge and invites him to come along.",
+          "charCount": 188
+        },
+        {
+          "id": "chap-5",
+          "chapterNumber": 5,
+          "titleJa": "五：あたらしい 毎日へ",
+          "titleFr": "Chapitre 5 : Vers une vie nouvelle",
+          "titleEn": "Chapter 5: Toward New Days",
+          "summaryFr": "Avec la bénédiction de sa mère, Kintarō dit au revoir à ses amis de la montagne et part vers la grande ville.",
+          "summaryEn": "With his mother's blessing, Kintarō bids farewell to his mountain friends and sets off for the big town.",
+          "charCount": 211
+        }
+      ],
+      "updatedAt": 1795382295777
+    },
+    {
+      "id": "kobutori-jisan",
+      "format": "book",
+      "titleJa": "こぶとり じいさん",
+      "titleFr": "Le Vieil Homme à la loupe (Kobutori Jīsan)",
+      "titleEn": "The Old Man Who Lost His Lump (Kobutori Jīsan)",
+      "level": "N4",
+      "author": "Conte traditionnel (Édition N4)",
+      "authorEn": "Traditional Folklore (N4 Edition)",
+      "category": "Folklore",
+      "categoryEn": "Folklore",
+      "tags": [
+        "Livre",
+        "Folklore",
+        "Contes traditionnels",
+        "N4",
+        "Humour"
+      ],
+      "tagsEn": [
+        "Book",
+        "Folklore",
+        "Traditional Tales",
+        "N4",
+        "Humor"
+      ],
+      "descriptionFr": "Un célèbre conte folklorique japonais plein d'humour adapté au niveau JLPT N4. Un vieux monsieur joyeux affligé d'une loupe à la joue charme des démons par sa danse et obtient une surprise inattendue, contrairement à son voisin grincheux.",
+      "descriptionEn": "A famous humorous Japanese folktale adapted to JLPT N4 level. A cheerful old man with a lump on his cheek delights a band of oni demons with his dancing and earns a wonderful surprise, unlike his grumpy neighbor.",
+      "coverImage": "images/kobutori-jisan_cover.jpg",
+      "chaptersCount": 5,
+      "chaptersSummary": [
+        {
+          "id": "chap-1",
+          "chapterNumber": 1,
+          "titleJa": "一：ふたりの おじいさんと コブ",
+          "titleFr": "Chapitre 1 : Les deux vieillards et leur bosse",
+          "titleEn": "Chapter 1: The Two Old Men and Their Lumps",
+          "summaryFr": "Dans un petit village vivent deux vieillards portant chacun une grosse loupe sur la joue : l'un toujours joyeux et doux, l'autre sévère et grincheux.",
+          "summaryEn": "In a small village live two elderly men who each have a big lump on their cheek: one always cheerful and kind, the other strict and grumpy.",
+          "charCount": 228
+        },
+        {
+          "id": "chap-2",
+          "chapterNumber": 2,
+          "titleJa": "二：くらい 山の中の 大きな 木",
+          "titleFr": "Chapitre 2 : Le grand arbre dans la montagne sombre",
+          "titleEn": "Chapter 2: The Great Tree in the Dark Mountain",
+          "summaryFr": "Surpris par un soudain orage de pluie en ramassant du bois dans la montagne, le gentil vieillard se réfugie dans le creux d'un vieux tronc.",
+          "summaryEn": "Caught in a sudden heavy downpour while gathering firewood in the mountain, the kind old man takes shelter inside a huge hollow tree.",
+          "charCount": 215
+        },
+        {
+          "id": "chap-3",
+          "chapterNumber": 3,
+          "titleJa": "三：オニたちと たのしい おどり",
+          "titleFr": "Chapitre 3 : La joyeuse danse avec les démons",
+          "titleEn": "Chapter 3: The Joyful Dance with the Oni",
+          "summaryFr": "Réveillé tard dans la nuit par la fête de démons rouges et bleus autour d'un feu, le grand-père oublie sa peur et danse avec entrain.",
+          "summaryEn": "Woken late at night by red and blue oni feasting around a bonfire, the old man forgets his fear and dances merrily before them.",
+          "charCount": 260
+        },
+        {
+          "id": "chap-4",
+          "chapterNumber": 4,
+          "titleJa": "四：コブが なくなった 朝",
+          "titleFr": "Chapitre 4 : Le matin où la bosse a disparu",
+          "titleEn": "Chapter 4: The Morning the Lump Vanished",
+          "summaryFr": "Enchantés, les démons gardent sa grosse loupe en gage de son retour le lendemain soir. Le grand-père rentre heureux avec une joue toute lisse.",
+          "summaryEn": "Delighted, the oni take his lump for safekeeping so he will surely return the next night. He returns home joyful with a smooth cheek.",
+          "charCount": 247
+        },
+        {
+          "id": "chap-5",
+          "chapterNumber": 5,
+          "titleJa": "五：となりの おじいさん",
+          "titleFr": "Chapitre 5 : Le vieux voisin",
+          "titleEn": "Chapter 5: The Neighbor Next Door",
+          "summaryFr": "Jaloux, le voisin grincheux tente sa chance la nuit suivante, mais sa danse maladroite irrite les démons qui lui collent la deuxième loupe sur l'autre joue.",
+          "summaryEn": "Envious, the grumpy neighbor tries his luck the next night, but his clumsy dancing annoys the oni, who stick the second lump onto his other cheek.",
+          "charCount": 295
+        }
+      ],
+      "updatedAt": 1795382295781
+    },
+    {
+      "id": "kumo-no-ito",
+      "format": "book",
+      "titleJa": "蜘蛛の糸（くものいと）",
+      "titleFr": "Le Fil d'araignée (Kumo no Ito)",
+      "titleEn": "The Spider's Thread (Kumo no Ito)",
+      "level": "N3",
+      "author": "芥川龍之介 (Adaptation N3)",
+      "authorEn": "Ryūnosuke Akutagawa (N3 Adaptation)",
+      "category": "Littérature classique",
+      "categoryEn": "Classical Literature",
+      "tags": [
+        "Livre",
+        "Littérature",
+        "Classique",
+        "N3",
+        "Philosophie",
+        "Conte"
+      ],
+      "tagsEn": [
+        "Book",
+        "Literature",
+        "Classics",
+        "N3",
+        "Philosophy",
+        "Short Story"
+      ],
+      "descriptionFr": "Le chef-d'œuvre intemporel de Ryūnosuke Akutagawa adapté au niveau JLPT N3 en 5 chapitres illustrés. Du haut du Paradis, Bouddha tend un fragile fil d'argent au criminel Kandata plongé dans les ténèbres… mais l'égoïsme humain mettra-t-il tout en péril ?",
+      "descriptionEn": "Ryūnosuke Akutagawa's timeless literary masterpiece adapted to JLPT N3 level across 5 illustrated chapters. From Paradise above, the Buddha lowers a delicate silver thread to the criminal Kandata deep in the abyss—yet will selfishness undo his chance at salvation?",
+      "coverImage": "images/kumo_lotus_pond_1795334770534.jpg",
+      "chaptersCount": 5,
+      "chaptersSummary": [
+        {
+          "id": "chap-1",
+          "chapterNumber": 1,
+          "titleJa": "一：美しい はす の 池",
+          "titleFr": "Chapitre 1 : L'étang aux lotus du Paradis",
+          "titleEn": "Chapter 1: The Lotus Pond of Paradise",
+          "summaryFr": "Par un matin paisible au Paradis, Bouddha se promène au bord d'un étang aux lotus blancs et aperçoit tout au fond des ténèbres un homme nommé Kandata.",
+          "summaryEn": "On a quiet morning in Paradise, the Buddha strolls beside a pond of white lotuses and looks through the clear water into the dark depths below, spotting a man named Kandata.",
+          "charCount": 175
+        },
+        {
+          "id": "chap-2",
+          "chapterNumber": 2,
+          "titleJa": "二：一本 の 銀 の 糸",
+          "titleFr": "Chapitre 2 : Un fil d'argent dans les ténèbres",
+          "titleEn": "Chapter 2: A Silver Thread in the Darkness",
+          "summaryFr": "Bouddha se souvient qu'autrefois Kandata avait épargné une petite araignée et laisse descendre vers lui un fin fil d'argent.",
+          "summaryEn": "Remembering that Kandata once spared a tiny spider's life, the Buddha gently lowers a shimmering silver thread down into the abyss.",
+          "charCount": 165
+        },
+        {
+          "id": "chap-3",
+          "chapterNumber": 3,
+          "titleJa": "三：暗い 空 へ のぼる 道",
+          "titleFr": "Chapitre 3 : L'ascension vers la lumière",
+          "titleEn": "Chapter 3: Climbing Toward the Light",
+          "summaryFr": "Saisissant le fil lumineux, Kandata grimpe avec espoir vers le ciel, jusqu'à découvrir que des centaines d'autres damnés montent derrière lui.",
+          "summaryEn": "Gripping the glowing thread, Kandata climbs eagerly toward the light—until he looks down and sees countless others climbing right behind him.",
+          "charCount": 159
+        },
+        {
+          "id": "chap-4",
+          "chapterNumber": 4,
+          "titleJa": "四：「この 糸 は わたし の だ！」",
+          "titleFr": "Chapitre 4 : « Ce fil est à moi ! »",
+          "titleEn": "Chapter 4: \"This Thread Is Mine!\"",
+          "summaryFr": "Craignant que le fil ne cède sous le poids de la foule, Kandata crie aux autres de lâcher prise — et le fil se brise aussitôt.",
+          "summaryEn": "Terrified the thread might snap under everyone's weight, Kandata shouts at the others to get off—and the thread breaks at that very instant.",
+          "charCount": 199
+        },
+        {
+          "id": "chap-5",
+          "chapterNumber": 5,
+          "titleJa": "五：ひる の はす の 池",
+          "titleFr": "Chapitre 5 : L'étang aux lotus à midi",
+          "titleEn": "Chapter 5: The Lotus Pond at Noon",
+          "summaryFr": "Kandata retombe au fond de l'abîme, tandis qu'au Paradis les lotus blancs se balancent paisiblement dans la lumière de midi.",
+          "summaryEn": "Kandata falls back into the abyss, while high in Paradise the white lotus flowers sway serenely in the bright midday sunlight.",
+          "charCount": 171
+        }
+      ],
+      "updatedAt": 1795382295785
+    },
+    {
+      "id": "momotaro",
+      "format": "book",
+      "titleJa": "ももたろう",
+      "titleFr": "Momotarō - Le garçon de la pêche",
+      "titleEn": "Momotarō - The Peach Boy",
+      "level": "N5",
+      "author": "Conte traditionnel (Édition N5)",
+      "authorEn": "Traditional Folklore (N5 Edition)",
+      "category": "Folklore",
+      "categoryEn": "Folklore",
+      "tags": [
+        "Livre",
+        "Folklore",
+        "Contes traditionnels",
+        "N5",
+        "Débutant",
+        "Aventure"
+      ],
+      "tagsEn": [
+        "Book",
+        "Folklore",
+        "Traditional Tales",
+        "N5",
+        "Beginner",
+        "Adventure"
+      ],
+      "descriptionFr": "Le conte traditionnel le plus célèbre du Japon en édition JLPT N5 intégrale. Tous les kanji et le vocabulaire sont adaptés au niveau N5 pour lire Momotarō du début à la fin.",
+      "descriptionEn": "Japan's most famous traditional folktale in a strict JLPT N5 beginner edition. All kanji and vocabulary are tailored to N5 level so you can read Momotarō from start to finish.",
+      "coverImage": "images/momotaro_cover_1793565542723.jpg",
+      "chaptersCount": 5,
+      "chaptersSummary": [
+        {
+          "id": "chap-1",
+          "chapterNumber": 1,
+          "titleJa": "一：川から 来た 男の子",
+          "titleFr": "Chapitre 1 : Le garçon venu de la rivière",
+          "titleEn": "Chapter 1: The Boy from the River",
+          "summaryFr": "Un vieux couple découvre une grande pêche sur la rivière, d'où naît un petit garçon plein d'énergie nommé Momotarō.",
+          "summaryEn": "An elderly couple finds a giant peach floating down the river, from which a lively baby boy named Momotarō is born.",
+          "charCount": 376
+        },
+        {
+          "id": "chap-2",
+          "chapterNumber": 2,
+          "titleJa": "二：おいしい きびだんご",
+          "titleFr": "Chapitre 2 : Les délicieux kibidango",
+          "titleEn": "Chapter 2: Delicious Kibidango",
+          "summaryFr": "Devenu fort, Momotarō décide de partir pour l'île d'Onigashima afin de reprendre ce que les démons ont volé au village.",
+          "summaryEn": "Having grown strong, Momotarō decides to go to Onigashima to recover what the demons took from the village.",
+          "charCount": 333
+        },
+        {
+          "id": "chap-3",
+          "chapterNumber": 3,
+          "titleJa": "三：三人の ともだち",
+          "titleFr": "Chapitre 3 : Les trois amis",
+          "titleEn": "Chapter 3: Three Friends",
+          "summaryFr": "En route, Momotarō partage ses kibidango avec un chien, un singe et un faisan qui deviennent ses amis.",
+          "summaryEn": "Along the road, Momotarō shares his kibidango with a dog, a monkey, and a pheasant, who become his friends.",
+          "charCount": 375
+        },
+        {
+          "id": "chap-4",
+          "chapterNumber": 4,
+          "titleJa": "四：くらい うみ と おにがしま",
+          "titleFr": "Chapitre 4 : La mer sombre et Onigashima",
+          "titleEn": "Chapter 4: The Dark Sea and Onigashima",
+          "summaryFr": "Les quatre amis traversent les flots sombres, ouvrent la grande porte noire et font face aux démons rouges et bleus.",
+          "summaryEn": "The four friends cross the dark waters, open the tall black gate, and confront the red and blue demons.",
+          "charCount": 283
+        },
+        {
+          "id": "chap-5",
+          "chapterNumber": 5,
+          "titleJa": "五：みんなと いえへ かえる",
+          "titleFr": "Chapitre 5 : Le retour à la maison avec tous",
+          "titleEn": "Chapter 5: Returning Home with Everyone",
+          "summaryFr": "Les démons rendent tout ce qu'ils ont pris et promettent de ne plus revenir. Momotarō et ses amis rentrent au village.",
+          "summaryEn": "The demons return everything they took and promise not to come back. Momotarō and his friends return happily to the village.",
+          "charCount": 305
+        }
+      ],
+      "updatedAt": 1795382295790
+    },
+    {
+      "id": "saru-kani-gassen",
+      "format": "book",
+      "titleJa": "さるかに がっせん",
+      "titleFr": "La Bataille du Singe et du Crabe (Saru Kani Gassen)",
+      "titleEn": "The Crab and the Monkey (Saru Kani Gassen)",
+      "level": "N4",
+      "author": "Conte traditionnel (Édition N4)",
+      "authorEn": "Traditional Folklore (N4 Edition)",
+      "category": "Folklore",
+      "categoryEn": "Folklore",
+      "tags": [
+        "Livre",
+        "Folklore",
+        "Contes traditionnels",
+        "N4",
+        "Automne",
+        "Animaux"
+      ],
+      "tagsEn": [
+        "Book",
+        "Folklore",
+        "Traditional Tales",
+        "N4",
+        "Autumn",
+        "Animals"
+      ],
+      "descriptionFr": "Un grand classique du folklore japonais adapté au niveau JLPT N4 en 5 chapitres. Trompé par un singe rusé qui lui vole son onigiri contre une graine de kaki, un crabe reçoit l'aide d'amis courageux : une châtaigne, une abeille et un mortier en bois.",
+      "descriptionEn": "A beloved Japanese folktale adapted to JLPT N4 level across 5 chapters. Tricked by a sly monkey who trades a persimmon seed for a rice ball, a kind crab is helped by loyal friends: a chestnut, a bee, and a wooden mortar.",
+      "coverImage": "images/sarukani_cover_1795248244846.jpg",
+      "chaptersCount": 5,
+      "chaptersSummary": [
+        {
+          "id": "chap-1",
+          "chapterNumber": 1,
+          "titleJa": "一：おにぎり と かき の たね",
+          "titleFr": "Chapitre 1 : La boulette de riz et la graine de kaki",
+          "titleEn": "Chapter 1: The Rice Ball and the Persimmon Seed",
+          "summaryFr": "En se promenant près de la rivière, un gentil crabe trouve un gros onigiri, mais un singe rusé le convainc de l'échanger contre une petite graine de kaki.",
+          "summaryEn": "While walking by the river, a kind crab finds a delicious rice ball, but a sly monkey persuades him to trade it for a tiny persimmon seed.",
+          "charCount": 295
+        },
+        {
+          "id": "chap-2",
+          "chapterNumber": 2,
+          "titleJa": "二：大きくなった かき の 木",
+          "titleFr": "Chapitre 2 : Le grand arbre à kakis",
+          "titleEn": "Chapter 2: The Growing Persimmon Tree",
+          "summaryFr": "Grâce aux soins attentifs du crabe, la graine devient un grand arbre couvert de fruits. Mais le singe grimpe manger les kakis mûrs et lance un fruit vert sur le crabe.",
+          "summaryEn": "Thanks to the crab's devoted care, the seed grows into a tall tree heavy with fruit. Yet the monkey climbs up, eats the sweet ones, and throws a hard green persimmon at the crab.",
+          "charCount": 268
+        },
+        {
+          "id": "chap-3",
+          "chapterNumber": 3,
+          "titleJa": "三：あつまった ともだち",
+          "titleFr": "Chapitre 3 : Les amis se rassemblent",
+          "titleEn": "Chapter 3: Loyal Friends Gather",
+          "summaryFr": "Les petits crabes pleurent face à l'injustice subie par leur parent. Touchés par leur chagrin, une châtaigne, une abeille et un lourd mortier décident de les aider.",
+          "summaryEn": "The little crabs weep over the monkey's cruelty. Moved by their sorrow, a chestnut, a bee, and a sturdy wooden mortar offer to help.",
+          "charCount": 222
+        },
+        {
+          "id": "chap-4",
+          "chapterNumber": 4,
+          "titleJa": "四：さる の 家 の 大さくせん",
+          "titleFr": "Chapitre 4 : Le grand plan chez le singe",
+          "titleEn": "Chapter 4: The Big Plan at the Monkey's House",
+          "summaryFr": "Pendant que le singe est sorti, chaque ami se cache à un endroit précis de la maison. À son retour, le singe se fait surprendre tour à tour !",
+          "summaryEn": "While the monkey is out, each friend hides in a clever spot inside his home. When he returns, the monkey gets a comical surprise at every turn!",
+          "charCount": 269
+        },
+        {
+          "id": "chap-5",
+          "chapterNumber": 5,
+          "titleJa": "五：あやまった さる と なかなおり",
+          "titleFr": "Chapitre 5 : Les excuses du singe et la réconciliation",
+          "titleEn": "Chapter 5: The Monkey's Apology and Peace",
+          "summaryFr": "Comprenant sa faute, le singe demande sincèrement pardon en larmes. Les crabes et leurs amis lui pardonnent et partagent ensemble les doux kakis.",
+          "summaryEn": "Realizing his mistake, the monkey tearfully apologizes from the heart. The crabs and their friends forgive him and share sweet persimmons together.",
+          "charCount": 235
+        }
+      ],
+      "updatedAt": 1795382295794
+    },
+    {
+      "id": "shitakiri-suzume",
+      "format": "book",
+      "titleJa": "したきり すずめ",
+      "titleFr": "Le Moineau à la langue coupée (Shitakiri Suzume)",
+      "titleEn": "The Tongue-Cut Sparrow (Shitakiri Suzume)",
+      "level": "N4",
+      "author": "Conte traditionnel (Édition N4)",
+      "authorEn": "Traditional Folklore (N4 Edition)",
+      "category": "Folklore",
+      "categoryEn": "Folklore",
+      "tags": [
+        "Livre",
+        "Folklore",
+        "Contes traditionnels",
+        "N4",
+        "Oiseaux",
+        "Bambou"
+      ],
+      "tagsEn": [
+        "Book",
+        "Folklore",
+        "Traditional Tales",
+        "N4",
+        "Birds",
+        "Bamboo"
+      ],
+      "descriptionFr": "Un conte traditionnel célèbre adapté au niveau JLPT N4 en 5 chapitres. Chassé par une vieille femme acariâtre, un petit moineau accueille chaleureusement son gentil maître dans une auberge cachée au cœur des bambous — récompensant l'humilité et punissant la cupidité.",
+      "descriptionEn": "A classic Japanese folktale adapted to JLPT N4 level across 5 chapters. Chased away by a grumpy old woman, a gentle sparrow welcomes the kind old man at a hidden bamboo inn—rewarding humility and teaching greed a lesson.",
+      "coverImage": "images/shitakiri_cover_1795248244629.jpg",
+      "chaptersCount": 5,
+      "chaptersSummary": [
+        {
+          "id": "chap-1",
+          "chapterNumber": 1,
+          "titleJa": "一：おじいさん と かわいい すずめ",
+          "titleFr": "Chapitre 1 : Le vieil homme et le gentil moineau",
+          "titleEn": "Chapter 1: The Old Man and the Cute Sparrow",
+          "summaryFr": "Un gentil vieillard recueille un petit moineau blessé et s'en occupe avec tendresse. Sa femme avare, au contraire, n'aime pas nourrir l'oiseau.",
+          "summaryEn": "A gentle old man rescues an injured little sparrow and cares for it tenderly. His grumpy, stingy wife, however, dislikes feeding the bird.",
+          "charCount": 227
+        },
+        {
+          "id": "chap-2",
+          "chapterNumber": 2,
+          "titleJa": "二：のり を 食べた おちゅん",
+          "titleFr": "Chapitre 2 : La colle d'amidon et l'envol du moineau",
+          "titleEn": "Chapter 2: The Laundry Paste and the Sparrow's Flight",
+          "summaryFr": "Ayant très faim, le moineau goûte la colle de riz de la vieille femme. Furieuse, celle-ci lui coupe le bout de la langue et le chasse vers la montagne.",
+          "summaryEn": "Hungry while the old man is away, the sparrow eats the old woman's starch paste. Furious, she snips the tip of its tongue and chases the bird toward the mountain.",
+          "charCount": 197
+        },
+        {
+          "id": "chap-3",
+          "chapterNumber": 3,
+          "titleJa": "三：たけばやし の すずめ の おやど",
+          "titleFr": "Chapitre 3 : L'auberge des moineaux dans les bambous",
+          "titleEn": "Chapter 3: The Sparrow Inn in the Bamboo Forest",
+          "summaryFr": "Inquiet, le vieil homme part chercher son ami dans la montagne et découvre l'auberge cachée des moineaux, où il est accueilli par des danses et un festin.",
+          "summaryEn": "Worried, the old man searches the mountain for his little friend and finds the hidden sparrow inn, where he is welcomed with dances and a cheerful feast.",
+          "charCount": 244
+        },
+        {
+          "id": "chap-4",
+          "chapterNumber": 4,
+          "titleJa": "四：小さい つづら の おみやげ",
+          "titleFr": "Chapitre 4 : Le petit panier en souvenir",
+          "titleEn": "Chapter 4: The Small Woven Basket Gift",
+          "summaryFr": "Avant son départ, les moineaux proposent au vieillard de choisir entre un grand et un petit panier. Modeste, il choisit le petit, qui renferme de magnifiques trésors.",
+          "summaryEn": "Before he leaves, the sparrows offer him a choice between a huge chest and a small basket. Modestly taking the small one, he finds it filled with dazzling treasures at home.",
+          "charCount": 229
+        },
+        {
+          "id": "chap-5",
+          "chapterNumber": 5,
+          "titleJa": "五：よくばり おばあさん と 大きい つづら",
+          "titleFr": "Chapitre 5 : La vieille femme avide et le grand coffre",
+          "titleEn": "Chapter 5: The Greedy Wife and the Big Chest",
+          "summaryFr": "Avide, la vieille femme exige le plus grand coffre des moineaux et l'ouvre sans attendre. Mais il n'en jaillit que grenouilles, serpents et petits esprits farceurs !",
+          "summaryEn": "Greedy for more wealth, the old woman demands the largest chest from the sparrows and opens it right away—only to unleash frogs, snakes, and playful ghosts!",
+          "charCount": 270
+        }
+      ],
+      "updatedAt": 1795382295797
+    },
+    {
+      "id": "taketori-monogatari",
+      "format": "book",
+      "titleJa": "たけとり ものがたり（かぐやひめ）",
+      "titleFr": "Le Conte du coupeur de bambou (Kaguya-hime)",
+      "titleEn": "The Tale of the Bamboo Cutter (Princess Kaguya)",
+      "level": "N4",
+      "author": "Auteur anonyme (Période Heian)",
+      "authorEn": "Anonymous (Heian Period)",
+      "category": "Classique de la littérature",
+      "categoryEn": "Classical Literature",
+      "tags": [
+        "Livre",
+        "Littérature classique",
+        "N4",
+        "Conte de fées",
+        "Légende"
+      ],
+      "tagsEn": [
+        "Book",
+        "Classical Literature",
+        "N4",
+        "Fairy Tale",
+        "Legend"
+      ],
+      "descriptionFr": "Considéré comme le plus ancien récit narratif de la littérature japonaise (Xe siècle). Découvrez l'histoire féerique de la princesse venue de la Lune trouvée dans un bambou étincelant.",
+      "descriptionEn": "Considered the earliest surviving Japanese narrative work (10th century). Discover the magical tale of the moon princess discovered inside a shining stalk of bamboo.",
+      "coverImage": "images/taketori_monogatari_cover_1793565543948.jpg",
+      "chaptersCount": 3,
+      "chaptersSummary": [
+        {
+          "id": "chap-1",
+          "chapterNumber": 1,
+          "titleJa": "一：ひかる たけ と 小さな 女の子",
+          "titleFr": "Chapitre 1 : Le bambou étincelant et la minuscule fille",
+          "titleEn": "Chapter 1: The Shining Bamboo and the Tiny Girl",
+          "summaryFr": "Un vieux coupeur de bambou découvre une tige luisante dans la forêt qui renferme un être miraculeux.",
+          "summaryEn": "An old bamboo cutter finds a mysteriously glowing stalk in the forest containing a miraculous child.",
+          "charCount": 326
+        },
+        {
+          "id": "chap-2",
+          "chapterNumber": 2,
+          "titleJa": "二：五人の 男の人 と むずかしい 問題",
+          "titleFr": "Chapitre 2 : Les cinq prétendants et les épreuves impossibles",
+          "titleEn": "Chapter 2: The Five Suitors and Impossible Quests",
+          "summaryFr": "Devant la beauté de Kaguya, cinq hommes célèbres demandent sa main. Elle leur impose des quêtes impossibles.",
+          "summaryEn": "Captivated by Kaguya's beauty, five famous men ask for her hand. She gives them impossible quests.",
+          "charCount": 387
+        },
+        {
+          "id": "chap-3",
+          "chapterNumber": 3,
+          "titleJa": "三：月への 帰り と お別れ",
+          "titleFr": "Chapitre 3 : Le retour vers la Lune et les adieux",
+          "titleEn": "Chapter 3: The Return to the Moon and Farewell",
+          "summaryFr": "Kaguya révèle son secret : elle vient du pays de la Lune. Les gens de la Lune viennent la chercher.",
+          "summaryEn": "Kaguya reveals her secret: she comes from the land of the Moon. People from the Moon descend to take her back.",
+          "charCount": 516
+        }
+      ],
+      "updatedAt": 1795382295801
+    },
+    {
+      "id": "tanabata",
+      "format": "book",
+      "titleJa": "たなばた（おりひめ と ひこぼし）",
+      "titleFr": "Tanabata - Les amoureux des étoiles",
+      "titleEn": "Tanabata - The Star-Crossed Lovers",
+      "level": "N4",
+      "author": "Conte traditionnel (Édition N4)",
+      "authorEn": "Traditional Folklore (N4 Edition)",
+      "category": "Folklore",
+      "categoryEn": "Folklore",
+      "tags": [
+        "Livre",
+        "Folklore",
+        "Contes traditionnels",
+        "N4",
+        "Été"
+      ],
+      "tagsEn": [
+        "Book",
+        "Folklore",
+        "Traditional Tales",
+        "N4",
+        "Summer"
+      ],
+      "descriptionFr": "La célèbre légende japonaise du festival des étoiles (7 juillet) adaptée au niveau JLPT N4 en 6 chapitres. Découvrez l'histoire d'Orihime et Hikoboshi, séparés par la Voie lactée.",
+      "descriptionEn": "The famous Japanese Star Festival legend (July 7th) adapted to JLPT N4 level across 6 chapters. Discover the story of Orihime and Hikoboshi, separated across the Milky Way.",
+      "coverImage": "images/tanabata_cover_21fe9e43.jpg",
+      "chaptersCount": 6,
+      "chaptersSummary": [
+        {
+          "id": "chap-1",
+          "chapterNumber": 1,
+          "titleJa": "一：空 の うつくしい 女の子",
+          "titleFr": "Chapitre 1 : La belle tisserande du ciel",
+          "titleEn": "Chapter 1: The Beautiful Maiden of the Sky",
+          "summaryFr": "Près de la Voie lactée vit Orihime, une jeune fille dévouée qui tisse du matin au soir de magnifiques étoffes pour les habitants du ciel.",
+          "summaryEn": "Near the Milky Way lives Orihime, a devoted young woman who weaves splendid garments from morning till night for the people of heaven.",
+          "charCount": 115
+        },
+        {
+          "id": "chap-2",
+          "chapterNumber": 2,
+          "titleJa": "二：まじめ な ひこぼし",
+          "titleFr": "Chapitre 2 : Le sérieux Hikoboshi",
+          "titleEn": "Chapter 2: Earnest Hikoboshi",
+          "summaryFr": "De l'autre côté de la rivière céleste vit Hikoboshi, un jeune homme travailleur qui s'occupe chaque jour des animaux dans les montagnes.",
+          "summaryEn": "Across the celestial river lives Hikoboshi, a diligent young man who cares tirelessly for the mountain animals every day.",
+          "charCount": 99
+        },
+        {
+          "id": "chap-3",
+          "chapterNumber": 3,
+          "titleJa": "三：ふたりの けっこん",
+          "titleFr": "Chapitre 3 : Le mariage des deux amoureux",
+          "titleEn": "Chapter 3: The Marriage of the Two",
+          "summaryFr": "Orihime et Hikoboshi se rencontrent et se marient. Mais si heureux ensemble, ils négligent peu à peu tout leur travail.",
+          "summaryEn": "Orihime and Hikoboshi meet and get married. Yet so happy together, they gradually forget their daily duties.",
+          "charCount": 138
+        },
+        {
+          "id": "chap-4",
+          "chapterNumber": 4,
+          "titleJa": "四：おこった お父さん",
+          "titleFr": "Chapitre 4 : La colère du père céleste",
+          "titleEn": "Chapter 4: The Father's Anger",
+          "summaryFr": "Mécontent de leur paresse, le roi du ciel sépare les deux époux de part et d'autre de la vaste Voie lactée.",
+          "summaryEn": "Angered by their neglect, the heavenly father separates the couple on opposite banks of the vast Milky Way.",
+          "charCount": 121
+        },
+        {
+          "id": "chap-5",
+          "chapterNumber": 5,
+          "titleJa": "五：七月 なのか の 日",
+          "titleFr": "Chapitre 5 : La promesse du 7 juillet",
+          "titleEn": "Chapter 5: The Promise of July 7th",
+          "summaryFr": "Touché par les larmes d'Orihime, son père autorise les amoureux à se retrouver une nuit par an, le 7 juillet, s'ils travaillent sérieusement.",
+          "summaryEn": "Moved by Orihime's tears, her father promises they may reunite one night each year on July 7th if they work hard again.",
+          "charCount": 120
+        },
+        {
+          "id": "chap-6",
+          "chapterNumber": 6,
+          "titleJa": "六：天の川 と わたしたち",
+          "titleFr": "Chapitre 6 : La Voie lactée et nos vœux",
+          "titleEn": "Chapter 6: The Milky Way and Our Wishes",
+          "summaryFr": "Chaque 7 juillet, des oiseaux forment un pont sur la Voie lactée pour réunir les amoureux, et sur Terre chacun accroche ses vœux aux branches.",
+          "summaryEn": "Every July 7th, birds form a bridge across the Milky Way so they can reunite, while people hang colorful wish papers on branches.",
+          "charCount": 155
+        }
+      ],
+      "updatedAt": 1795382295805
+    },
+    {
+      "id": "urashima-taro",
+      "format": "book",
+      "titleJa": "うらしまたろう",
+      "titleFr": "Urashima Tarō - Le palais sous la mer",
+      "titleEn": "Urashima Tarō - The Palace Beneath the Sea",
+      "level": "N5",
+      "author": "Conte traditionnel (Édition N5)",
+      "authorEn": "Traditional Folklore (N5 Edition)",
+      "category": "Folklore",
+      "categoryEn": "Folklore",
+      "tags": [
+        "Livre",
+        "Folklore",
+        "Contes traditionnels",
+        "N5",
+        "Débutant",
+        "Mer"
+      ],
+      "tagsEn": [
+        "Book",
+        "Folklore",
+        "Traditional Tales",
+        "N5",
+        "Beginner",
+        "Sea"
+      ],
+      "descriptionFr": "Le célèbre conte japonais du pêcheur Urashima Tarō en édition JLPT N5 intégrale. Découvrez le palais sous-marin et le mystérieux coffret avec des kanji et un vocabulaire strictement adaptés aux débutants.",
+      "descriptionEn": "The beloved Japanese folktale of fisherman Urashima Tarō in a strict JLPT N5 beginner edition. Explore the undersea palace and the mysterious box using strictly N5 kanji and accessible vocabulary.",
+      "coverImage": "images/urashima_cover_1794865943537.jpg",
+      "chaptersCount": 5,
+      "chaptersSummary": [
+        {
+          "id": "chap-1",
+          "chapterNumber": 1,
+          "titleJa": "一：うみと 小さな かめ",
+          "titleFr": "Chapitre 1 : La mer et la petite tortue",
+          "titleEn": "Chapter 1: The Sea and the Little Turtle",
+          "summaryFr": "Le gentil pêcheur Urashima Tarō sauve une petite tortue sur la plage et la remet dans la mer bleue.",
+          "summaryEn": "The kind fisherman Urashima Tarō rescues a little turtle on the beach and returns it to the blue sea.",
+          "charCount": 270
+        },
+        {
+          "id": "chap-2",
+          "chapterNumber": 2,
+          "titleJa": "二：うみの 中の りっぱな いえ",
+          "titleFr": "Chapitre 2 : Le splendide palais sous la mer",
+          "titleEn": "Chapter 2: The Splendid Palace Beneath the Sea",
+          "summaryFr": "La tortue revient remercier Urashima Tarō et l'emmène sur son dos jusqu'au palais au fond de l'océan.",
+          "summaryEn": "The turtle returns to thank Urashima Tarō and carries him on its back to the palace deep beneath the ocean.",
+          "charCount": 282
+        },
+        {
+          "id": "chap-3",
+          "chapterNumber": 3,
+          "titleJa": "三：たのしい 毎日",
+          "titleFr": "Chapitre 3 : Des jours heureux",
+          "titleEn": "Chapter 3: Happy Days",
+          "summaryFr": "Accueilli avec chaleur au palais, Tarō déguste des mets délicieux, écoute des chants et oublie le temps qui passe.",
+          "summaryEn": "Warmly welcomed at the palace, Tarō enjoys delicious dishes, listens to songs, and loses track of time.",
+          "charCount": 230
+        },
+        {
+          "id": "chap-4",
+          "chapterNumber": 4,
+          "titleJa": "四：きれいな はこと さようなら",
+          "titleFr": "Chapitre 4 : Le beau coffret et les adieux",
+          "titleEn": "Chapter 4: The Beautiful Box and Farewell",
+          "summaryFr": "Pris du désir de revoir sa mère et son village, Tarō reçoit un coffret précieux avec la promesse de ne jamais l'ouvrir.",
+          "summaryEn": "Longing to see his mother and village again, Tarō receives a precious box with the promise never to open it.",
+          "charCount": 262
+        },
+        {
+          "id": "chap-5",
+          "chapterNumber": 5,
+          "titleJa": "五：白い かぜと おじいさん",
+          "titleFr": "Chapitre 5 : Le souffle blanc et le vieil homme",
+          "titleEn": "Chapter 5: The White Breeze and the Old Man",
+          "summaryFr": "Au village méconnaissable, personne ne le connaît plus. En ouvrant le coffret, Tarō vieillit soudainement de trois cents ans.",
+          "summaryEn": "In his unrecognizable village, no one knows him anymore. Opening the box, Tarō suddenly ages three hundred years.",
+          "charCount": 277
+        }
+      ],
+      "updatedAt": 1795382295810
+    },
+    {
+      "id": "yuki-onna",
+      "format": "book",
+      "titleJa": "雪女（ゆきおんな）",
+      "titleFr": "Yuki-onna - La Femme des neiges",
+      "titleEn": "Yuki-onna - The Snow Woman",
+      "level": "N3",
+      "author": "Conte traditionnel (Édition N3)",
+      "authorEn": "Traditional Folklore (N3 Edition)",
+      "category": "Folklore",
+      "categoryEn": "Folklore",
+      "tags": [
+        "Livre",
+        "Folklore",
+        "Contes traditionnels",
+        "N3",
+        "Hiver",
+        "Fantastique"
+      ],
+      "tagsEn": [
+        "Book",
+        "Folklore",
+        "Traditional Tales",
+        "N3",
+        "Winter",
+        "Supernatural"
+      ],
+      "descriptionFr": "Le célèbre conte fantastique d'hiver japonais adapté au niveau JLPT N3 en 6 chapitres. Par une nuit de tempête de neige, le jeune Minokichi fait face à un esprit glacé et doit garder un lourd secret toute sa vie.",
+      "descriptionEn": "Japan's classic winter ghost folktale adapted to JLPT N3 level across 6 chapters. On a stormy winter night, young Minokichi encounters an icy spirit and is bound by a lifelong secret.",
+      "coverImage": "images/yukionna_cover_1795161853299.jpg",
+      "chaptersCount": 6,
+      "chaptersSummary": [
+        {
+          "id": "chap-1",
+          "chapterNumber": 1,
+          "titleJa": "一：冬 の 小屋",
+          "titleFr": "Chapitre 1 : La cabane d'hiver",
+          "titleEn": "Chapter 1: The Winter Hut",
+          "summaryFr": "Pris dans une violente tempête de neige en montagne, le vieux Mosaku et le jeune Minokichi trouvent refuge dans une cabane isolée.",
+          "summaryEn": "Caught in a fierce snowstorm in the mountains, old Mosaku and young Minokichi take shelter inside a lonely wooden hut.",
+          "charCount": 156
+        },
+        {
+          "id": "chap-2",
+          "chapterNumber": 2,
+          "titleJa": "二：白い 女 と 冷たい 息",
+          "titleFr": "Chapitre 2 : La femme en blanc et le souffle glacé",
+          "titleEn": "Chapter 2: The Woman in White and the Icy Breath",
+          "summaryFr": "En pleine nuit, la porte s'ouvre sous le vent : une belle femme vêtue de blanc souffle une haleine glaciale sur Mosaku.",
+          "summaryEn": "In the dead of night, the wind blows open the door and a pale woman dressed in white breathes freezing air upon old Mosaku.",
+          "charCount": 131
+        },
+        {
+          "id": "chap-3",
+          "chapterNumber": 3,
+          "titleJa": "三：いのち を 助けた 約束",
+          "titleFr": "Chapitre 3 : La promesse qui sauva sa vie",
+          "titleEn": "Chapter 3: The Promise That Spared His Life",
+          "summaryFr": "La femme des neiges épargne le jeune Minokichi à une condition absolue : ne jamais révéler à personne ce qu'il a vu cette nuit-là.",
+          "summaryEn": "The snow woman spares young Minokichi on one strict condition: never tell a single soul what he witnessed that night.",
+          "charCount": 167
+        },
+        {
+          "id": "chap-4",
+          "chapterNumber": 4,
+          "titleJa": "四：お雪 と の 暮らし",
+          "titleFr": "Chapitre 4 : Une vie paisible avec Oyuki",
+          "titleEn": "Chapter 4: Quiet Days with Oyuki",
+          "summaryFr": "L'hiver suivant, Minokichi rencontre une femme douce nommée Oyuki. Ils se marient, fondent une famille et vivent heureux.",
+          "summaryEn": "The following winter, Minokichi meets a kind woman named Oyuki. They marry, raise children, and enjoy peaceful, happy years.",
+          "charCount": 128
+        },
+        {
+          "id": "chap-5",
+          "chapterNumber": 5,
+          "titleJa": "五：思い出した あの 夜",
+          "titleFr": "Chapitre 5 : Le souvenir de cette nuit-là",
+          "titleEn": "Chapter 5: Remembering That Night",
+          "summaryFr": "Un soir d'hiver, en regardant le visage pâle d'Oyuki sous la lampe, Minokichi oublie sa promesse et raconte sa rencontre avec la femme des neiges.",
+          "summaryEn": "One winter night, watching Oyuki's pale face by lamplight, Minokichi forgets his vow and reveals his encounter with the snow woman.",
+          "charCount": 152
+        },
+        {
+          "id": "chap-6",
+          "chapterNumber": 6,
+          "titleJa": "六：白い きり の 中 へ",
+          "titleFr": "Chapitre 6 : Dans la brume blanche",
+          "titleEn": "Chapter 6: Into the White Mist",
+          "summaryFr": "Oyuki révèle être Yuki-onna. Par pitié pour leurs enfants endormis, elle épargne Minokichi une dernière fois avant de disparaître dans la tempête.",
+          "summaryEn": "Oyuki reveals she is Yuki-onna. Out of mercy for their sleeping children, she spares Minokichi one last time before vanishing into the storm.",
+          "charCount": 238
+        }
+      ],
+      "updatedAt": 1795382295815
+    }
+  ],
+  "gamebooks": [
+    {
+      "id": "asakusa-mystery",
+      "format": "gamebook",
+      "titleJa": "あさくさ の ふしぎ な 話",
+      "titleFr": "Un Mystère à Asakusa",
+      "titleEn": "A Mystery in Asakusa",
+      "level": "N4",
+      "author": "Nihongo Reader Aventure",
+      "authorEn": "Nihongo Reader Adventure",
+      "category": "Livre-Jeu Interactif",
+      "categoryEn": "Interactive Gamebook",
+      "tags": [
+        "Livre-Jeu",
+        "Mystère",
+        "Tokyo",
+        "Asakusa",
+        "N4"
+      ],
+      "tagsEn": [
+        "Gamebook",
+        "Mystery",
+        "Tokyo",
+        "Asakusa",
+        "N4"
+      ],
+      "synopsisFr": "Une enquête nocturne en niveau JLPT N4 au cœur du vieux Tokyo ! À la tombée du jour devant la grande lanterne rouge d'Asakusa, vous trouvez une petite clé en bois accompagnée d'un billet mystérieux. Saurez-vous parcourir les ruelles, les maisons de thé et les bords de la rivière Sumida pour percer le secret avant les huit coups de la cloche ?",
+      "synopsisEn": "A JLPT N4 twilight mystery in historic Tokyo! At dusk beneath the giant red lantern gate of Asakusa, you discover a tiny wooden key wrapped in a mysterious note. Explore lantern-lit market alleys, cozy teahouses, and the Sumida River to uncover the secret before the 8 PM temple bell rings!",
+      "coverImage": "images/asakusa_lantern_gate_1795335908533.jpg",
+      "startChapterId": "node_gate",
+      "scenesCount": 11,
+      "updatedAt": 1795382295823
+    },
+    {
+      "id": "kitten-adventure",
+      "format": "gamebook",
+      "titleJa": "白いねこと小さなさんぽ",
+      "titleFr": "Le Chaton Blanc et la Petite Aventure",
+      "titleEn": "The Little White Kitten's Big Adventure",
+      "level": "N5",
+      "author": "Nihongo Reader Débutant",
+      "authorEn": "Nihongo Reader Beginner",
+      "category": "Livre-Jeu Débutant (N5)",
+      "categoryEn": "Beginner Gamebook (N5)",
+      "tags": [
+        "Livre-Jeu",
+        "Débutant",
+        "N5",
+        "Aventure",
+        "Animaux"
+      ],
+      "tagsEn": [
+        "Gamebook",
+        "Beginner",
+        "N5",
+        "Adventure",
+        "Animals"
+      ],
+      "synopsisFr": "Une aventure interactive spécialement conçue pour les débutants (JLPT N5) avec un vocabulaire accessible et uniquement des kanji de base ! En sortant d'une petite gare le matin, vous faites la rencontre d'un chaton blanc avec un joli foulard rouge. Vos choix vous mèneront au parc, dans les boutiques animées ou sur la colline pour retrouver sa famille.",
+      "synopsisEn": "An interactive adventure specially crafted for beginners (JLPT N5) with simple vocabulary and fundamental kanji! Stepping out of a quaint train station, you encounter a lost white kitten with a red handkerchief collar. Your choices will take you through the town to help her find her way home.",
+      "coverImage": "images/white_kitten_adventure_1793745010079.jpg",
+      "startChapterId": "node_station",
+      "scenesCount": 12,
+      "updatedAt": 1795382295828
+    },
+    {
+      "id": "kyoto-night-train",
+      "format": "gamebook",
+      "titleJa": "京都 へ の 夜 の 電車",
+      "titleFr": "Le Train de Nuit pour Kyoto",
+      "titleEn": "The Night Train to Kyoto",
+      "level": "N4",
+      "author": "Nihongo Reader Aventure",
+      "authorEn": "Nihongo Reader Adventure",
+      "category": "Livre-Jeu Interactif",
+      "categoryEn": "Interactive Gamebook",
+      "tags": [
+        "Livre-Jeu",
+        "Voyage",
+        "Mystère",
+        "N4",
+        "Train",
+        "Kyoto"
+      ],
+      "tagsEn": [
+        "Gamebook",
+        "Travel",
+        "Mystery",
+        "N4",
+        "Train",
+        "Kyoto"
+      ],
+      "synopsisFr": "Une aventure interactive en niveau JLPT N4 ! Vous montez à bord du dernier train de nuit pour Kyoto. Un paquet oublié dans un tissu bleu et une lettre mystérieuse vous entraînent dans une enquête nocturne pleine de choix : réussirez-vous à retrouver sa propriétaire avant le lever du jour ?",
+      "synopsisEn": "An interactive JLPT N4 mystery adventure! You board the last night train bound for Kyoto. A forgotten blue cloth parcel and a mysterious letter draw you into an overnight quest—will you make the right decisions to return it before sunrise?",
+      "coverImage": "images/kyoto_train_station_1795335518594.jpg",
+      "startChapterId": "node_platform",
+      "scenesCount": 11,
+      "updatedAt": 1795382295833
+    },
+    {
+      "id": "shrine-quest",
+      "format": "gamebook",
+      "titleJa": "わすれられたじんじゃの話",
+      "titleFr": "Le Mystère du Sanctuaire Oublié",
+      "titleEn": "The Mystery of the Forgotten Shrine",
+      "level": "N4",
+      "author": "Nihongo Reader Aventure",
+      "authorEn": "Nihongo Reader Adventure",
+      "category": "Livre-Jeu Interactif",
+      "categoryEn": "Interactive Gamebook",
+      "tags": [
+        "Livre-Jeu",
+        "Aventure",
+        "N4",
+        "Fantastique",
+        "Sanctuaire"
+      ],
+      "tagsEn": [
+        "Gamebook",
+        "Adventure",
+        "N4",
+        "Fantasy",
+        "Shrine"
+      ],
+      "synopsisFr": "Une aventure interactive dont VOUS êtes le héros ! Perdu à la tombée de la nuit dans une vieille forêt, vous tombez sur un sanctuaire oublié. Vos décisions en japonais (JLPT N4) scelleront votre destin.",
+      "synopsisEn": "An interactive adventure where YOU are the hero! Lost at twilight in an ancient forest, you stumble across a forgotten shrine. Your decisions in Japanese (JLPT N4) will seal your destiny.",
+      "coverImage": "images/gamebook_shrine_cover_1793565592568.jpg",
+      "startChapterId": "node_intro",
+      "scenesCount": 7,
+      "updatedAt": 1795382295838
+    }
+  ],
+  "rpgGamebooks": [
+    {
+      "id": "moon-island-rpg",
+      "format": "rpg-gamebook",
+      "titleJa": "月 の しま と きえた 光",
+      "titleFr": "L'Île de la Lune et la Lumière Perdue",
+      "titleEn": "Moonlit Island & The Lost Light",
+      "level": "N4",
+      "author": "Nihongo Reader RPG",
+      "authorEn": "Nihongo Reader RPG",
+      "category": "Livre-Jeu de Rôle",
+      "categoryEn": "RPG Gamebook",
+      "tags": [
+        "Livre-Jeu de Rôle",
+        "RPG",
+        "N4",
+        "Fantastique",
+        "Aventure",
+        "Combat"
+      ],
+      "tagsEn": [
+        "RPG Gamebook",
+        "RPG",
+        "N4",
+        "Fantasy",
+        "Adventure",
+        "Combat"
+      ],
+      "synopsisFr": "Une aventure RPG interactive spécialement conçue pour le niveau JLPT N4 ! Incarnez Haru, un jeune voyageur parti vers l'Île de la Lune pour retrouver le joyau lumineux volé par l'esprit du mont. Équipez-vous à la maison de thé, déchiffrez des runes anciennes, évitez des pièges et affrontez des yōkai aux dés (1d20) !",
+      "synopsisEn": "An interactive RPG adventure specially crafted for JLPT N4! Play as Haru, a young traveler heading to Moonlit Island to recover the luminous pearl stolen by the mountain spirit. Gear up at the tea shop, decipher ancient stone runes, dodge traps, and battle yōkai with d20 dice rolls!",
+      "coverImage": "images/rpg_n4_moon_castle_cover_1795334771403.jpg",
+      "initialCharacter": {
+        "nameJa": "はる（ハル）",
+        "nameFr": "Haru le Voyageur",
+        "nameEn": "Haru the Traveler",
+        "classFr": "Pèlerin de la Côte",
+        "classEn": "Coastal Pilgrim",
+        "level": 1,
+        "baseMaxHp": 18,
+        "baseAc": 11,
+        "stats": {
+          "str": 13,
+          "dex": 14,
+          "con": 12,
+          "wis": 14
+        },
+        "startingGold": 40,
+        "startingEquipment": [
+          {
+            "id": "pilgrim_staff",
+            "nameJa": "木 の つえ",
+            "nameFr": "Bâton de Pèlerin",
+            "nameEn": "Pilgrim Wooden Staff",
+            "slot": "weapon",
+            "descriptionFr": "Un bâton robuste pour marcher et se défendre (+1 Attaque, 1d6 dégâts).",
+            "descriptionEn": "A sturdy walking staff for travel and defense (+1 Attack, 1d6 damage).",
+            "attackBonus": 1,
+            "damageDice": "1d6",
+            "valueGold": 15
+          },
+          {
+            "id": "travel_cloak",
+            "nameJa": "青い 旅 の ふく",
+            "nameFr": "Cape de Voyage Indigo",
+            "nameEn": "Indigo Travel Cloak",
+            "slot": "armor",
+            "descriptionFr": "Tissu épais qui protège du vent et des coups (+2 CA).",
+            "descriptionEn": "Thick woven cloak protecting from wind and blows (+2 AC).",
+            "acBonus": 2,
+            "valueGold": 20
+          },
+          {
+            "id": "seaweed_onigiri",
+            "nameJa": "おにぎり",
+            "nameFr": "Onigiri Réconfortant",
+            "nameEn": "Hearty Onigiri",
+            "slot": "consumable",
+            "descriptionFr": "Restaure 1d8+2 PV pendant ou hors combat.",
+            "descriptionEn": "Restores 1d8+2 HP in or out of combat.",
+            "healDice": "1d8+2",
+            "quantity": 2,
+            "valueGold": 10
+          }
+        ]
+      },
+      "startChapterId": "node_harbor",
+      "scenesCount": 7,
+      "updatedAt": 1795382295845
+    },
+    {
+      "id": "yokai-valley-rpg",
+      "format": "rpg-gamebook",
+      "titleJa": "きりの たにと かたなの 試し",
+      "titleFr": "La Vallée des Brumes et l'Épreuve du Sabreur",
+      "titleEn": "The Misty Valley & The Swordsman's Trial",
+      "level": "N3",
+      "author": "Nihongo Reader RPG",
+      "authorEn": "Nihongo Reader RPG",
+      "category": "Livre-Jeu de Rôle",
+      "categoryEn": "RPG Gamebook",
+      "tags": [
+        "Livre-Jeu de Rôle",
+        "RPG",
+        "N3",
+        "Fantastique",
+        "Combat"
+      ],
+      "tagsEn": [
+        "RPG Gamebook",
+        "RPG",
+        "N3",
+        "Fantasy",
+        "Combat"
+      ],
+      "synopsisFr": "Incarnez Kenta, un jeune voyageur explorant la mystérieuse Vallée des Brumes (JLPT N3) pour retrouver le sabre sacré. Gagnez de l'or, achetez ou trouvez de l'équipement, déjouez des pièges mortels aux jets de dés (1d20) et affrontez des yōkai au tour par tour tout en apprenant le japonais !",
+      "synopsisEn": "Play as Kenta, a young traveler venturing into the mysterious Misty Valley (JLPT N3) to reclaim a sacred katana. Earn gold, buy or discover gear, dodge deadly traps with d20 rolls, and battle yōkai in turn-based combat while practicing Japanese!",
+      "coverImage": "images/rpg_samurai_valley_cover_1794511159348.jpg",
+      "initialCharacter": {
+        "nameJa": "けんた（ケンタ）",
+        "nameFr": "Kenta le Sabreur",
+        "nameEn": "Kenta the Swordsman",
+        "classFr": "Rōnin Débutant",
+        "classEn": "Apprentice Rōnin",
+        "level": 1,
+        "baseMaxHp": 18,
+        "baseAc": 11,
+        "stats": {
+          "str": 14,
+          "dex": 13,
+          "con": 12,
+          "wis": 12
+        },
+        "startingGold": 45,
+        "startingEquipment": [
+          {
+            "id": "bokken",
+            "nameJa": "木の かたな",
+            "nameFr": "Sabre en bois (Bokken)",
+            "nameEn": "Wooden Bokken",
+            "slot": "weapon",
+            "descriptionFr": "Un sabre d'entraînement solide (+1 Attaque, 1d6 dégâts).",
+            "descriptionEn": "A sturdy wooden training sword (+1 Attack, 1d6 damage).",
+            "attackBonus": 1,
+            "damageDice": "1d6",
+            "valueGold": 15
+          },
+          {
+            "id": "cloth_haori",
+            "nameJa": "旅の 着物",
+            "nameFr": "Haori de voyage renforcé",
+            "nameEn": "Reinforced Traveler Coat",
+            "slot": "armor",
+            "descriptionFr": "Veste traditionnelle doublée de cuir souple (+2 CA).",
+            "descriptionEn": "Traditional coat lined with supple leather (+2 AC).",
+            "acBonus": 2,
+            "valueGold": 20
+          },
+          {
+            "id": "plum_onigiri",
+            "nameJa": "おいしい ご飯",
+            "nameFr": "Boule de riz nourrissante",
+            "nameEn": "Nourishing Rice Meal",
+            "slot": "consumable",
+            "descriptionFr": "Riz nourrissant qui restaure 1d8+2 PV.",
+            "descriptionEn": "Nourishing rice that restores 1d8+2 HP.",
+            "healDice": "1d8+2",
+            "quantity": 2,
+            "valueGold": 10
+          }
+        ]
+      },
+      "startChapterId": "node_torii",
+      "scenesCount": 7,
+      "updatedAt": 1795382295850
+    }
+  ]
+}

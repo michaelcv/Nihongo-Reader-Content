@@ -1,0 +1,51 @@
+{
+  "id": "wagahai",
+  "titleJa": "私は猫である",
+  "titleFr": "Je suis un chat (Adaptation N3 de Natsume Sōseki)",
+  "titleEn": "I Am a Cat (N3 Adaptation after Natsume Sōseki)",
+  "level": "N3",
+  "author": "夏目漱石 (Adaptation N3)",
+  "authorEn": "Natsume Sōseki (N3 Adaptation)",
+  "category": "Littérature",
+  "categoryEn": "Literature",
+  "tags": [
+    "Littérature",
+    "Classique",
+    "N3",
+    "Animaux",
+    "Satire"
+  ],
+  "tagsEn": [
+    "Literature",
+    "Classics",
+    "N3",
+    "Animals",
+    "Satire"
+  ],
+  "descriptionFr": "Le célèbre début du chef-d'œuvre de Natsume Sōseki adapté au niveau JLPT N3, raconté du point de vue d'un chat observateur.",
+  "descriptionEn": "The famous opening of Natsume Sōseki's classic masterpiece adapted to JLPT N3 level, told from the perspective of an observant cat.",
+  "imageUrl": "images/wagahai_cat_tatami_1794688719027.jpg",
+  "text": "私は猫である。名前はまだない。\n\nどこで生まれたか、ぜんぜん覚えていない。ただ、暗くて少しつめたい所で、いつもないていたことだけは覚えている。\n\n私はここで初めて人間というものを見た。しかもあとで聞くと、それは学生という、人間の中で一番怖い人たちだったそうだ。\n\nこの学生というのは、時々私たちをつかまえて、料理して食べるという話である。しかしその時は何も考えなかったから、別に怖いとも思わなかった。\n\nただ、彼の手の上に乗せられて、すっと持ち上げられた時、少し空を飛ぶような感じがあっただけである。",
+  "translationsFr": [
+    "Je suis un chat. Je n'ai pas encore de nom.",
+    "",
+    "Où je suis né, je ne m'en souviens absolument pas. Je me rappelle seulement que je miaulais toujours dans un endroit sombre et un peu froid.",
+    "",
+    "C'est ici que j'ai vu pour la première fois ce qu'on appelle des êtres humains. Qui plus est, d'après ce que j'ai entendu plus tard, il s'agissait d'étudiants, les personnes les plus effrayantes parmi les humains.",
+    "",
+    "On raconte que ces étudiants nous attrapent parfois, nous cuisinent et nous mangent. Mais à ce moment-là, je ne pensais à rien, alors je n'ai pas trouvé cela particulièrement effrayant.",
+    "",
+    "Simplement, lorsque je fus posé sur sa main et soulevé d'un coup vers le haut, j'ai eu l'impression de voler un peu dans le ciel."
+  ],
+  "translationsEn": [
+    "I am a cat. As yet I have no name.",
+    "",
+    "Where I was born, I do not remember at all. I only remember that I was always crying in a dark and slightly cold place.",
+    "",
+    "It was here that I saw human beings for the first time. Moreover, when I heard about it later, they were students, supposedly the scariest people among humankind.",
+    "",
+    "They say that these students sometimes catch us, cook us, and eat us. At that time, however, since I wasn't thinking of anything, I didn't find it particularly scary either.",
+    "",
+    "Only, when I was placed on his hand and lifted smoothly upward, I had a slight feeling as if I were flying in the sky."
+  ]
+}

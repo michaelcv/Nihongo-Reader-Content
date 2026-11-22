@@ -1,0 +1,333 @@
+{
+  "id": "shrine-quest",
+  "format": "gamebook",
+  "titleJa": "わすれられたじんじゃの話",
+  "titleFr": "Le Mystère du Sanctuaire Oublié",
+  "titleEn": "The Mystery of the Forgotten Shrine",
+  "coverImage": "images/gamebook_shrine_cover_1793565592568.jpg",
+  "synopsisFr": "Une aventure interactive dont VOUS êtes le héros ! Perdu à la tombée de la nuit dans une vieille forêt, vous tombez sur un sanctuaire oublié. Vos décisions en japonais (JLPT N4) scelleront votre destin.",
+  "synopsisEn": "An interactive adventure where YOU are the hero! Lost at twilight in an ancient forest, you stumble across a forgotten shrine. Your decisions in Japanese (JLPT N4) will seal your destiny.",
+  "author": "Nihongo Reader Aventure",
+  "authorEn": "Nihongo Reader Adventure",
+  "level": "N4",
+  "category": "Livre-Jeu Interactif",
+  "categoryEn": "Interactive Gamebook",
+  "tags": [
+    "Livre-Jeu",
+    "Aventure",
+    "N4",
+    "Fantastique",
+    "Sanctuaire"
+  ],
+  "tagsEn": [
+    "Gamebook",
+    "Adventure",
+    "N4",
+    "Fantasy",
+    "Shrine"
+  ],
+  "startChapterId": "node_intro",
+  "chapters": {
+    "node_intro": {
+      "id": "node_intro",
+      "chapterNumber": 1,
+      "titleJa": "一：夕方の とりい",
+      "titleFr": "Chapitre 1 : Le Torii au crépuscule",
+      "titleEn": "Chapter 1: The Torii Gate at Twilight",
+      "imageUrl": "images/gamebook_shrine_cover_1793565592568.jpg",
+      "text": "夕方、あなたは しずかな 古い もりの 中で 道が わからなく なりました。\nつめたい 風が ふいて、木の えだが ゆれて います。\n\n上を 見ると、あかい とりいが しずかに たって います。\nとりいの まわりには、あおい 小さな ひかりが たくさん とんで います。\n\nその 先には いしの 道が つづいて、小さな 木の じんじゃが 見えます。\nでも、右の 方には、古い いしの じぞうが ならぶ ほそい 道も あります。\nどちらへ すすみますか？",
+      "choices": [
+        {
+          "id": "c1",
+          "textJa": "あかい とりいを とおって、いしの 道を まっすぐ すすむ",
+          "textFr": "Passer sous le torii rouge et suivre le chemin de pierre tout droit",
+          "textEn": "Pass through the red torii gate and head straight down the stone path",
+          "targetChapterId": "node_sanctuary_approach",
+          "hint": "Le chemin rituel officiel vers le sanctuaire principal",
+          "hintFr": "Le chemin rituel officiel vers le sanctuaire principal",
+          "hintEn": "The official ritual path toward the main shrine"
+        },
+        {
+          "id": "c2",
+          "textJa": "じぞうが ならぶ 右の ほそい 道へ 入って みる",
+          "textFr": "Emprunter l'étroit sentier à droite bordé de statues Jizō",
+          "textEn": "Try entering the narrow path to the right lined with Jizō statues",
+          "targetChapterId": "node_forest_fork",
+          "hint": "Un sentier secret menant plus loin dans les bois",
+          "hintFr": "Un sentier secret menant plus loin dans les bois",
+          "hintEn": "A secluded trail leading deeper into the woods"
+        }
+      ],
+      "translationsFr": [
+        "En fin d'après-midi, vous avez perdu votre chemin dans une vieille forêt silencieuse.",
+        "Un vent froid souffle et les branches des arbres frémissent.",
+        "",
+        "En levant les yeux, vous voyez un torii rouge dressé en silence.",
+        "Autour du torii, de nombreuses petites lueurs bleues flottent dans les airs.",
+        "",
+        "Plus loin s'étend un chemin de pierre où l'on aperçoit un petit sanctuaire en bois.",
+        "Cependant, sur la droite, il y a aussi un sentier étroit bordé de vieux Jizō en pierre.",
+        "De quel côté avancez-vous ?"
+      ],
+      "translationsEn": [
+        "At dusk, you have lost your way inside a quiet old forest.",
+        "A cold wind blows, and the tree branches are swaying.",
+        "",
+        "Looking up, a red torii gate stands quietly.",
+        "Around the torii, many small blue lights are flying about.",
+        "",
+        "Ahead, a stone path continues and a small wooden shrine is visible.",
+        "However, to the right, there is also a narrow path lined with old stone Jizō statues.",
+        "Which way do you proceed?"
+      ]
+    },
+    "node_forest_fork": {
+      "id": "node_forest_fork",
+      "chapterNumber": 2,
+      "titleJa": "二：もりの 道と きつね",
+      "titleFr": "Chapitre 2 : Le sentier de la forêt et le renard",
+      "titleEn": "Chapter 2: The Forest Path and the Fox",
+      "imageUrl": "images/gamebook_forest_path_1793565607371.jpg",
+      "text": "いしの かいだんを のぼると、たくさんの じぞうが やさしく あなたを 見て います。\nもりの 中から、すずの きれいな 音が きこえて きました。\n\n前の 広い ところには あかるい 火が ついて いて、白い きつねが しずかに すわって います。\nきつねの 目は とても きれいで、あなたを よく 見て います。\n\nきつねの 足の そばには、古い 本と ひかる まがたまが おいて あります。",
+      "choices": [
+        {
+          "id": "c3",
+          "textJa": "きつねに ていねいに あいさつを する",
+          "textFr": "Saluer poliment le renard",
+          "textEn": "Greet the fox politely",
+          "targetChapterId": "node_fox_encounter",
+          "hint": "La politesse et le respect envers l'esprit de la forêt",
+          "hintFr": "La politesse et le respect envers l'esprit de la forêt",
+          "hintEn": "Politeness and respect toward the forest spirit"
+        },
+        {
+          "id": "c4",
+          "textJa": "おどろいて いそいで もどり、じんじゃの 広い 道へ 行く",
+          "textFr": "Prendre peur, revenir vite en arrière et rejoindre la grande allée du sanctuaire",
+          "textEn": "Turn back quickly in surprise and head to the wide shrine road",
+          "targetChapterId": "node_sanctuary_approach",
+          "hint": "Rejoindre le chemin principal du sanctuaire",
+          "hintFr": "Rejoindre le chemin principal du sanctuaire",
+          "hintEn": "Return to the main shrine approach"
+        }
+      ],
+      "translationsFr": [
+        "En montant l'escalier de pierre, de nombreux Jizō vous regardent avec douceur.",
+        "Du fond de la forêt retentit le joli son d'une clochette.",
+        "",
+        "Dans l'espace dégagé devant vous brille un feu lumineux, et un renard blanc est assis en silence.",
+        "Les yeux du renard sont très beaux et vous observent attentivement.",
+        "",
+        "Près des pattes du renard sont posés un vieux livre et une magatama lumineuse."
+      ],
+      "translationsEn": [
+        "Climbing the stone stairs, many Jizō statues are gently watching you.",
+        "From within the forest, the pretty sound of a bell comes echoing.",
+        "",
+        "In the open space ahead a bright fire is lit, and a white fox is sitting quietly.",
+        "The fox's eyes are very clear and watch you closely.",
+        "",
+        "Beside the fox's feet lie an old book and a shining magatama."
+      ]
+    },
+    "node_fox_encounter": {
+      "id": "node_fox_encounter",
+      "chapterNumber": 3,
+      "titleJa": "三：白い きつねと 大切な まがたま",
+      "titleFr": "Chapitre 3 : Le renard blanc et la précieuse magatama",
+      "titleEn": "Chapter 3: The White Fox and the Precious Magatama",
+      "imageUrl": "images/gamebook_fox_spirit_1793565607826.jpg",
+      "text": "あなたが ていねいに「こんばんは」と あいさつを すると、白い きつねは やさしく こたえました。\n\n「ていねいな とても いい 人ですね。\nこの 先の じんじゃには、むかしから 大切な かたなが おいて あります。\nわるい 心の 人には きけんですが、きれいな 心の 人には かならず 力を かしますよ。」\n\nきつねは あしで みどりの まがたまを あなたの そばへ だしました。\nまがたまに さわると、あたたかい 力が 体に いっぱいに なりました。",
+      "choices": [
+        {
+          "id": "c5",
+          "textJa": "まがたまを 大切に もらって、きつねと いっしょに じんじゃの 中へ 入る",
+          "textFr": "Accepter précieusement la magatama et entrer dans le sanctuaire avec le renard",
+          "textEn": "Carefully accept the magatama and enter the shrine with the fox",
+          "targetChapterId": "node_inner_sanctum_blessed",
+          "hint": "Entrer dans le sanctuaire avec la protection du renard",
+          "hintFr": "Entrer dans le sanctuaire avec la protection du renard",
+          "hintEn": "Enter the shrine under the fox's protection"
+        }
+      ],
+      "translationsFr": [
+        "Lorsque vous saluez poliment d'un « Bonsoir », le renard blanc répond avec douceur.",
+        "",
+        "« Vous êtes une personne très polie et bienveillante.",
+        "Dans le sanctuaire plus loin est conservé depuis longtemps un sabre précieux.",
+        "C'est dangereux pour ceux qui ont le cœur mauvais, mais à ceux au cœur pur, il prêtera certainement sa force. »",
+        "",
+        "De sa patte, le renard pousse la magatama verte vers vous.",
+        "En la touchant, une douce force chaleureuse vous remplit le corps."
+      ],
+      "translationsEn": [
+        "When you greet politely with \"Good evening\", the white fox answers gently.",
+        "",
+        "\"You are a very polite and good person.",
+        "In the shrine ahead, an important sword has been kept since long ago.",
+        "It is dangerous for those with bad hearts, but to one with a pure heart, it will surely lend its power.\"",
+        "",
+        "With its paw, the fox pushes the green magatama toward you.",
+        "When you touch the magatama, a warm power fills your body."
+      ]
+    },
+    "node_sanctuary_approach": {
+      "id": "node_sanctuary_approach",
+      "chapterNumber": 4,
+      "titleJa": "四：じんじゃの かいだんと はこ",
+      "titleFr": "Chapitre 4 : Les marches du sanctuaire et le coffre",
+      "titleEn": "Chapter 4: The Shrine Steps and Offering Box",
+      "imageUrl": "images/gamebook_shrine_cover_1793565592568.jpg",
+      "text": "道を すすむと、大きな じんじゃの かいだんの 前に つきました。\nかいだんの 上には、お金を 入れる はこと、古い 木の とが あります。\n\nまわりの 空気は とても しずかで、特別な 気持ちに なります。\nとの あいだからは、きいろい ひかりが すこし 見えます。\n\nあなたは じんじゃの ただしい しかたを 思いだして、どうしますか？",
+      "choices": [
+        {
+          "id": "c6",
+          "textJa": "はこに お金を 入れて、ていねいに いのる",
+          "textFr": "Mettre une offrande dans le coffre et prier poliment",
+          "textEn": "Put money in the box and pray politely",
+          "targetChapterId": "node_inner_sanctum_respectful",
+          "hint": "Respecter le rituel shinto avant d'entrer",
+          "hintFr": "Respecter le rituel shinto avant d'entrer",
+          "hintEn": "Follow traditional shrine etiquette before entering"
+        },
+        {
+          "id": "c7",
+          "textJa": "いのらないで、そのまま とを あけて 中へ 入る",
+          "textFr": "Ouvrir directement la porte et entrer sans prier",
+          "textEn": "Open the door and go inside without praying",
+          "targetChapterId": "node_inner_sanctum_impious",
+          "hint": "Entrer sans accomplir le rituel de respect",
+          "hintFr": "Entrer sans accomplir le rituel de respect",
+          "hintEn": "Enter out of curiosity without showing respect"
+        }
+      ],
+      "translationsFr": [
+        "En avançant sur le chemin, vous arrivez devant les marches d'un grand sanctuaire.",
+        "En haut des marches se trouvent un tronc pour déposer des offrandes et une vieille porte en bois.",
+        "",
+        "L'air autour est très silencieux et procure un sentiment tout particulier.",
+        "Par l'ouverture de la porte, on aperçoit un peu de lumière dorée.",
+        "",
+        "En vous souvenant de la bonne manière d'agir dans un sanctuaire, que faites-vous ?"
+      ],
+      "translationsEn": [
+        "Proceeding along the path, you arrive in front of the stairs of a grand shrine.",
+        "At the top of the stairs, there is a box to put money in and an old wooden door.",
+        "",
+        "The surrounding air is very quiet, giving you a special feeling.",
+        "Through the gap of the door, a little yellow light is visible.",
+        "",
+        "Remembering the proper way to act at a shrine, what do you do?"
+      ]
+    },
+    "node_inner_sanctum_blessed": {
+      "id": "node_inner_sanctum_blessed",
+      "chapterNumber": 5,
+      "titleJa": "おわり：ひかる かたなと 新しい 力",
+      "titleFr": "Épilogue Victorieux : Le sabre lumineux et la force nouvelle",
+      "titleEn": "Victorious Epilogue: The Shining Blade and New Strength",
+      "imageUrl": "images/gamebook_inner_sanctum_1793565544337.jpg",
+      "isEnding": true,
+      "endingType": "victory",
+      "endingBadge": "Victoire Parfaite · Gardien des Esprits (やさしい 心の 人)",
+      "endingBadgeFr": "Victoire Parfaite · Gardien des Esprits (やさしい 心の 人)",
+      "endingBadgeEn": "Perfect Victory · Guardian of Spirits (やさしい 心の 人)",
+      "endingSummaryFr": "Félicitations ! Grâce à votre respect des traditions et à l'aide du renard blanc, le sabre sacré vous reconnaît et vous protège.",
+      "endingSummaryEn": "Congratulations! By honoring traditions and earning the white fox's help, the sacred blade embraces and protects you.",
+      "text": "じんじゃの とを あけると、そこは とても 広い きれいな へやでした。\nまんなかの いしの 上には、うつくしく ひかる かたなが おいて あります。\n\nあなたが まがたまを もって しずかに あるくと、かたなから きれいな ひかりが 出ました。\nもりの くらい くもは なくなり、あかるい 月の ひかりが 空から 入って きます。\n\n「やさしい 心の 人よ、あなたに よい ことと 安心を あげよう。」\n風の 中で、やさしい こえが きこえました。\nあなたは もりを 出て、大事な 力と 元気を もらいました。",
+      "choices": [],
+      "translationsFr": [
+        "En ouvrant la porte du sanctuaire, vous découvrez une très vaste et belle pièce.",
+        "Sur la pierre au centre repose un sabre qui brille magnifiquement.",
+        "",
+        "Lorsque vous marchez calmement avec la magatama, une belle lumière émane du sabre.",
+        "Les nuages sombres de la forêt disparaissent, et la claire lumière de la lune entre depuis le ciel.",
+        "",
+        "« Ô personne au cœur doux, je t'offre le bonheur et la sérénité. »",
+        "Dans le vent, une voix bienveillante se fait entendre.",
+        "Vous sortez de la forêt, doté d'une force et d'une énergie précieuses."
+      ],
+      "translationsEn": [
+        "Opening the shrine door, it is a very wide and beautiful room.",
+        "On the stone in the center rests a beautifully shining sword.",
+        "",
+        "As you walk quietly holding the magatama, a pretty light comes out of the sword.",
+        "The dark clouds of the forest disappear, and bright moonlight enters from the sky.",
+        "",
+        "\"Kind-hearted person, I give you good things and peace of mind.\"",
+        "Within the wind, a gentle voice was heard.",
+        "You exited the forest, having received important strength and energy."
+      ]
+    },
+    "node_inner_sanctum_respectful": {
+      "id": "node_inner_sanctum_respectful",
+      "chapterNumber": 5,
+      "titleJa": "おわり：しずかな いのりと 安心",
+      "titleFr": "Épilogue Harmonieux : La prière silencieuse et la paix",
+      "titleEn": "Harmonious Epilogue: Quiet Prayer and Peace",
+      "imageUrl": "images/gamebook_inner_sanctum_1793565544337.jpg",
+      "isEnding": true,
+      "endingType": "victory",
+      "endingBadge": "Fin Heureuse · Paix Intérieure (心の 安心)",
+      "endingBadgeFr": "Fin Heureuse · Paix Intérieure (心の 安心)",
+      "endingBadgeEn": "Happy Ending · Inner Peace (心の 安心)",
+      "endingSummaryFr": "En observant le rituel avec humilité, le sanctuaire vous accueille en paix et la forêt vous guide vers votre chemin de retour.",
+      "endingSummaryEn": "By praying with humility and proper manners, the shrine grants you peace of mind and guides you safely home.",
+      "text": "あなたが はこに お金を 入れて、ていねいに いのると、じんじゃの すずが きれいな 音を だしました。\nとが しずかに ひらいて、あたたかい ひかりが あなたを つつみます。\n\nなかの いしの 上には 大切な かたなが あって、あなたの 心から しんぱいが きえて 行きました。\nかたなには さわらないで、ていねいに「ありがとう」と いいました。\n\nじんじゃを 出ると、もりの 木の あいだに まちの 火が 見えて、道に こまらず いえへ かえる ことが できました。",
+      "choices": [],
+      "translationsFr": [
+        "Lorsque vous mettez une pièce dans le coffre et priez poliment, la cloche du sanctuaire produit un joli son.",
+        "La porte s'ouvre doucement et une lumière chaleureuse vous enveloppe.",
+        "",
+        "Sur la pierre à l'intérieur se trouve le précieux sabre, et l'inquiétude disparaît de votre cœur.",
+        "Sans toucher le sabre, vous dites poliment « Merci ».",
+        "",
+        "En sortant du sanctuaire, vous apercevez les lumières de la ville entre les arbres de la forêt, et pouvez rentrer chez vous sans difficulté."
+      ],
+      "translationsEn": [
+        "When you put money in the box and pray politely, the shrine bell makes a pretty sound.",
+        "The door opens quietly, and a warm light wraps around you.",
+        "",
+        "On the stone inside is the precious sword, and worry vanishes from your heart.",
+        "Without touching the sword, you politely said \"Thank you.\"",
+        "",
+        "Leaving the shrine, you see the town lights between the forest trees and can return home without losing your way."
+      ]
+    },
+    "node_inner_sanctum_impious": {
+      "id": "node_inner_sanctum_impious",
+      "chapterNumber": 5,
+      "titleJa": "おわり：こわい 風と 大切な こと",
+      "titleFr": "Épilogue Défavorable : Le vent sévère et la leçon",
+      "titleEn": "Cautionary Epilogue: The Fierce Wind and Important Lesson",
+      "imageUrl": "images/gamebook_shrine_cover_1793565592568.jpg",
+      "isEnding": true,
+      "endingType": "defeat",
+      "endingBadge": "Fin Éprouvante · Leçon de Respect (大切な こと)",
+      "endingBadgeFr": "Fin Éprouvante · Leçon de Respect (大切な こと)",
+      "endingBadgeEn": "Difficult Lesson · Important Teaching (大切な こと)",
+      "endingSummaryFr": "En pénétrant dans le lieu saint sans le moindre respect ni prière, un vent violent vous repousse hors du sanctuaire.",
+      "endingSummaryEn": "Entering the holy sanctum carelessly without prayer stirs up a harsh wind that pushes you outside the shrine.",
+      "text": "あなたが いのらないで とを つよく あけた 時、なかから つめたい つよい 風が ふいて きました！\n火が ぜんぶ きえて、じんじゃが 大きく ゆれます。\n\n「ていねいに しない 人は、ここは 大切な ところです。」\nきびしい こえと いっしょに、あなたは 見えない 力で とりいの 外まで おされました。\n\n気が つくと、あなたは もりの 入口の 道に たおれて いました。けがは ありませんでしたが、この くにの 古い 大切な ことを よく おぼえました。",
+      "choices": [],
+      "translationsFr": [
+        "Au moment où vous ouvrez brusquement la porte sans prier, un vent froid et violent souffle de l'intérieur !",
+        "Toutes les lumières s'éteignent et le sanctuaire tremble fortement.",
+        "",
+        "« Pour qui manque de respect, ce lieu est un endroit précieux. »",
+        "Accompagné d'une voix sévère, vous êtes repoussé au-delà du torii par une force invisible.",
+        "",
+        "En reprenant vos esprits, vous êtes allongé sur le chemin à l'entrée de la forêt. Vous n'êtes pas blessé, mais vous avez bien retenu les choses anciennes et importantes de ce pays."
+      ],
+      "translationsEn": [
+        "When you forcefully open the door without praying, a cold strong wind blows out from inside!",
+        "All the lights go out, and the shrine shakes greatly.",
+        "",
+        "\"To one who lacks manners, this is an important place.\"",
+        "Along with a stern voice, you are pushed outside the torii by an invisible force.",
+        "",
+        "When you realize it, you are lying on the road at the forest entrance. Though uninjured, you well learned the old important ways of this country."
+      ]
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "first-meeting",
+  "titleJa": "はじめまして（わたし の 名前）",
+  "titleFr": "Première rencontre : La présentation de soi (Jikoshōkai)",
+  "titleEn": "First Meeting: Self-Introduction (Jikoshōkai)",
+  "level": "N5",
+  "author": "Nihongo Reader Débutant",
+  "authorEn": "Nihongo Reader Beginner",
+  "category": "Mises en situation",
+  "categoryEn": "Real-Life Situations",
+  "tags": [
+    "Mises en situation",
+    "Dialogue",
+    "N5",
+    "Débutant",
+    "Présentation"
+  ],
+  "tagsEn": [
+    "Real-Life Situations",
+    "Dialogue",
+    "N5",
+    "Beginner",
+    "Self-Introduction"
+  ],
+  "descriptionFr": "Apprenez à vous présenter lors d'une première rencontre : salutations, nom, nationalité, études et goûts avec uniquement des kanji et mots de niveau JLPT N5.",
+  "descriptionEn": "Learn how to introduce yourself on a first encounter: greetings, name, nationality, studies, and interests using strictly JLPT N5 kanji and vocabulary.",
+  "imageUrl": "images/japanese_greeting_cover_1794688718159.jpg",
+  "text": "たなか：はじめまして！わたし は たなか です。日本 の 人 です。よろしく おねがい します。\n\nトマ：はじめまして、たなか さん！わたし の 名前 は トマ・ベルナール です。フランス から 来ました。\n\nたなか：トマ さん、日本語 が とても じょうず ですね！学生 ですか。\n\nトマ：ありがとう ございます。はい、大学 で 日本語 と えいご を べんきょう して います。\n\nたなか：そうですか。トマ さん は 何 が すき ですか。\n\nトマ：わたし は えいが を 見る こと と、ラジオ を きく こと が すき です。うた も だいすき です。\n\nたなか：いい ですね！わたし も うた が すき ですよ。また いっしょ に はなしましょう。\n\nトマ：はい！どうぞ よろしく おねがい します！",
+  "translationsFr": [
+    "Tanaka : « Enchanté ! Je suis Tanaka. Je suis japonais. Ravi de faire votre connaissance. »",
+    "",
+    "Thomas : « Enchanté, M. Tanaka ! Mon nom est Thomas Bernard. Je viens de France. »",
+    "",
+    "Tanaka : « Thomas, votre japonais est très bon ! Êtes-vous étudiant ? »",
+    "",
+    "Thomas : « Merci beaucoup. Oui, j'étudie le japonais et l'anglais à l'université. »",
+    "",
+    "Tanaka : « Vraiment ? Qu'est-ce que vous aimez, Thomas ? »",
+    "",
+    "Thomas : « J'aime regarder des films et écouter la radio. J'adore aussi les chansons. »",
+    "",
+    "Tanaka : « C'est formidable ! Moi aussi j'aime les chansons. Discutons encore ensemble ! »",
+    "",
+    "Thomas : « Oui ! Tout le plaisir est pour moi, enchanté ! »"
+  ],
+  "translationsEn": [
+    "Tanaka: \"Nice to meet you! I am Tanaka. I am Japanese. Please to meet you.\"",
+    "",
+    "Thomas: \"Nice to meet you, Mr. Tanaka! My name is Thomas Bernard. I come from France.\"",
+    "",
+    "Tanaka: \"Thomas, your Japanese is very good! Are you a student?\"",
+    "",
+    "Thomas: \"Thank you very much. Yes, I am studying Japanese and English at university.\"",
+    "",
+    "Tanaka: \"I see. What do you like, Thomas?\"",
+    "",
+    "Thomas: \"I like watching movies and listening to the radio. I also love songs.\"",
+    "",
+    "Tanaka: \"That's great! I like songs too. Let's talk together again!\"",
+    "",
+    "Thomas: \"Yes! Nice to meet you!\""
+  ]
+}

@@ -1,0 +1,448 @@
+{
+  "id": "kyoto-night-train",
+  "format": "gamebook",
+  "titleJa": "京都 へ の 夜 の 電車",
+  "titleFr": "Le Train de Nuit pour Kyoto",
+  "titleEn": "The Night Train to Kyoto",
+  "coverImage": "images/kyoto_train_station_1795335518594.jpg",
+  "synopsisFr": "Une aventure interactive en niveau JLPT N4 ! Vous montez à bord du dernier train de nuit pour Kyoto. Un paquet oublié dans un tissu bleu et une lettre mystérieuse vous entraînent dans une enquête nocturne pleine de choix : réussirez-vous à retrouver sa propriétaire avant le lever du jour ?",
+  "synopsisEn": "An interactive JLPT N4 mystery adventure! You board the last night train bound for Kyoto. A forgotten blue cloth parcel and a mysterious letter draw you into an overnight quest—will you make the right decisions to return it before sunrise?",
+  "author": "Nihongo Reader Aventure",
+  "authorEn": "Nihongo Reader Adventure",
+  "level": "N4",
+  "category": "Livre-Jeu Interactif",
+  "categoryEn": "Interactive Gamebook",
+  "tags": [
+    "Livre-Jeu",
+    "Voyage",
+    "Mystère",
+    "N4",
+    "Train",
+    "Kyoto"
+  ],
+  "tagsEn": [
+    "Gamebook",
+    "Travel",
+    "Mystery",
+    "N4",
+    "Train",
+    "Kyoto"
+  ],
+  "startChapterId": "node_platform",
+  "chapters": {
+    "node_platform": {
+      "id": "node_platform",
+      "chapterNumber": 1,
+      "titleJa": "一：夜 の 駅 と 青い 電車",
+      "titleFr": "Chapitre 1 : La gare nocturne et le train bleu",
+      "titleEn": "Chapter 1: The Night Station and Blue Train",
+      "imageUrl": "images/kyoto_train_station_1795335518594.jpg",
+      "text": "夜 の 十時 ごろ、あなた は きり の ある 静か な 駅 に 来ました。\nあたたかい 明かり の 下 に、京都 へ 行く 青い 夜 の 電車 が 止まって います。\n\n「この 電車 は あと 三分 で 出ます。」と、駅 の 声 が 聞こえました。\nきっぷ を 見る と、あなた の せき は 四ばん の 電車 の 中 に あります。\nでも、前 の ほう に ある あかるい お茶 の へや も とても 気持ち よさそうです。",
+      "choices": [
+        {
+          "id": "c_board_cabin",
+          "textJa": "きっぷ の 四ばん の へや へ まっすぐ 入る",
+          "textFr": "Monter directement dans votre voiture réservée (n° 4)",
+          "textEn": "Head straight to your reserved car (Car 4)",
+          "targetChapterId": "node_cabin_parcel",
+          "hintFr": "Vous installez vos affaires dans votre compartiment calme",
+          "hintEn": "Settle into your quiet compartment"
+        },
+        {
+          "id": "c_visit_dining",
+          "textJa": "先 に 前 の お茶 の へや へ 行って みる",
+          "textFr": "Aller d'abord jeter un œil au wagon-salon à l'avant",
+          "textEn": "First check out the cozy lounge car up front",
+          "targetChapterId": "node_dining_car",
+          "hintFr": "Prendre un thé chaud et discuter avec le personnel",
+          "hintEn": "Enjoy warm tea and talk with the train attendant"
+        }
+      ],
+      "translationsFr": [
+        "Vers dix heures du soir, vous arrivez dans une gare calme enveloppée de brume.",
+        "Sous les lanternes chaleureuses est arrêté le train de nuit bleu en direction de Kyoto.",
+        "",
+        "« Ce train partira dans trois minutes », annonce la voix de la gare.",
+        "En regardant votre billet, votre place se trouve dans la voiture numéro quatre.",
+        "Mais la voiture-salon lumineuse à l'avant où l'on sert du thé a l'air très accueillante elle aussi."
+      ],
+      "translationsEn": [
+        "Around ten at night, you arrive at a quiet misty train station.",
+        "Beneath warm glowing lanterns waits the blue night train bound for Kyoto.",
+        "",
+        "\"This train will depart in three minutes,\" echoes the station announcement.",
+        "Checking your ticket, your reserved seat is inside Car 4.",
+        "Yet the warmly lit tea lounge car near the front also looks very inviting."
+      ]
+    },
+    "node_cabin_parcel": {
+      "id": "node_cabin_parcel",
+      "chapterNumber": 2,
+      "titleJa": "二：青い つつみ と 古い てがみ",
+      "titleFr": "Chapitre 2 : Le paquet bleu et la vieille lettre",
+      "titleEn": "Chapter 2: The Blue Parcel and Folded Letter",
+      "imageUrl": "images/kyoto_train_cabin_1795335520347.jpg",
+      "text": "電車 が 静か に うごき 始めました。外 は 雨 で、暗い 山 が 見えます。\nあなた が せき に すわろう と した とき、つくえ の 上 に もの が ある の に 気 が つきました。\n\nだれ か が 青い ぬの の つつみ と、白い てがみ を わすれて 行った ようです。\nまわり に は ほか の おきゃくさん は いません。",
+      "choices": [
+        {
+          "id": "c_read_letter",
+          "textJa": "つくえ の 上 の てがみ を そっと 読んで みる",
+          "textFr": "Lire doucement la lettre posée sur la table",
+          "textEn": "Gently read the letter lying on the table",
+          "targetChapterId": "node_read_letter",
+          "hintFr": "Chercher un indice sur son propriétaire",
+          "hintEn": "Look for a clue about its owner"
+        },
+        {
+          "id": "c_ask_attendant",
+          "textJa": "てがみ を 見ない で、電車 の かかり の 人 に きき に 行く",
+          "textFr": "Ne pas lire la lettre et aller demander de l'aide à l'employé du train",
+          "textEn": "Leave the letter unread and go ask the train attendant for help",
+          "targetChapterId": "node_conductor_parcel",
+          "hintFr": "Confier tout de suite l'objet trouvé",
+          "hintEn": "Hand over the lost item right away"
+        }
+      ],
+      "translationsFr": [
+        "Le train se met doucement en marche. Dehors il pleut, et l'on aperçoit de sombres montagnes.",
+        "Au moment où vous allez vous asseoir, vous remarquez quelque chose posé sur la table.",
+        "",
+        "Quelqu'un semble avoir oublié un paquet enveloppé dans un tissu bleu ainsi qu'une lettre blanche.",
+        "Il n'y a aucun autre voyageur autour de vous."
+      ],
+      "translationsEn": [
+        "The train begins moving smoothly. Outside it is raining, and dark mountains pass by.",
+        "Just as you are about to sit down, you notice something sitting on the table.",
+        "",
+        "Someone seems to have forgotten a blue cloth-wrapped bundle and a white letter.",
+        "There are no other passengers nearby."
+      ]
+    },
+    "node_read_letter": {
+      "id": "node_read_letter",
+      "chapterNumber": 3,
+      "titleJa": "三：てがみ の たいせつ な 話",
+      "titleFr": "Chapitre 3 : Le message important de la lettre",
+      "titleEn": "Chapter 3: The Important Message in the Letter",
+      "imageUrl": "images/kyoto_train_cabin_1795335520347.jpg",
+      "text": "てがみ に は、きれい な 字 で こう かいて ありました。\n「京都 の はやし おばあさん へ。あした の 朝 の おまつり で つかう 大切 な もの を おくります。朝 六時 に 駅 で お待ち ください。」\n\nその とき、電車 が ゆっくり 止まり ました。雨 の 中 の 小さな いなか の 駅 です。\nまど から 外 を 見る と、あかい かさ を 持った 人 が いそいで 走って います。あの 人 の もの でしょうか？",
+      "choices": [
+        {
+          "id": "c_step_out_check",
+          "textJa": "電車 を おりて、駅 の 人 に きいて みる",
+          "textFr": "Descendre brièvement sur le quai pour appeler le voyageur sous la pluie",
+          "textEn": "Step off onto the platform to check with the person in the rain",
+          "targetChapterId": "node_rainy_stop",
+          "hintFr": "Attention : le train pourrait repartir vite !",
+          "hintEn": "Careful: the train might depart soon!"
+        },
+        {
+          "id": "c_stay_and_report",
+          "textJa": "京都 へ 行く 人 の もの だ から、電車 の かかり の 人 に 見せる",
+          "textFr": "Rester à bord et montrer la lettre à l'employé du train (destination Kyoto)",
+          "textEn": "Stay aboard and show the letter to the train attendant (bound for Kyoto)",
+          "targetChapterId": "node_conductor_parcel",
+          "hintFr": "La lettre indique clairement Kyoto à 6 h",
+          "hintEn": "The letter clearly states Kyoto at 6:00 AM"
+        }
+      ],
+      "translationsFr": [
+        "Sur la lettre était écrit d'une belle écriture :",
+        "« Pour grand-mère Hayashi à Kyoto. Je vous envoie l'objet précieux pour la fête de demain matin. Merci d'attendre à la gare à 6 h. »",
+        "",
+        "À ce moment, le train ralentit et s'arrête dans une petite gare de campagne sous la pluie.",
+        "Par la fenêtre, vous voyez quelqu'un courir avec un parapluie rouge. Est-ce le propriétaire du paquet ?"
+      ],
+      "translationsEn": [
+        "On the letter, written in neat handwriting, it said:",
+        "\"To Grandmother Hayashi in Kyoto. I am sending the treasured item for tomorrow morning's festival. Please wait at the station at 6:00 AM.\"",
+        "",
+        "Just then, the train slows to a stop at a small countryside station in the rain.",
+        "Looking out the window, you see someone hurrying along with a red umbrella. Could it belong to them?"
+      ]
+    },
+    "node_rainy_stop": {
+      "id": "node_rainy_stop",
+      "chapterNumber": 4,
+      "titleJa": "四：雨 の 小さな 駅",
+      "titleFr": "Chapitre 4 : La petite gare sous la pluie",
+      "titleEn": "Chapter 4: The Little Station in the Rain",
+      "imageUrl": "images/kyoto_rainy_detour_1795335520727.jpg",
+      "text": "あなた は つつみ を 持って、つめたい 雨 の ホーム に おり ました。\nしかし、走って いた 人 に きく と、「いいえ、わたし の では ありませんよ。」と 言いました。\n\nその とき、「ピピーッ！」と 電車 の 音 が 聞こえて、ドア が しまり 始めました！\nあと 少し で 電車 が 出て しまいます！",
+      "choices": [
+        {
+          "id": "c_run_back_train",
+          "textJa": "いそいで 走って、電車 の 中 へ もどる！",
+          "textFr": "Courir à toute vitesse pour remonter dans le train !",
+          "textEn": "Sprint back onto the train before the doors shut!",
+          "targetChapterId": "node_conductor_parcel",
+          "hintFr": "Rattraper le train de justesse",
+          "hintEn": "Catch the train just in time"
+        },
+        {
+          "id": "c_miss_train_ask",
+          "textJa": "駅 の 人 に ゆっくり 話そう と 思って、ホーム に のこる",
+          "textFr": "Rester sur le quai pour parler tranquillement au chef de gare",
+          "textEn": "Stay on the platform to speak calmly with the station staff",
+          "targetChapterId": "node_missed_train_ending",
+          "hintFr": "Vous risquez de manquer le train de nuit",
+          "hintEn": "You risk missing the night train"
+        }
+      ],
+      "translationsFr": [
+        "Vous descendez avec le paquet sur le quai humide dans la pluie fraîche.",
+        "Cependant, en demandant à la personne qui courait, elle répond : « Non, ce n'est pas à moi. »",
+        "",
+        "À cet instant, le coup de sifflet du train retentit et les portes commencent à se fermer !",
+        "Le train va partir d'une seconde à l'autre !"
+      ],
+      "translationsEn": [
+        "Holding the parcel, you step out onto the chilly rainy platform.",
+        "However, when you ask the hurrying traveler, they reply, \"No, that isn't mine.\"",
+        "",
+        "Right then, the train whistle blows and the doors begin to close!",
+        "The train is about to depart any second!"
+      ]
+    },
+    "node_dining_car": {
+      "id": "node_dining_car",
+      "chapterNumber": 2,
+      "titleJa": "二：あたたかい お茶 と 電車 の 人",
+      "titleFr": "Chapitre 2 : Le thé chaud et l'employé du train",
+      "titleEn": "Chapter 2: Warm Tea and the Train Attendant",
+      "imageUrl": "images/kyoto_dining_car_1795335520858.jpg",
+      "text": "前 の へや に 入る と、いい お茶 の におい が して、とても あたたかいです。\nしろい てぶくろ を した 電車 の 人 が 時計 を 見ながら、やさしく 話しかけました。\n\n「こんばんは。京都 まで ご旅行 ですか？\nさっき、四ばん の へや に おきゃくさん が 大切 な 青い つつみ を わすれた かも しれません。」",
+      "choices": [
+        {
+          "id": "c_check_car4",
+          "textJa": "「わたしの せき も 四ばん です！ すぐ 見て きます。」",
+          "textFr": "« Ma place est justement en voiture 4 ! Je vais vérifier tout de suite. »",
+          "textEn": "\"My seat is in Car 4 too! I'll go check right away.\"",
+          "targetChapterId": "node_cabin_after_tea",
+          "hintFr": "Aller inspecter la voiture 4",
+          "hintEn": "Go inspect Car 4"
+        },
+        {
+          "id": "c_sleep_tea",
+          "textJa": "「たいへん ですね。おやすみなさい。」と 言って、そのまま ねる",
+          "textFr": "« Quel dommage. Bonne nuit », et aller dormir sans vérifier",
+          "textEn": "\"That's too bad. Good night,\" and go straight to sleep",
+          "targetChapterId": "node_neutral_sleep_ending",
+          "hintFr": "Passer une nuit tranquille sans s'en mêler",
+          "hintEn": "Have a quiet night without getting involved"
+        }
+      ],
+      "translationsFr": [
+        "En entrant dans la voiture-salon à l'avant, une bonne odeur de thé japonais flotte dans l'air chaleureux.",
+        "L'employé du train aux gants blancs consulte sa montre et vous adresse la parole aimablement :",
+        "",
+        "« Bonsoir. Voyagez-vous jusqu'à Kyoto ?",
+        "Tout à l'heure, un voyageur a peut-être oublié un précieux paquet bleu dans la voiture numéro quatre. »"
+      ],
+      "translationsEn": [
+        "Stepping into the lounge car up front, the aroma of fine Japanese tea fills the warm room.",
+        "A uniformed train attendant in white gloves glances at his pocket watch and greets you kindly:",
+        "",
+        "\"Good evening. Are you traveling all the way to Kyoto?",
+        "Earlier, a passenger may have left an important blue parcel behind in Car 4.\""
+      ]
+    },
+    "node_cabin_after_tea": {
+      "id": "node_cabin_after_tea",
+      "chapterNumber": 3,
+      "titleJa": "三：つくえ の 上 の 青い つつみ",
+      "titleFr": "Chapitre 3 : Le paquet bleu sur la table",
+      "titleEn": "Chapter 3: The Blue Parcel on the Table",
+      "imageUrl": "images/kyoto_train_cabin_1795335520347.jpg",
+      "text": "四ばん の へや へ もどる と、つくえ の 上 に ほんとう に 青い つつみ と てがみ が ありました！\nてがみ に は「朝 六時 に 京都 の 駅 で はやし おばあさん に わたして ください」と かいて あります。",
+      "choices": [
+        {
+          "id": "c_bring_to_conductor",
+          "textJa": "つつみ を 持って、電車 の 人 の ところ へ もどる",
+          "textFr": "Apporter le paquet et la lettre à l'employé du train",
+          "textEn": "Bring the parcel and letter back to the train attendant",
+          "targetChapterId": "node_conductor_parcel",
+          "hintFr": "Collaborer avec le personnel du train",
+          "hintEn": "Team up with the train staff"
+        },
+        {
+          "id": "c_keep_safe_self",
+          "textJa": "朝 まで 自分 の かばん に 大切 に しまって おく",
+          "textFr": "Garder précieusement le paquet dans votre sac jusqu'au matin",
+          "textEn": "Keep the parcel safely in your own bag until morning",
+          "targetChapterId": "node_dawn_solo_ending",
+          "hintFr": "Le remettre vous-même à l'arrivée à Kyoto",
+          "hintEn": "Deliver it yourself upon arriving in Kyoto"
+        }
+      ],
+      "translationsFr": [
+        "En revenant dans la voiture 4, vous trouvez bel et bien le paquet bleu et la lettre sur la table !",
+        "La lettre indique : « Merci de le remettre à grand-mère Hayashi à la gare de Kyoto à 6 h du matin. »"
+      ],
+      "translationsEn": [
+        "Returning to Car 4, you indeed find the blue parcel and letter sitting on the table!",
+        "The letter reads: \"Please deliver this to Grandmother Hayashi at Kyoto station at 6:00 AM.\""
+      ]
+    },
+    "node_conductor_parcel": {
+      "id": "node_conductor_parcel",
+      "chapterNumber": 4,
+      "titleJa": "四：月 の 夜 の 安心",
+      "titleFr": "Chapitre 4 : Sérénité sous le clair de lune",
+      "titleEn": "Chapter 4: Peace Under the Moonlight",
+      "imageUrl": "images/kyoto_dining_car_1795335520858.jpg",
+      "text": "あなた が 青い つつみ と てがみ を 見せる と、電車 の 人 は ほっと して えがお に なりました。\n「ありがとう ございます！ はやし おばあさん は わたしたち も よく 知って いる 有名 な 人 です。\n朝 六時 に 京都 に ついたら、いっしょに 駅 の 出口 まで とどけましょう。あたたかい お茶 を どうぞ。」",
+      "choices": [
+        {
+          "id": "c_arrive_dawn",
+          "textJa": "あたたかい お茶 を 飲んで、京都 の 朝 を 待つ",
+          "textFr": "Savourer le thé chaud et attendre le lever du jour à Kyoto",
+          "textEn": "Enjoy the warm tea and await morning in Kyoto",
+          "targetChapterId": "node_dawn_victory_ending",
+          "hintFr": "Découvrir la fin de votre voyage à Kyoto",
+          "hintEn": "See how your journey ends in Kyoto"
+        }
+      ],
+      "translationsFr": [
+        "Lorsque vous montrez le paquet bleu et la lettre, l'employé du train pousse un soupir de soulagement et sourit :",
+        "« Merci beaucoup ! Grand-mère Hayashi est une personne très connue de nos services.",
+        "Quand nous arriverons à Kyoto à 6 h, allons ensemble le lui remettre à la sortie de la gare. Prenez donc un peu de thé chaud. »"
+      ],
+      "translationsEn": [
+        "When you show the blue parcel and letter, the train attendant breathes a sigh of relief and smiles:",
+        "\"Thank you so much! Grandmother Hayashi is well known to all of us on this line.",
+        "When we arrive in Kyoto at 6:00 AM, let's deliver it together at the station exit. Please have some warm tea.\""
+      ]
+    },
+    "node_dawn_victory_ending": {
+      "id": "node_dawn_victory_ending",
+      "chapterNumber": 5,
+      "titleJa": "おわり：朝 の 京都 と うれしい えがお",
+      "titleFr": "Épilogue Victorieux : L'aube à Kyoto et les remerciements",
+      "titleEn": "Victorious Epilogue: Dawn in Kyoto and Grateful Smiles",
+      "imageUrl": "images/kyoto_dawn_station_1795335520541.jpg",
+      "isEnding": true,
+      "endingType": "victory",
+      "endingBadge": "Fin Parfaite · Voyageur Bienveillant (やさしい 旅人)",
+      "endingBadgeFr": "Fin Parfaite · Voyageur Bienveillant (やさしい 旅人)",
+      "endingBadgeEn": "Perfect Ending · Kind Traveler (やさしい 旅人)",
+      "endingSummaryFr": "Félicitations ! Grâce à votre attention et à votre coopération avec le personnel du train, grand-mère Hayashi a récupéré son précieux paquet dès l'aube à Kyoto.",
+      "endingSummaryEn": "Congratulations! Thanks to your care and teamwork with the train attendant, Grandmother Hayashi received her treasured parcel at sunrise in Kyoto.",
+      "text": "朝 六時、電車 は きれいな 朝日 に つつまれた 京都 の 駅 に つきました。\nさくら の さく ホーム で、着物 を 着た やさしい おばあさん が 待って いました。\n\n「まあ！ これ が ないと きょう の おまつり が できませんでした。ほんとう に ありがとう！」\nおばあさん は とても よろこんで、あなた に 京都 の おいしい おかし を くれました。\nきれいな 古い おてら を 見ながら、あなた の 京都 の 旅 は たのしく 始まりました！",
+      "choices": [],
+      "translationsFr": [
+        "À six heures du matin, le train arrive en gare de Kyoto baignée d'un superbe soleil levant.",
+        "Sur le quai fleuri de cerisiers attendait une aimable grand-mère vêtue d'un kimono.",
+        "",
+        "« Oh ! Sans ceci, la fête d'aujourd'hui n'aurait pas pu avoir lieu. Merci du fond du cœur ! »",
+        "Ravie, la grand-mère vous offre de délicieuses pâtisseries traditionnelles de Kyoto.",
+        "En contemplant au loin le beau temple ancien, votre séjour à Kyoto commence joyeusement !"
+      ],
+      "translationsEn": [
+        "At six in the morning, the train pulls into Kyoto station bathed in golden sunrise.",
+        "On the cherry-blossom platform, a gentle grandmother in a kimono was waiting.",
+        "",
+        "\"Oh my! Without this, today's festival could not happen. Thank you truly!\"",
+        "Overjoyed, she gifts you delicious traditional Kyoto sweets.",
+        "Looking out toward the graceful old temple, your Kyoto journey begins joyfully!"
+      ]
+    },
+    "node_dawn_solo_ending": {
+      "id": "node_dawn_solo_ending",
+      "chapterNumber": 5,
+      "titleJa": "おわり：朝 の ホーム の 出会い",
+      "titleFr": "Épilogue Heureux : Rencontre sur le quai à l'aube",
+      "titleEn": "Happy Epilogue: Morning Meeting on the Platform",
+      "imageUrl": "images/kyoto_dawn_station_1795335520541.jpg",
+      "isEnding": true,
+      "endingType": "victory",
+      "endingBadge": "Bonne Fin · Messager du Matin (朝 の おくりもの)",
+      "endingBadgeFr": "Bonne Fin · Messager du Matin (朝 の おくりもの)",
+      "endingBadgeEn": "Good Ending · Morning Messenger (朝 の おくりもの)",
+      "endingSummaryFr": "Vous avez veillé sur le paquet toute la nuit et l'avez remis en main propre à grand-mère Hayashi dès votre arrivée à Kyoto.",
+      "endingSummaryEn": "You kept the parcel safe all night and personally delivered it to Grandmother Hayashi upon arriving in Kyoto.",
+      "text": "夜 の あいだ、あなた は 青い つつみ を 大切 に 持って いました。\n朝、京都 の 駅 に おりる と、少し しんぱいそう な おばあさん が まわり を 見て います。\n\nあなた が「はやし さん ですか？ これ を おもち しました。」と わたす と、おばあさん の かお が ぱっと あかるく なりました。\n「なんと やさしい わかい 人 でしょう！」\n朝 の きれいな 空 の 下 で、すてき な 一日 が 始まります。",
+      "choices": [],
+      "translationsFr": [
+        "Tout au long de la nuit, vous avez précieusement gardé le paquet bleu avec vous.",
+        "Au matin, en descendant à la gare de Kyoto, vous voyez une grand-mère un peu inquiète qui cherche du regard.",
+        "",
+        "Lorsque vous lui tendez l'objet en disant : « Êtes-vous madame Hayashi ? Voici pour vous », son visage s'illumine aussitôt.",
+        "« Quel jeune voyageur plein de bonté ! »",
+        "Sous le ciel limpide du matin commence une merveilleuse journée."
+      ],
+      "translationsEn": [
+        "Throughout the night, you carefully kept the blue parcel safe with you.",
+        "In the morning, stepping onto the Kyoto platform, you spot a worried-looking grandmother glancing around.",
+        "",
+        "When you hand it over saying, \"Are you Ms. Hayashi? I brought this for you,\" her face brightens immediately.",
+        "\"What a kindhearted traveler you are!\"",
+        "Beneath the clear morning sky, a wonderful day begins."
+      ]
+    },
+    "node_neutral_sleep_ending": {
+      "id": "node_neutral_sleep_ending",
+      "chapterNumber": 5,
+      "titleJa": "おわり：静か な 朝 の とうちゃく",
+      "titleFr": "Épilogue Calme : Une arrivée paisible au matin",
+      "titleEn": "Quiet Epilogue: A Peaceful Morning Arrival",
+      "imageUrl": "images/kyoto_dawn_station_1795335520541.jpg",
+      "isEnding": true,
+      "endingType": "neutral",
+      "endingBadge": "Fin Neutre · Nuit Paisible (静か な 旅)",
+      "endingBadgeFr": "Fin Neutre · Nuit Paisible (静か な 旅)",
+      "endingBadgeEn": "Neutral Ending · Peaceful Night (静か な 旅)",
+      "endingSummaryFr": "Vous avez bien dormi jusqu'à Kyoto sans intervenir. Le voyage s'est bien passé, même si le mystère du paquet reste entier.",
+      "endingSummaryEn": "You slept soundly all the way to Kyoto without getting involved. A pleasant trip, though the mystery of the parcel remains unsolved.",
+      "text": "あたたかい お茶 を 飲んだ あと、あなた は ぐっすり ねむりました。\n気 が つく と、外 は あかるく なって いて、電車 は 京都 に ついて いました。\n\nホーム へ おりる と、さっき の 電車 の 人 が 遠く で おばあさん と 話して いる の が 見えました。\nだれ か が 青い つつみ を 見つけた の でしょう。\nあなた も 新しい 朝 の 京都 の まち へ 歩き 始めました。",
+      "choices": [],
+      "translationsFr": [
+        "Après avoir bu votre thé chaud, vous vous êtes profondément endormi.",
+        "À votre réveil, le jour s'était levé dehors et le train venait d'entrer en gare de Kyoto.",
+        "",
+        "En descendant sur le quai, vous apercevez au loin l'employé du train discuter avec une grand-mère.",
+        "Quelqu'un d'autre a sans doute fini par retrouver le paquet bleu.",
+        "À votre tour, vous partez explorer les rues matinales de Kyoto."
+      ],
+      "translationsEn": [
+        "After drinking your warm tea, you fell fast asleep.",
+        "When you woke up, daylight had broken outside and the train had arrived in Kyoto.",
+        "",
+        "Stepping onto the platform, you spot the train attendant chatting with an elderly woman in the distance.",
+        "Someone else must have found the blue parcel in the end.",
+        "You too set off to explore Kyoto in the crisp morning air."
+      ]
+    },
+    "node_missed_train_ending": {
+      "id": "node_missed_train_ending",
+      "chapterNumber": 5,
+      "titleJa": "おわり：赤い 光 と 雨 の ホーム",
+      "titleFr": "Épilogue Imprévu : Les feux rouges dans la brume",
+      "titleEn": "Detour Epilogue: Red Lights in the Mist",
+      "imageUrl": "images/kyoto_rainy_detour_1795335520727.jpg",
+      "isEnding": true,
+      "endingType": "defeat",
+      "endingBadge": "Fin Déroutante · Train Manqué (とまった 旅)",
+      "endingBadgeFr": "Fin Déroutante · Train Manqué (とまった 旅)",
+      "endingBadgeEn": "Unexpected Detour · Missed Train (とまった 旅)",
+      "endingSummaryFr": "Le train de nuit est reparti sans vous dans la nuit pluvieuse ! Il faudra attendre le premier train du matin pour rejoindre Kyoto.",
+      "endingSummaryEn": "The night train departed without you into the rainy night! You'll have to wait until the first morning train to reach Kyoto.",
+      "text": "ドア が しまって、夜 の 電車 は きり の 中 へ ゆっくり 走って 行きました。\n赤く 光る 電車 の 後ろ が、遠く の 山 の むこう に きえて 行きます。\n\n駅 の 人 は やさしく わらって、「つぎ の 電車 は 朝 六時 です。どうぞ ここ で まって ください。」と 言いました。\n手 の 中 に のこった 青い つつみ を 見ながら、あなた は 朝 の 電車 を 静か に 待つ こと に しました。",
+      "choices": [],
+      "translationsFr": [
+        "Les portes se referment, et le train de nuit s'éloigne doucement dans la brume.",
+        "Les feux rouges à l'arrière du train disparaissent peu à peu derrière les montagnes lointaines.",
+        "",
+        "Le chef de gare sourit gentiment et dit : « Le prochain train passe à 6 h du matin. Patientez donc ici. »",
+        "En regardant le paquet bleu resté entre vos mains, vous décidez d'attendre calmement le premier train du matin."
+      ],
+      "translationsEn": [
+        "The doors slide shut, and the night train pulls slowly away into the mist.",
+        "The glowing red tail lights vanish little by little beyond the distant mountains.",
+        "",
+        "The station staff smiles gently and says, \"The next train arrives at 6:00 AM. Please wait here.\"",
+        "Looking down at the blue parcel still in your hands, you decide to patiently wait for the morning train."
+      ]
+    }
+  }
+}

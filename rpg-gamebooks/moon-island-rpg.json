@@ -1,0 +1,523 @@
+{
+  "id": "moon-island-rpg",
+  "format": "rpg-gamebook",
+  "titleJa": "月 の しま と きえた 光",
+  "titleFr": "L'Île de la Lune et la Lumière Perdue",
+  "titleEn": "Moonlit Island & The Lost Light",
+  "level": "N4",
+  "author": "Nihongo Reader RPG",
+  "authorEn": "Nihongo Reader RPG",
+  "category": "Livre-Jeu de Rôle",
+  "categoryEn": "RPG Gamebook",
+  "tags": [
+    "Livre-Jeu de Rôle",
+    "RPG",
+    "N4",
+    "Fantastique",
+    "Aventure",
+    "Combat"
+  ],
+  "tagsEn": [
+    "RPG Gamebook",
+    "RPG",
+    "N4",
+    "Fantasy",
+    "Adventure",
+    "Combat"
+  ],
+  "synopsisFr": "Une aventure RPG interactive spécialement conçue pour le niveau JLPT N4 ! Incarnez Haru, un jeune voyageur parti vers l'Île de la Lune pour retrouver le joyau lumineux volé par l'esprit du mont. Équipez-vous à la maison de thé, déchiffrez des runes anciennes, évitez des pièges et affrontez des yōkai aux dés (1d20) !",
+  "synopsisEn": "An interactive RPG adventure specially crafted for JLPT N4! Play as Haru, a young traveler heading to Moonlit Island to recover the luminous pearl stolen by the mountain spirit. Gear up at the tea shop, decipher ancient stone runes, dodge traps, and battle yōkai with d20 dice rolls!",
+  "coverImage": "images/rpg_n4_moon_castle_cover_1795334771403.jpg",
+  "initialCharacter": {
+    "nameJa": "はる（ハル）",
+    "nameFr": "Haru le Voyageur",
+    "nameEn": "Haru the Traveler",
+    "classFr": "Pèlerin de la Côte",
+    "classEn": "Coastal Pilgrim",
+    "level": 1,
+    "baseMaxHp": 18,
+    "baseAc": 11,
+    "stats": {
+      "str": 13,
+      "dex": 14,
+      "con": 12,
+      "wis": 14
+    },
+    "startingGold": 40,
+    "startingEquipment": [
+      {
+        "id": "pilgrim_staff",
+        "nameJa": "木 の つえ",
+        "nameFr": "Bâton de Pèlerin",
+        "nameEn": "Pilgrim Wooden Staff",
+        "slot": "weapon",
+        "descriptionFr": "Un bâton robuste pour marcher et se défendre (+1 Attaque, 1d6 dégâts).",
+        "descriptionEn": "A sturdy walking staff for travel and defense (+1 Attack, 1d6 damage).",
+        "attackBonus": 1,
+        "damageDice": "1d6",
+        "valueGold": 15
+      },
+      {
+        "id": "travel_cloak",
+        "nameJa": "青い 旅 の ふく",
+        "nameFr": "Cape de Voyage Indigo",
+        "nameEn": "Indigo Travel Cloak",
+        "slot": "armor",
+        "descriptionFr": "Tissu épais qui protège du vent et des coups (+2 CA).",
+        "descriptionEn": "Thick woven cloak protecting from wind and blows (+2 AC).",
+        "acBonus": 2,
+        "valueGold": 20
+      },
+      {
+        "id": "seaweed_onigiri",
+        "nameJa": "おにぎり",
+        "nameFr": "Onigiri Réconfortant",
+        "nameEn": "Hearty Onigiri",
+        "slot": "consumable",
+        "descriptionFr": "Restaure 1d8+2 PV pendant ou hors combat.",
+        "descriptionEn": "Restores 1d8+2 HP in or out of combat.",
+        "healDice": "1d8+2",
+        "quantity": 2,
+        "valueGold": 10
+      }
+    ]
+  },
+  "startChapterId": "node_harbor",
+  "chapters": {
+    "node_harbor": {
+      "id": "node_harbor",
+      "chapterNumber": 1,
+      "titleJa": "一：月 の 見える 海 と 古い とりい",
+      "titleFr": "Chapitre 1 : La Mer sous la Lune et le Vieux Torii",
+      "titleEn": "Chapter 1: The Moonlit Sea and Ancient Torii",
+      "imageUrl": "images/rpg_n4_moon_castle_cover_1795334771403.jpg",
+      "text": "夕方、あなた は 海 の 見える 小さな 山 の 上 に 着きました。\n古い とりい の むこう に、静か な しま と 高く 立つ やしろ が 見えます。\nむら の 人 たち に よると、今夜 は しま の「月 の 光」が きえて、みんな こまって います。\n右 の 道 に は、あたたかい お茶屋 が あります。旅 の 前 に じゅんび が できそうです。\n左 の 古い 石 の 上 に は、むずかしい 字 が かいて あります。",
+      "translationsFr": [
+        "En fin d'après-midi, vous arrivez sur une petite hauteur surplombant la mer.",
+        "Au-delà du vieux torii, on aperçoit une île paisible et un haut sanctuaire.",
+        "Selon les villageois, la « Lumière de la Lune » de l'île a disparu ce soir et tout le monde est inquiet.",
+        "Sur le sentier de droite se trouve une chaleureuse maison de thé où vous pourriez préparer votre expédition.",
+        "Sur la vieille pierre à gauche sont gravés des caractères anciens et mystérieux."
+      ],
+      "translationsEn": [
+        "Toward evening, you arrive atop a small coastal hill overlooking the sea.",
+        "Beyond the old torii gate, a quiet island and a tall shrine stand in the distance.",
+        "According to the villagers, the island's \"Moonlight\" has vanished tonight, leaving everyone worried.",
+        "Along the right path sits a warm tea shop where you can prepare for the journey.",
+        "On the old stone to the left, mysterious ancient characters are carved."
+      ],
+      "choices": [
+        {
+          "id": "choice_n4_teahouse",
+          "textJa": "右 の お茶屋 へ 入って、お店 の 人 と 話す",
+          "textFr": "Entrer dans la maison de thé à droite pour vous équiper",
+          "textEn": "Enter the tea shop on the right to prepare supplies",
+          "targetChapterId": "node_teahouse",
+          "hintFr": "Marchande bienveillante (équipement et soins)",
+          "hintEn": "Helpful tea merchant (gear & healing)"
+        },
+        {
+          "id": "choice_n4_read_stone",
+          "textJa": "左 の 古い 石 の 字 を ゆっくり 読む",
+          "textFr": "Lire attentivement les inscriptions de la vieille pierre",
+          "textEn": "Carefully read the carvings on the old stone",
+          "targetChapterId": "node_moon_cache",
+          "hintFr": "Test de Sagesse (SAG) pour trouver un secret",
+          "hintEn": "Wisdom (WIS) check to uncover a secret",
+          "skillCheck": {
+            "stat": "wis",
+            "dc": 11,
+            "labelFr": "Déchiffrer les anciens caractères",
+            "labelEn": "Decipher the ancient runes",
+            "failureChapterId": "node_corridor",
+            "failureDamageDice": "1d4"
+          }
+        },
+        {
+          "id": "choice_n4_straight_corridor",
+          "textJa": "しま へ わたって、暗い 石 の 道 へ 進む",
+          "textFr": "Traverser vers l'île et entrer dans le couloir de pierre",
+          "textEn": "Cross to the island and enter the stone corridor",
+          "targetChapterId": "node_corridor",
+          "hintFr": "Accès direct au passage ancien",
+          "hintEn": "Direct route to the ancient passage"
+        }
+      ]
+    },
+    "node_moon_cache": {
+      "id": "node_moon_cache",
+      "chapterNumber": 2,
+      "titleJa": "二：月 の 石 と 小さな はこ",
+      "titleFr": "Chapitre 2 : La Pierre de Lune et le Petit Coffre",
+      "titleEn": "Chapter 2: The Moon Stone and Small Box",
+      "text": "石 の 字 を 読む と、しま の 入口 を ひらく 大切 な ことば が わかりました！\n石 の 下 から 古い 小さな はこ が 出て きました。\n中 に は お金 と、青い 光 を 出して まもって くれる「月 の 石」が ありました。",
+      "translationsFr": [
+        "En lisant les caractères de la pierre, vous comprenez la formule ancienne ouvrant le passage de l'île !",
+        "Sous la pierre apparaît un vieux petit coffret.",
+        "À l'intérieur se trouvent de l'or ainsi qu'une « Pierre de Lune » rayonnante d'une lueur bleue protectrice."
+      ],
+      "translationsEn": [
+        "By reading the characters on the stone, you uncover the old phrase unlocking the island gate!",
+        "From beneath the stone emerges a small ancient box.",
+        "Inside lie gold coins and a \"Moon Stone\" glowing with protective blue light."
+      ],
+      "rewards": {
+        "xp": 40,
+        "gold": 30,
+        "items": [
+          {
+            "id": "moon_stone_charm",
+            "nameJa": "月 の 石",
+            "nameFr": "Pierre de Lune Protectrice",
+            "nameEn": "Protective Moon Stone",
+            "slot": "accessory",
+            "descriptionFr": "Talisman ancien (+1 SAG, +1 CA).",
+            "descriptionEn": "Ancient talisman (+1 WIS, +1 AC).",
+            "acBonus": 1,
+            "statBonuses": {
+              "wis": 1
+            },
+            "valueGold": 35
+          }
+        ]
+      },
+      "choices": [
+        {
+          "id": "choice_n4_cache_teahouse",
+          "textJa": "お金 を 持って、お茶屋 で 買い物 を する",
+          "textFr": "Passer par la maison de thé pour dépenser votre or",
+          "textEn": "Take your gold and visit the tea shop",
+          "targetChapterId": "node_teahouse"
+        },
+        {
+          "id": "choice_n4_cache_corridor",
+          "textJa": "すぐ に しま の 古い 石 の 道 へ 行く",
+          "textFr": "Partir directement vers le couloir de pierre de l'île",
+          "textEn": "Head straight to the island's stone corridor",
+          "targetChapterId": "node_corridor"
+        }
+      ]
+    },
+    "node_teahouse": {
+      "id": "node_teahouse",
+      "chapterNumber": 3,
+      "titleJa": "三：うみべ の お茶屋 と やさしい おばあさん",
+      "titleFr": "Chapitre 3 : La Maison de Thé du Rivage",
+      "titleEn": "Chapter 3: The Seaside Tea Shop",
+      "text": "あたたかい お茶屋 の 中 で、やさしい おばあさん が お茶 を いれて 待って いました。\n「おお、はる さん かい？ しま の ようかい は なかなか 強い から ね、いい もの を 持って 行きなさい。」\n店 の 台 に は、きれい な 銀 の つえ と、元気 が 出る あつい お茶 が ならんで います。",
+      "translationsFr": [
+        "Dans la chaleureuse maison de thé, une aimable grand-mère vous attend avec une tasse fumante.",
+        "« Oh, c'est toi Haru ? Les esprits de l'île sont plutôt coriaces, alors emporte du bon équipement. »",
+        "Sur le comptoir sont alignés un beau bâton d'argent et des thés chauds qui redonnent de l'énergie."
+      ],
+      "translationsEn": [
+        "Inside the cozy tea shop, a kind grandmother greets you with freshly brewed tea.",
+        "\"Oh, is that you, Haru? The island spirits are quite strong, so be sure to take good gear with you.\"",
+        "Lined up on the counter are a gleaming silver staff and hot restorative tea."
+      ],
+      "choices": [
+        {
+          "id": "choice_n4_buy_staff",
+          "textJa": "「銀 の つえ を 買います」（35G）",
+          "textFr": "Acheter le Bâton d'Argent Sacré (35 Or)",
+          "textEn": "Buy the Sacred Silver Staff (35 Gold)",
+          "targetChapterId": "",
+          "stayOnChapter": true,
+          "costGold": 35,
+          "hintFr": "Arme améliorée (+2 Attaque, 1d8+1)",
+          "hintEn": "Upgraded weapon (+2 Attack, 1d8+1)",
+          "grantItems": [
+            {
+              "id": "silver_staff",
+              "nameJa": "銀 の つえ",
+              "nameFr": "Bâton d'Argent Sacré",
+              "nameEn": "Sacred Silver Staff",
+              "slot": "weapon",
+              "descriptionFr": "Bâton cerclé d'argent lunaire (+2 Attaque, 1d8+1 dégâts).",
+              "descriptionEn": "Staff bound with lunar silver (+2 Attack, 1d8+1 damage).",
+              "attackBonus": 2,
+              "damageDice": "1d8+1",
+              "valueGold": 55
+            }
+          ]
+        },
+        {
+          "id": "choice_n4_buy_tea",
+          "textJa": "「あつい お茶 を 二つ ください」（20G）",
+          "textFr": "Acheter deux Thés Chauds Fortifiants (20 Or)",
+          "textEn": "Buy two Revitalizing Hot Teas (20 Gold)",
+          "targetChapterId": "",
+          "stayOnChapter": true,
+          "costGold": 20,
+          "hintFr": "2x Soins efficaces (2d6+2 PV)",
+          "hintEn": "2x Strong Healing (2d6+2 HP)",
+          "grantItems": [
+            {
+              "id": "moon_hot_tea",
+              "nameJa": "あつい お茶",
+              "nameFr": "Thé Chaud de la Lune",
+              "nameEn": "Moonlight Hot Tea",
+              "slot": "consumable",
+              "descriptionFr": "Boisson apaisante qui rend 2d6+2 PV.",
+              "descriptionEn": "Soothing brew that restores 2d6+2 HP.",
+              "healDice": "2d6+2",
+              "quantity": 2,
+              "valueGold": 15
+            }
+          ]
+        },
+        {
+          "id": "choice_n4_tea_to_corridor",
+          "textJa": "おれい を 言って、石 の 道 へ 出かける",
+          "textFr": "Remercier l'hôtesse et entrer dans le couloir de pierre",
+          "textEn": "Thank the host and head into the stone corridor",
+          "targetChapterId": "node_corridor",
+          "hintFr": "Explorer le couloir (butin possible, piège)",
+          "hintEn": "Explore the corridor (loot & trap)"
+        },
+        {
+          "id": "choice_n4_tea_to_river",
+          "textJa": "森 の ほそい 道 を 通って、川 の はし へ むかう",
+          "textFr": "Prendre le sentier forestier directement vers le pont de bois",
+          "textEn": "Take the forest path straight toward the wooden bridge",
+          "targetChapterId": "node_river_bridge",
+          "hintFr": "Aller directement au Chapitre 5 (Rivière)",
+          "hintEn": "Proceed directly to Chapter 5 (River Bridge)"
+        }
+      ]
+    },
+    "node_corridor": {
+      "id": "node_corridor",
+      "chapterNumber": 4,
+      "titleJa": "四：青い 光 の 石 の 道",
+      "titleFr": "Chapitre 4 : Le Couloir aux Runes Bleues",
+      "titleEn": "Chapter 4: The Corridor of Blue Runes",
+      "imageUrl": "images/rpg_n4_stone_trap_1795334771483.jpg",
+      "text": "しま の 中 の 古い 石 の 道 に 入る と、はしら に 青い 月 の え が 光って いました。\nその とき、あし の 下 の 石 が 急に うごきました！\nかべ が 開いて、小さな 石 や 木 の や が とんで きます。\nはやく とんで、あぶない しかけ を よけなければ なりません！",
+      "translationsFr": [
+        "En entrant dans l'ancien passage de pierre sur l'île, vous voyez des croissants de lune bleus briller sur les piliers.",
+        "Soudain, une dalle sous votre pied s'enfonce brusquement !",
+        "Le mur s'ouvre et projette des pierres et des fléchettes en bois.",
+        "Vous devez bondir rapidement pour esquiver ce mécanisme dangereux !"
+      ],
+      "translationsEn": [
+        "Stepping inside the island's old stone corridor, you see blue moon symbols glowing on the pillars.",
+        "Suddenly, a stone beneath your foot shifts downward!",
+        "A wall panel opens and shoots stone blocks and wooden darts.",
+        "You must leap quickly to dodge the ancient trap!"
+      ],
+      "trap": {
+        "id": "trap_moon_corridor",
+        "nameJa": "かべ の しかけ",
+        "nameFr": "Piège du Couloir Lunaire",
+        "nameEn": "Moon Corridor Trap",
+        "stat": "dex",
+        "dc": 11,
+        "damageDice": "1d6",
+        "successTextFr": "D'un saut souple sur le côté, vous évitez toutes les fléchettes et récupérez quelques pièces au sol !",
+        "successTextEn": "With an agile leap sideways, you dodge all the darts and spot a few coins on the floor!",
+        "failureTextFr": "Un éclat de pierre vous touche au bras pendant que vous roulez vers la sortie.",
+        "failureTextEn": "A stone fragment grazes your arm as you roll toward safety."
+      },
+      "rewards": {
+        "xp": 35,
+        "gold": 20
+      },
+      "choices": [
+        {
+          "id": "choice_n4_corridor_to_bridge",
+          "textJa": "月 の あかるい 森 の 川 の はし へ 行く",
+          "textFr": "Continuer vers le pont de bois au clair de lune",
+          "textEn": "Continue to the moonlit wooden bridge in the forest",
+          "targetChapterId": "node_river_bridge"
+        },
+        {
+          "id": "choice_n4_corridor_to_altar",
+          "textJa": "山 の 上 の やしろ へ いそいで 上がる",
+          "textFr": "Monter directement vers l'autel au sommet de la colline",
+          "textEn": "Climb straight up toward the hilltop shrine",
+          "targetChapterId": "node_moon_altar",
+          "hintFr": "Affrontement final direct (plus risqué)",
+          "hintEn": "Direct final encounter (riskier)"
+        }
+      ]
+    },
+    "node_river_bridge": {
+      "id": "node_river_bridge",
+      "chapterNumber": 5,
+      "titleJa": "五：たけ の 森 と 川 の かっぱ",
+      "titleFr": "Chapitre 5 : Le Pont de Bambou et le Kappa",
+      "titleEn": "Chapter 5: The Bamboo Bridge and River Kappa",
+      "imageUrl": "images/rpg_n4_kappa_river_1795334770749.jpg",
+      "text": "きれい な たけ の 森 の 中 で、川 に かかる 木 の はし を 見つけました。\nわたろう と する と、みず から みどり色 の かっぱ が 出て きて 道 を 止めました！\n「おい、旅 の 人！ ここ を 通りたかったら、ぼく と しょうぶ だ！」\nかっぱ は 長い 木 の ぼう を 持って、わらって むかって きます。",
+      "translationsFr": [
+        "Au cœur d'une paisible forêt de bambous, vous trouvez un pont de bois qui traverse la rivière.",
+        "Au moment de passer, un kappa vert surgit de l'eau et vous barre la route !",
+        "« Hé, voyageur ! Si tu veux traverser ici, tu vas devoir m'affronter ! »",
+        "Le kappa brandit son long bâton de rivière et fonce sur vous en ricanant."
+      ],
+      "translationsEn": [
+        "Inside a quiet bamboo forest, you find a wooden bridge crossing the river.",
+        "Just as you step onto it, a green kappa pops out of the water and blocks your path!",
+        "\"Hey, traveler! If you want to cross here, you'll have to face me!\"",
+        "The kappa raises a long river reed staff and charges forward grinning."
+      ],
+      "enemy": {
+        "id": "enemy_river_kappa",
+        "nameJa": "川 の かっぱ",
+        "nameFr": "Kappa du Pont",
+        "nameEn": "Bridge Kappa",
+        "level": 1,
+        "maxHp": 12,
+        "ac": 11,
+        "attackBonus": 3,
+        "damageDice": "1d6",
+        "xpReward": 65,
+        "goldReward": 25,
+        "fleeDc": 10,
+        "fleeTargetChapterId": "node_corridor",
+        "descriptionFr": "Esprit farceur de la rivière vêtu d'une armure de paille.",
+        "descriptionEn": "Mischievous river spirit wearing woven straw armor.",
+        "lootItems": [
+          {
+            "id": "river_shell_charm",
+            "nameJa": "川 の まもり",
+            "nameFr": "Talisman de la Rivière",
+            "nameEn": "River Protection Charm",
+            "slot": "accessory",
+            "descriptionFr": "Amulete rafraîchissante (+1 DEX, +1 CA).",
+            "descriptionEn": "Refreshing river charm (+1 DEX, +1 AC).",
+            "acBonus": 1,
+            "statBonuses": {
+              "dex": 1
+            },
+            "valueGold": 35
+          }
+        ]
+      },
+      "rewards": {
+        "healHp": 5
+      },
+      "choices": [
+        {
+          "id": "choice_n4_bridge_to_altar",
+          "textJa": "きれい な 水 で やすんで から、山 の 上 の やしろ へ 行く",
+          "textFr": "Boire un peu d'eau fraîche (+5 PV) et monter au sanctuaire du sommet",
+          "textEn": "Rest by the clear river (+5 HP) and climb to the hilltop shrine",
+          "targetChapterId": "node_moon_altar"
+        }
+      ]
+    },
+    "node_moon_altar": {
+      "id": "node_moon_altar",
+      "chapterNumber": 6,
+      "titleJa": "六：山 の 上 の やしろ と てんぐ",
+      "titleFr": "Chapitre 6 : Le Sanctuaire Lunaire et le Tengu",
+      "titleEn": "Chapter 6: The Moonlit Shrine & Tengu Guardian",
+      "imageUrl": "images/rpg_n4_altar_guardian_1795334771695.jpg",
+      "text": "大きい まるい 月 の 光 の 下 で、山 の 上 の りっぱ な やしろ に 着きました。\nまんなか の 台 の 上 で、光る 銀色 の「月 の たま」が まわって います。\nその 前 に、大きな 黒い はね を 持つ 赤い かお の てんぐ が 立って いました！\n「よく 来た な、はる よ！ この 光 を ほしければ、わたし の テスト に かち なさい！」",
+      "translationsFr": [
+        "Sous l'éclat d'une immense pleine lune, vous atteignez le splendide sanctuaire au sommet.",
+        "Sur l'autel central flotte la brillante « Perle de Lune » argentée.",
+        "Juste devant se dresse un imposant Tengu au visage rouge et aux grandes ailes noires !",
+        "« Te voilà enfin, Haru ! Si tu veux reprendre cette lumière, triomphe de mon épreuve ! »"
+      ],
+      "translationsEn": [
+        "Beneath the light of a giant full moon, you reach the grand hilltop shrine.",
+        "Spinning atop the central pedestal is the glowing silver \"Moon Pearl\".",
+        "Standing before it is a towering Tengu with a crimson face and great black wings!",
+        "\"Welcome at last, Haru! If you want this light back, prove yourself in battle!\""
+      ],
+      "enemy": {
+        "id": "enemy_moon_tengu",
+        "nameJa": "山 の てんぐ",
+        "nameFr": "Gardien Tengu des Ailes",
+        "nameEn": "Winged Tengu Guardian",
+        "level": 2,
+        "maxHp": 20,
+        "ac": 12,
+        "attackBonus": 4,
+        "damageDice": "1d8",
+        "xpReward": 120,
+        "goldReward": 50,
+        "fleeDc": 13,
+        "fleeTargetChapterId": "node_river_bridge",
+        "descriptionFr": "Maître des vents de l'île protégeant la Perle de Lune.",
+        "descriptionEn": "Master of the island winds guarding the Moon Pearl.",
+        "lootItems": [
+          {
+            "id": "tengu_feather_seal",
+            "nameJa": "風 の はね",
+            "nameFr": "Plume Sacrée du Tengu",
+            "nameEn": "Sacred Tengu Feather",
+            "slot": "accessory",
+            "descriptionFr": "Confère la vivacité du vent (+2 DEX).",
+            "descriptionEn": "Grants the swiftness of wind (+2 DEX).",
+            "statBonuses": {
+              "dex": 2
+            },
+            "valueGold": 75
+          }
+        ]
+      },
+      "choices": [
+        {
+          "id": "choice_n4_claim_pearl",
+          "textJa": "台 の 上 の「月 の たま」を て に とる",
+          "textFr": "Prendre la « Perle de Lune » sur l'autel sacré",
+          "textEn": "Claim the \"Moon Pearl\" from the sacred altar",
+          "targetChapterId": "node_moon_pearl"
+        }
+      ]
+    },
+    "node_moon_pearl": {
+      "id": "node_moon_pearl",
+      "chapterNumber": 7,
+      "titleJa": "おわり：もどった 月 の 光",
+      "titleFr": "Chapitre Final : Le Retour de la Lumière",
+      "titleEn": "Final Chapter: Return of the Moonlight",
+      "imageUrl": "images/rpg_n4_moon_castle_cover_1795334771403.jpg",
+      "text": "てんぐ は やさしく わらって おじぎ を しました。「見事 だ、わかい 旅 の 人。」\nあなた が「月 の たま」に さわる と、あたたかい 銀 の 光 が 夜 の 空 と 海 に 広がりました。\n遠く の むら の 家 にも あかり が ともり、みんな の うれしそう な 声 が 風 に のって 聞こえます。\nこうして はる の しま の ぼうけん は、すばらしい かち で 終わりました！",
+      "translationsFr": [
+        "Le Tengu sourit avec bienveillance et s'incline : « Magnifique combat, jeune voyageur. »",
+        "Lorsque vous touchez la « Perle de Lune », une douce lumière argentée se répand dans le ciel nocturne et sur la mer.",
+        "Dans le village lointain, les lumières se rallument et les cris de joie des habitants portent avec le vent.",
+        "Ainsi s'achève l'aventure insulaire de Haru sur une magnifique victoire !"
+      ],
+      "translationsEn": [
+        "The Tengu smiles warmly and bows: \"Well fought, young traveler.\"",
+        "As you touch the \"Moon Pearl\", a gentle silver light spreads across the night sky and the sea.",
+        "Back in the distant village, lanterns glow again and joyful cheers carry across the breeze.",
+        "And so Haru's island adventure concludes in a radiant victory!"
+      ],
+      "rewards": {
+        "xp": 100,
+        "gold": 100,
+        "items": [
+          {
+            "id": "moon_pearl_orb",
+            "nameJa": "月 の たま",
+            "nameFr": "Perle Sacrée de la Lune",
+            "nameEn": "Sacred Moon Pearl",
+            "slot": "accessory",
+            "descriptionFr": "Relique rayonnante (+2 CON, +2 SAG, +1 CA).",
+            "descriptionEn": "Radiant relic (+2 CON, +2 WIS, +1 AC).",
+            "acBonus": 1,
+            "statBonuses": {
+              "con": 2,
+              "wis": 2
+            },
+            "valueGold": 250
+          }
+        ]
+      },
+      "choices": [],
+      "isEnding": true,
+      "endingType": "victory",
+      "endingBadgeFr": "Héros de l'Île Lunaire",
+      "endingBadgeEn": "Hero of Moonlit Island",
+      "endingSummaryFr": "Bravo ! Vous avez déjoué le piège du couloir, vaincu le Kappa et relevé l'épreuve du Tengu pour rendre sa lumière à l'Île de la Lune.",
+      "endingSummaryEn": "Congratulations! You survived the corridor trap, defeated the Kappa, and passed the Tengu's trial to restore the Moonlight to the island."
+    }
+  }
+}

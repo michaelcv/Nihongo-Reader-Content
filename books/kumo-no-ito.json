@@ -1,0 +1,148 @@
+{
+  "id": "kumo-no-ito",
+  "format": "book",
+  "titleJa": "蜘蛛の糸（くものいと）",
+  "titleFr": "Le Fil d'araignée (Kumo no Ito)",
+  "titleEn": "The Spider's Thread (Kumo no Ito)",
+  "coverImage": "images/kumo_lotus_pond_1795334770534.jpg",
+  "descriptionFr": "Le chef-d'œuvre intemporel de Ryūnosuke Akutagawa adapté au niveau JLPT N3 en 5 chapitres illustrés. Du haut du Paradis, Bouddha tend un fragile fil d'argent au criminel Kandata plongé dans les ténèbres… mais l'égoïsme humain mettra-t-il tout en péril ?",
+  "descriptionEn": "Ryūnosuke Akutagawa's timeless literary masterpiece adapted to JLPT N3 level across 5 illustrated chapters. From Paradise above, the Buddha lowers a delicate silver thread to the criminal Kandata deep in the abyss—yet will selfishness undo his chance at salvation?",
+  "author": "芥川龍之介 (Adaptation N3)",
+  "authorEn": "Ryūnosuke Akutagawa (N3 Adaptation)",
+  "level": "N3",
+  "category": "Littérature classique",
+  "categoryEn": "Classical Literature",
+  "tags": [
+    "Livre",
+    "Littérature",
+    "Classique",
+    "N3",
+    "Philosophie",
+    "Conte"
+  ],
+  "tagsEn": [
+    "Book",
+    "Literature",
+    "Classics",
+    "N3",
+    "Philosophy",
+    "Short Story"
+  ],
+  "chapters": [
+    {
+      "id": "chap-1",
+      "chapterNumber": 1,
+      "titleJa": "一：美しい はす の 池",
+      "titleFr": "Chapitre 1 : L'étang aux lotus du Paradis",
+      "titleEn": "Chapter 1: The Lotus Pond of Paradise",
+      "summaryFr": "Par un matin paisible au Paradis, Bouddha se promène au bord d'un étang aux lotus blancs et aperçoit tout au fond des ténèbres un homme nommé Kandata.",
+      "summaryEn": "On a quiet morning in Paradise, the Buddha strolls beside a pond of white lotuses and looks through the clear water into the dark depths below, spotting a man named Kandata.",
+      "imageUrl": "images/kumo_lotus_pond_1795334770534.jpg",
+      "text": "ある 日 の 朝、おしゃかさま は ごくらく の はす の 池 の まわり を ひとり で 歩いて いました。\n池 の 中 に は、白い 美しい 花 が いっぱい さいて いて、とても 静か で 気持ち の いい 朝 でした。\nおしゃかさま は 立ち止まり、すんだ 水 の 中 を 通して、ずっと 下 に ある 暗い じごく の 世界 を のぞきました。\nその 暗い そこ に、かんだた と いう ひとり の 男 が、ほか の 悪人 たち と いっしょに 苦しんで いる の が 見えました。",
+      "translationsFr": [
+        "Un matin, Bouddha se promenait seul autour de l'étang aux lotus du Paradis.",
+        "Dans l'étang, de magnifiques fleurs blanches s'épanouissaient à profusion, offrant une matinée très calme et agréable.",
+        "Bouddha s'arrêta et regarda à travers l'eau limpide vers le monde sombre de l'enfer qui s'étendait tout en bas.",
+        "Tout au fond de ces ténèbres, il aperçut un homme du nom de Kandata qui souffrait au milieu d'autres criminels."
+      ],
+      "translationsEn": [
+        "One morning, the Buddha was walking alone around the lotus pond of Paradise.",
+        "The pond was filled with blooming white flowers, making it a wonderfully quiet and pleasant morning.",
+        "Stopping at the edge, the Buddha peered through the crystal-clear water down into the dark world of hell far below.",
+        "At the very bottom of that darkness, he saw a man named Kandata suffering alongside other wrongdoers."
+      ]
+    },
+    {
+      "id": "chap-2",
+      "chapterNumber": 2,
+      "titleJa": "二：一本 の 銀 の 糸",
+      "titleFr": "Chapitre 2 : Un fil d'argent dans les ténèbres",
+      "titleEn": "Chapter 2: A Silver Thread in the Darkness",
+      "summaryFr": "Bouddha se souvient qu'autrefois Kandata avait épargné une petite araignée et laisse descendre vers lui un fin fil d'argent.",
+      "summaryEn": "Remembering that Kandata once spared a tiny spider's life, the Buddha gently lowers a shimmering silver thread down into the abyss.",
+      "imageUrl": "images/kumo_spider_thread_1795334770744.jpg",
+      "text": "かんだた は 生きて いた とき、人 を 殺したり 家 に 火 を つけたり する 悪い こと ばかり して いました。\nけれど、たった 一度 だけ、山道 で 小さな くも の 命 を 助けた こと が ありました。\nおしゃかさま は その やさしい 心 を 思い出し、「できる なら、この 男 を 助けて やろう」と 考えました。\nちょうど そば の 葉 に いた くも の 銀 の 糸 を 取り、遠く 暗い じごく の そこ へ 静か に 下ろしました。",
+      "translationsFr": [
+        "De son vivant, Kandata n'avait commis que de mauvaises actions, comme tuer des gens ou incendier des maisons.",
+        "Pourtant, une seule et unique fois, il avait épargné la vie d'une petite araignée sur un sentier de montagne.",
+        "Bouddha se souvint de ce geste de bonté et pensa : « Si cela est possible, aidons donc cet homme à s'en sortir. »",
+        "Il prit alors le fil d'argent d'une araignée posée sur une feuille voisine et le fit descendre doucement jusqu'au fond lointain et obscur de l'enfer."
+      ],
+      "translationsEn": [
+        "During his lifetime, Kandata had done nothing but evil deeds, such as killing people and setting houses ablaze.",
+        "Yet on one single occasion, he had spared the life of a small spider on a mountain path.",
+        "Recalling that spark of kindness, the Buddha thought, \"If I can, I should save this man.\"",
+        "He took the silver thread of a spider resting on a nearby leaf and quietly lowered it deep into the distant darkness of hell."
+      ]
+    },
+    {
+      "id": "chap-3",
+      "chapterNumber": 3,
+      "titleJa": "三：暗い 空 へ のぼる 道",
+      "titleFr": "Chapitre 3 : L'ascension vers la lumière",
+      "titleEn": "Chapter 3: Climbing Toward the Light",
+      "summaryFr": "Saisissant le fil lumineux, Kandata grimpe avec espoir vers le ciel, jusqu'à découvrir que des centaines d'autres damnés montent derrière lui.",
+      "summaryEn": "Gripping the glowing thread, Kandata climbs eagerly toward the light—until he looks down and sees countless others climbing right behind him.",
+      "imageUrl": "images/kumo_climbing_thread_1795334771329.jpg",
+      "text": "血 の 池 の 中 で 空 を 見上げた かんだた は、光る 銀 の 糸 を 見つけて おどろきました。\n「これ を つかんで 上 へ のぼれば、じごく から 出られる かも しれない！」\nかんだた は よろこんで、力 いっぱい 糸 を つかみ、休まず に 上 へ 上 へ と のぼり 始めました。\nしばらく のぼって 疲れた ので、下 を 見て みると、数え切れない ほど 多く の 人 たち が 同じ 糸 を のぼって 来る の です。",
+      "translationsFr": [
+        "Levant les yeux vers le ciel depuis l'étang de sang, Kandata fut saisi d'étonnement en découvrant le fil d'argent étincelant.",
+        "« Si j'attrape ce fil et que je grimpe tout en haut, je pourrai peut-être sortir de l'enfer ! »",
+        "Fou de joie, Kandata empoigna le fil de toutes ses forces et commença à grimper sans relâche, toujours plus haut.",
+        "Au bout d'un moment, fatigué par l'effort, il regarda vers le bas et vit une foule innombrable de damnés qui escaladaient déjà le même fil derrière lui."
+      ],
+      "translationsEn": [
+        "Gazing up from the Pool of Blood, Kandata was stunned to spot the gleaming silver thread.",
+        "\"If I grab onto this and climb upward, I might escape from hell!\"",
+        "Overjoyed, Kandata seized the thread with all his strength and began climbing higher and higher without resting.",
+        "After climbing a while, tired out, he glanced downward—only to see countless others climbing up the very same thread behind him."
+      ]
+    },
+    {
+      "id": "chap-4",
+      "chapterNumber": 4,
+      "titleJa": "四：「この 糸 は わたし の だ！」",
+      "titleFr": "Chapitre 4 : « Ce fil est à moi ! »",
+      "titleEn": "Chapter 4: \"This Thread Is Mine!\"",
+      "summaryFr": "Craignant que le fil ne cède sous le poids de la foule, Kandata crie aux autres de lâcher prise — et le fil se brise aussitôt.",
+      "summaryEn": "Terrified the thread might snap under everyone's weight, Kandata shouts at the others to get off—and the thread breaks at that very instant.",
+      "imageUrl": "images/kumo_thread_snaps_1795334770595.jpg",
+      "text": "かんだた は びっくり して 考えました。「こんなに 細い 糸 が、みんな の 重さ に たえられる はず が ない！」\nもし 糸 が 切れたら、せっかく ここまで のぼった の に、また 暗い 下 へ 落ちて しまいます。\nそこで かんだた は 大声 で さけびました。「こら、この くも の 糸 は わたし の だぞ！ おまえたち は だれ に きいて のぼって 来た！ おりろ！」\nその とたん、それ まで 切れる こと の なかった 糸 が、かんだた の つかんで いた ところ から、ぷつり と 切れて しまいました。",
+      "translationsFr": [
+        "Pris de panique, Kandata se dit : « Un fil aussi fin ne pourra jamais supporter le poids de tout le monde ! »",
+        "Si le fil venait à casser, après avoir grimpé jusque-là, il retomberait lui aussi dans les ténèbres d'en bas.",
+        "Alors Kandata hurla de toutes ses forces : « Hé, ce fil d'araignée est à moi ! Qui vous a permis de grimper dessus ? Descendez ! »",
+        "À l'instant même, le fil qui jusque-là n'avait jamais rompu se brisa net juste au-dessus des mains de Kandata."
+      ],
+      "translationsEn": [
+        "Panicking, Kandata thought, \"A thread this thin could never hold the weight of all those people!\"",
+        "If it snapped, after climbing all this way, he too would plunge right back into the darkness below.",
+        "So Kandata shouted at the top of his voice, \"Hey! This spider's thread belongs to me! Who gave you permission to climb it? Get down!\"",
+        "At that very instant, the thread that had held firm until then snapped cleanly right where Kandata was holding on."
+      ]
+    },
+    {
+      "id": "chap-5",
+      "chapterNumber": 5,
+      "titleJa": "五：ひる の はす の 池",
+      "titleFr": "Chapitre 5 : L'étang aux lotus à midi",
+      "titleEn": "Chapter 5: The Lotus Pond at Noon",
+      "summaryFr": "Kandata retombe au fond de l'abîme, tandis qu'au Paradis les lotus blancs se balancent paisiblement dans la lumière de midi.",
+      "summaryEn": "Kandata falls back into the abyss, while high in Paradise the white lotus flowers sway serenely in the bright midday sunlight.",
+      "imageUrl": "images/kumo_noon_lotus_1795334771330.jpg",
+      "text": "かんだた は 風 を 切る ように、まっすぐ 暗い じごく の そこ へ 落ちて 行きました。\nおしゃかさま は はす の 池 の そば に 立って、その すべて を 悲しそう な 目 で 見つめて いました。\n自分 だけ 助かろう と して ほか の 人 を 思いやらなかった ため、かんだた は また 元の 暗い 場所 へ 戻った の です。\nしかし、ごくらく の はす の 池 は 何も 知らぬ ように、美しい 白い 花 を ひる の 風 に 静か に ゆらして いました。",
+      "translationsFr": [
+        "Fendant l'air comme une pierre, Kandata retomba tout droit au fond du sombre enfer.",
+        "Bouddha, debout au bord de l'étang aux lotus, contemplait toute la scène d'un regard empreint de tristesse.",
+        "Pour n'avoir cherché qu'à se sauver lui-même sans aucune pitié pour autrui, Kandata était retombé dans son obscurité d'origine.",
+        "Mais l'étang aux lotus du Paradis, comme s'il n'en savait rien, berçait doucement ses fleurs d'un blanc pur dans la brise de midi."
+      ],
+      "translationsEn": [
+        "Cutting straight through the air, Kandata plunged back down into the dark depths of hell.",
+        "Standing beside the lotus pond, the Buddha watched everything unfold with sorrowful eyes.",
+        "Because he had sought only to save himself without compassion for anyone else, Kandata returned to the dark abyss from which he came.",
+        "Yet the lotus pond of Paradise, as if knowing nothing of it, gently swayed its pure white blossoms in the noon breeze."
+      ]
+    }
+  ]
+}

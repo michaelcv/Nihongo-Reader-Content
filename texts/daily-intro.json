@@ -1,0 +1,51 @@
+{
+  "id": "daily-intro",
+  "titleJa": "わたし の 毎日 と 日本 へ の やすみ",
+  "titleFr": "Ma routine quotidienne et vacances au Japon",
+  "titleEn": "My Daily Routine and Vacation Plans in Japan",
+  "level": "N5",
+  "author": "Nihongo Reader Débutant",
+  "authorEn": "Nihongo Reader Beginner",
+  "category": "Vie quotidienne",
+  "categoryEn": "Daily Life",
+  "tags": [
+    "Vie quotidienne",
+    "Présentation",
+    "N5",
+    "Débutant",
+    "Voyage"
+  ],
+  "tagsEn": [
+    "Daily Life",
+    "Self-Introduction",
+    "N5",
+    "Beginner",
+    "Travel"
+  ],
+  "descriptionFr": "Vocabulaire simple du quotidien, présentation et projets de vacances au Japon, 100 % conforme au niveau JLPT N5.",
+  "descriptionEn": "Simple everyday vocabulary, self-introduction, and travel plans for Japan, strictly aligned with JLPT N5 kanji and vocabulary.",
+  "imageUrl": "images/tokyo_street_cover_1794688717643.jpg",
+  "text": "はじめまして！わたし の 名前 は トマ です。フランス の パリ に すんで います。\n\nわたし は 毎日 あさ 七じ に おきます。あさ ごはん を 食べた 後で、あたたかい こうちゃ を のみます。\nそして、毎日 一じかん、日本語 を べんきょう します。かんじ を 読む の は すこし むずかしい です が、とても おもしろい です。\n\n来年 の 五月 に、友だち と いっしょに とうきょう と きょうと へ 行きます。\nおいしい すし や カレー を たくさん 食べて、ふるい たてもの や こうえん を たくさん 見たい です。\n\n日本 の 人 と たのしく 話せる よう に、今 から たくさん 本 を 読みます！",
+  "translationsFr": [
+    "Enchanté ! Mon nom est Thomas. J'habite à Paris en France.",
+    "",
+    "Je me réveille tous les matins à sept heures. Après avoir pris le petit-déjeuner, je bois du thé noir chaud.",
+    "Ensuite, chaque jour, j'étudie le japonais pendant une heure. Lire les kanji est un peu difficile, mais c'est très intéressant.",
+    "",
+    "En mai de l'année prochaine, j'irai à Tokyo et à Kyoto avec des amis.",
+    "J'ai envie de manger beaucoup de délicieux sushis et de curry, et de voir de nombreux bâtiments anciens et parcs.",
+    "",
+    "Afin de pouvoir discuter joyeusement avec les Japonais, je lis beaucoup de livres dès maintenant !"
+  ],
+  "translationsEn": [
+    "Nice to meet you! My name is Thomas. I live in Paris, France.",
+    "",
+    "I wake up at seven o'clock every morning. After eating breakfast, I drink warm black tea.",
+    "Then, every day, I study Japanese for one hour. Reading kanji is a little difficult, but very interesting.",
+    "",
+    "Next May, I will go to Tokyo and Kyoto together with my friends.",
+    "I want to eat lots of delicious sushi and curry, and see many old buildings and parks.",
+    "",
+    "So that I can talk happily with Japanese people, I am reading many books starting now!"
+  ]
+}

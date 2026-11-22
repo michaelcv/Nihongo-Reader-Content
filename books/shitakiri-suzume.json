@@ -1,0 +1,184 @@
+{
+  "id": "shitakiri-suzume",
+  "format": "book",
+  "titleJa": "したきり すずめ",
+  "titleFr": "Le Moineau à la langue coupée (Shitakiri Suzume)",
+  "titleEn": "The Tongue-Cut Sparrow (Shitakiri Suzume)",
+  "coverImage": "images/shitakiri_cover_1795248244629.jpg",
+  "descriptionFr": "Un conte traditionnel célèbre adapté au niveau JLPT N4 en 5 chapitres. Chassé par une vieille femme acariâtre, un petit moineau accueille chaleureusement son gentil maître dans une auberge cachée au cœur des bambous — récompensant l'humilité et punissant la cupidité.",
+  "descriptionEn": "A classic Japanese folktale adapted to JLPT N4 level across 5 chapters. Chased away by a grumpy old woman, a gentle sparrow welcomes the kind old man at a hidden bamboo inn—rewarding humility and teaching greed a lesson.",
+  "author": "Conte traditionnel (Édition N4)",
+  "authorEn": "Traditional Folklore (N4 Edition)",
+  "level": "N4",
+  "category": "Folklore",
+  "categoryEn": "Folklore",
+  "tags": [
+    "Livre",
+    "Folklore",
+    "Contes traditionnels",
+    "N4",
+    "Oiseaux",
+    "Bambou"
+  ],
+  "tagsEn": [
+    "Book",
+    "Folklore",
+    "Traditional Tales",
+    "N4",
+    "Birds",
+    "Bamboo"
+  ],
+  "chapters": [
+    {
+      "id": "chap-1",
+      "chapterNumber": 1,
+      "titleJa": "一：おじいさん と かわいい すずめ",
+      "titleFr": "Chapitre 1 : Le vieil homme et le gentil moineau",
+      "titleEn": "Chapter 1: The Old Man and the Cute Sparrow",
+      "summaryFr": "Un gentil vieillard recueille un petit moineau blessé et s'en occupe avec tendresse. Sa femme avare, au contraire, n'aime pas nourrir l'oiseau.",
+      "summaryEn": "A gentle old man rescues an injured little sparrow and cares for it tenderly. His grumpy, stingy wife, however, dislikes feeding the bird.",
+      "imageUrl": "images/shitakiri_sparrow_1795248243831.jpg",
+      "text": "むかし、山 の ふもと に、やさしい おじいさん と よくばり な おばあさん が 住んで いました。\nある 日、おじいさん は 道 で けが を した 小さな すずめ を ひろいました。\n家 に つれて 帰って、毎日 おこめ や 水 を あげて、大切 に せわ を しました。\n\nすずめ は すぐ に 元気 に なって、「チュンチュン」と きれいな こえ で うたう ように なりました。\nおじいさん は すずめ を「おちゅん」と よんで、家族 の ように かわいがりました。\nしかし、おばあさん は「うるさい とり だ ね。おこめ が もったいない よ。」と いつも おこって いました。",
+      "translationsFr": [
+        "Il y a bien longtemps, au pied de la montagne, vivaient un gentil vieil homme et une vieille femme cupide.",
+        "Un jour, le vieil homme trouva sur le chemin un petit moineau blessé.",
+        "Il le ramena à la maison, lui donna chaque jour du riz et de l'eau, et prit soin de lui avec tendresse.",
+        "",
+        "Le moineau reprit vite des forces et se mit à chanter d'une jolie voix : « Tchoune, tchoune ! ».",
+        "Le vieil homme l'appela « Ochun » et le chérit comme un membre de sa famille.",
+        "Cependant, la vieille femme se fâchait toujours en disant : « Quel oiseau bruyant ! C'est du gâchis de lui donner du riz ! »"
+      ],
+      "translationsEn": [
+        "Long ago, at the foot of the mountains, lived a gentle old man and a greedy old woman.",
+        "One day, the old man found a tiny injured sparrow along the path.",
+        "He brought it home, fed it rice grains and water every day, and cared for it lovingly.",
+        "",
+        "The sparrow soon regained its strength and began singing in a sweet voice, \"Chirp, chirp!\"",
+        "The old man named the bird \"Ochun\" and doted on it like family.",
+        "However, the old woman always grumbled, \"What a noisy bird! Feeding it rice is such a waste!\""
+      ]
+    },
+    {
+      "id": "chap-2",
+      "chapterNumber": 2,
+      "titleJa": "二：のり を 食べた おちゅん",
+      "titleFr": "Chapitre 2 : La colle d'amidon et l'envol du moineau",
+      "titleEn": "Chapter 2: The Laundry Paste and the Sparrow's Flight",
+      "summaryFr": "Ayant très faim, le moineau goûte la colle de riz de la vieille femme. Furieuse, celle-ci lui coupe le bout de la langue et le chasse vers la montagne.",
+      "summaryEn": "Hungry while the old man is away, the sparrow eats the old woman's starch paste. Furious, she snips the tip of its tongue and chases the bird toward the mountain.",
+      "imageUrl": "images/shitakiri_paste_1795248242705.jpg",
+      "text": "ある あさ、おじいさん が 山 へ 仕事 に 出かけた あと、おなか が すいた おちゅん は せんたく の のり を 食べて しまいました。\nそれ を 見た おばあさん は まっ赤 に なって おこりました。\n「まあ！ わたし が 作った 大切 な のり を ぜんぶ 食べて しまう なんて！」\n\nおばあさん は はさみ で おちゅん の した を 少し きって、外 へ おいだして しまいました。\n「もう 二度と ここ へ 帰って 来る な！」\nおちゅん は なきながら、とおく の たけ の 山 へ とんで 行って しまいました。",
+      "translationsFr": [
+        "Un matin, après le départ du vieil homme pour son travail dans la montagne, Ochun qui avait faim mangea la colle de riz préparée pour le linge.",
+        "En voyant cela, la vieille femme devint rouge de colère :",
+        "« Comment ! Avoir mangé toute la précieuse colle que j'avais préparée ! »",
+        "",
+        "La vieille femme prit des ciseaux, coupa le bout de la langue d'Ochun et le chassa dehors :",
+        "« Ne reviens plus jamais ici ! »",
+        "En pleurant, le petit moineau s'envola au loin vers la montagne de bambous."
+      ],
+      "translationsEn": [
+        "One morning, after the old man left for work in the mountain, hungry Ochun ate the starch paste prepared for laundry.",
+        "Seeing this, the old woman turned red with rage:",
+        "\"Goodness! You went and ate up all the precious paste I made!\"",
+        "",
+        "Taking a pair of scissors, the old woman snipped the tip of Ochun's tongue and chased the bird outside:",
+        "\"Don't you ever come back here again!\"",
+        "Crying, little Ochun flew far away toward the distant bamboo mountain."
+      ]
+    },
+    {
+      "id": "chap-3",
+      "chapterNumber": 3,
+      "titleJa": "三：たけばやし の すずめ の おやど",
+      "titleFr": "Chapitre 3 : L'auberge des moineaux dans les bambous",
+      "titleEn": "Chapter 3: The Sparrow Inn in the Bamboo Forest",
+      "summaryFr": "Inquiet, le vieil homme part chercher son ami dans la montagne et découvre l'auberge cachée des moineaux, où il est accueilli par des danses et un festin.",
+      "summaryEn": "Worried, the old man searches the mountain for his little friend and finds the hidden sparrow inn, where he is welcomed with dances and a cheerful feast.",
+      "imageUrl": "images/shitakiri_cover_1795248244629.jpg",
+      "text": "夕方 に 帰った おじいさん は、おちゅん が いなく なった こと を 知って、とても しんぱい しました。\n「すずめ の おやど は どこ じゃ ろう。おちゅん、あい たい よ。」\nおじいさん は 長い 道 を いっしょうけんめい 歩いて、ふかい たけ の 森 の 中 へ 入りました。\n\nすると、「おじいさん、よく 来て くださいました！」と 言って、かわいい 着物 を きた すずめ たち が 出て 来ました。\nおちゅん も うれしそうに とび出して 来て、おいしい お茶 や おかし を たくさん 出して くれました。\nみんな で うたったり おどったり して、おじいさん は とても たのしい 時間 を すごしました。",
+      "translationsFr": [
+        "Rentré le soir, le vieil homme apprit qu'Ochun avait disparu et se fit beaucoup de souci.",
+        "« Où peut donc se trouver l'auberge des moineaux ? Ochun, je veux te revoir ! »",
+        "Le vieil homme marcha courageusement le long du sentier et pénétra au cœur d'une profonde forêt de bambous.",
+        "",
+        "C'est alors que de mignons moineaux vêtus de jolis kimonos sortirent à sa rencontre : « Grand-père, soyez le bienvenu ! »",
+        "Ochun accourut lui aussi tout joyeux et lui servit du bon thé et plein de délicieuses friandises.",
+        "Tous chantèrent et dansèrent ensemble, et le vieil homme passa un moment merveilleux."
+      ],
+      "translationsEn": [
+        "Returning in the evening, the old man learned Ochun was gone and grew deeply worried.",
+        "\"Where could the sparrow inn be? Ochun, I want to see you!\"",
+        "Walking earnestly along the long trail, the old man entered deep into a lush bamboo forest.",
+        "",
+        "Suddenly, cute sparrows wearing pretty kimonos stepped out to greet him: \"Grandfather, thank you for coming!\"",
+        "Ochun hopped out joyfully too and treated him to fine tea and plenty of delicious sweets.",
+        "With everyone singing and dancing together, the old man spent a truly wonderful time."
+      ]
+    },
+    {
+      "id": "chap-4",
+      "chapterNumber": 4,
+      "titleJa": "四：小さい つづら の おみやげ",
+      "titleFr": "Chapitre 4 : Le petit panier en souvenir",
+      "titleEn": "Chapter 4: The Small Woven Basket Gift",
+      "summaryFr": "Avant son départ, les moineaux proposent au vieillard de choisir entre un grand et un petit panier. Modeste, il choisit le petit, qui renferme de magnifiques trésors.",
+      "summaryEn": "Before he leaves, the sparrows offer him a choice between a huge chest and a small basket. Modestly taking the small one, he finds it filled with dazzling treasures at home.",
+      "imageUrl": "images/shitakiri_boxes_1795248243595.jpg",
+      "text": "夜 に なって おじいさん が 帰ろう と する と、おちゅん は ふたつ の つづら を 持って 来ました。\n「おれい に おみやげ を さしあげます。大きい の と 小さい の、どちら が よろしい ですか。」\n\nおじいさん は にっこり わらって、答えました。\n「わたし は 年 を とって いる から、かるい 小さい ほう を いただく よ。ほんとう に ありがとう。」\n\n家 に 帰って 小さい つづら を 開けて みる と、中 に は ひかる こばん や うつくしい 着物 が いっぱい 入って いました。\n「うわあ、なんて きれい な たからもの だろう！」と おじいさん は おどろきました。",
+      "translationsFr": [
+        "La nuit venue, comme le vieil homme s'apprêtait à rentrer, Ochun apporta deux paniers fermés :",
+        "« En remerciement, je vous offre un cadeau de départ. Préférez-vous le grand ou le petit ? »",
+        "",
+        "Le vieil homme sourit doucement et répondit :",
+        "« Comme je suis âgé, je vais prendre le petit qui est léger. Merci infiniment ! »",
+        "",
+        "De retour chez lui, lorsqu'il ouvrit le petit panier, celui-ci était rempli de pièces d'or brillantes et de splendides étoffes de kimono.",
+        "« Oh là là, quels merveilleux trésors ! » s'étonna le vieil homme."
+      ],
+      "translationsEn": [
+        "When night fell and the old man prepared to leave, Ochun brought out two woven baskets:",
+        "\"As a thank-you gift, please accept a souvenir. Would you prefer the big one or the small one?\"",
+        "",
+        "The old man smiled gently and replied:",
+        "\"Since I'm getting on in years, I'll take the light little one. Thank you so very much.\"",
+        "",
+        "Returning home and opening the small basket, he found it brimming with gleaming gold coins and gorgeous kimono silks.",
+        "\"My goodness, what marvelous treasures!\" the old man exclaimed in amazement."
+      ]
+    },
+    {
+      "id": "chap-5",
+      "chapterNumber": 5,
+      "titleJa": "五：よくばり おばあさん と 大きい つづら",
+      "titleFr": "Chapitre 5 : La vieille femme avide et le grand coffre",
+      "titleEn": "Chapter 5: The Greedy Wife and the Big Chest",
+      "summaryFr": "Avide, la vieille femme exige le plus grand coffre des moineaux et l'ouvre sans attendre. Mais il n'en jaillit que grenouilles, serpents et petits esprits farceurs !",
+      "summaryEn": "Greedy for more wealth, the old woman demands the largest chest from the sparrows and opens it right away—only to unleash frogs, snakes, and playful ghosts!",
+      "imageUrl": "images/shitakiri_ending_1795248243000.jpg",
+      "text": "それ を 見た おばあさん は、「なぜ 小さい ほう を えらんだ の！ わたし が 大きい の を もらって 来る よ。」と 言って、たけばやし へ 急ぎました。\nすずめ の おやど に 着く と、おばあさん は お茶 も 飲まない で 大きな つづら を むり に うけとりました。\n\n「重たい けれど、きっと 中 に 金 が いっぱい 入って いる はず だ！」\n家 まで 待てない で、おばあさん は とちゅう の 森 の 中 で つづら を 開けて しまいました。\n\nする と、中 から おばけ や かえる や へび が ぞろぞろ とび出して 来ました！\n「キャーッ、たすけて！」と さけんで、おばあさん は あわてて 家 へ にげ帰りました。\nそれ から は 二度と よくばり な こと を しなく なった そう です。",
+      "translationsFr": [
+        "En voyant cela, la vieille femme s'écria : « Pourquoi as-tu choisi le petit ?! Moi, je vais aller chercher le grand ! » et se hâta vers la bambouseraie.",
+        "Arrivée à l'auberge des moineaux, sans même prendre le thé, la vieille femme s'empara avidement du plus grand coffre.",
+        "",
+        "« Il est lourd, mais il doit sûrement être plein d'or à l'intérieur ! »",
+        "Ne pouvant attendre d'être rentrée, la vieille femme ouvrit le coffre en plein milieu de la forêt.",
+        "",
+        "Aussitôt, des petits fantômes farceurs, des grenouilles et des serpents en jaillirent en foule !",
+        "« Aaaah, au secours ! » hurla la vieille femme en s'enfuyant chez elle à toute jambe.",
+        "On raconte que depuis ce jour, elle ne se montra plus jamais cupide."
+      ],
+      "translationsEn": [
+        "Seeing the treasure, the old woman snapped, \"Why did you pick the small one?! I'll go get the big one myself!\" and hurried into the bamboo grove.",
+        "Arriving at the sparrow inn, the old woman didn't even touch the tea and impatiently claimed the biggest chest.",
+        "",
+        "\"It's heavy, so it must surely be packed with gold inside!\"",
+        "Unable to wait until she got home, the old woman popped the chest open right in the middle of the forest.",
+        "",
+        "All at once, playful ghosts, frogs, and snakes sprang right out in a swarm!",
+        "\"Eeeek, help!\" she shrieked, dashing straight back home in a panic.",
+        "From that day onward, they say she never acted greedy ever again."
+      ]
+    }
+  ]
+}

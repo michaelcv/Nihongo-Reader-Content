@@ -1,0 +1,196 @@
+{
+  "id": "kintaro",
+  "format": "book",
+  "titleJa": "きんたろう",
+  "titleFr": "Kintarō - L'enfant fort de la montagne",
+  "titleEn": "Kintarō - The Strong Boy of the Mountain",
+  "coverImage": "images/kintaro_cover_1794954930844.jpg",
+  "descriptionFr": "Le célèbre conte japonais de Kintarō en édition JLPT N5 intégrale. Suivez le petit garçon plein d'énergie du mont Ashigara, ses amis de la forêt et le grand pont de bois avec des kanji et un vocabulaire strictement adaptés aux débutants.",
+  "descriptionEn": "The famous Japanese folktale of Kintarō in a strict JLPT N5 beginner edition. Follow the energetic mountain boy, his forest friends, and the wooden bridge using strictly N5 kanji and accessible vocabulary.",
+  "author": "Conte traditionnel (Édition N5)",
+  "authorEn": "Traditional Folklore (N5 Edition)",
+  "level": "N5",
+  "category": "Folklore",
+  "categoryEn": "Folklore",
+  "tags": [
+    "Livre",
+    "Folklore",
+    "Contes traditionnels",
+    "N5",
+    "Débutant",
+    "Montagne"
+  ],
+  "tagsEn": [
+    "Book",
+    "Folklore",
+    "Traditional Tales",
+    "N5",
+    "Beginner",
+    "Mountain"
+  ],
+  "chapters": [
+    {
+      "id": "chap-1",
+      "chapterNumber": 1,
+      "titleJa": "一：山の 小さな いえ",
+      "titleFr": "Chapitre 1 : La petite maison dans la montagne",
+      "titleEn": "Chapter 1: The Little House in the Mountain",
+      "summaryFr": "Au cœur de la montagne vit Kintarō, un petit garçon plein d'énergie qui pousse les grands arbres avec aisance et joue avec joie.",
+      "summaryEn": "Deep in the mountain lives Kintarō, an energetic little boy who easily pushes giant trees and plays joyfully every day.",
+      "imageUrl": "images/kintaro_cover_1794954930844.jpg",
+      "text": "むかし、山の 中に、「きんたろう」と いう 男の子が いました。\nきんたろうは お母さんと ふたりで、山の 小さな いえに すんで いました。\n\nきんたろうは いつも あかい ふくを きて、とても げんきな 男の子です。\n毎日 外で たくさん あそびますから、からだも とても じょうぶです。\n\n大きい 木を かるく おしたり、山のみちを はやく はしったり します。\nとても つよいですが、きんたろうは みんなと 毎日 たのしく あそんで いました。",
+      "translationsFr": [
+        "Il y a bien longtemps, dans la montagne, vivait un petit garçon nommé « Kintarō ».",
+        "Kintarō habitait avec sa mère, tous les deux dans une petite maison de la montagne.",
+        "",
+        "Kintarō portait toujours un vêtement rouge et c'était un garçon plein d'énergie.",
+        "Comme il jouait beaucoup dehors chaque jour, son corps était aussi très robuste.",
+        "",
+        "Il poussait aisément de grands arbres et courait vite sur les sentiers de la montagne.",
+        "Bien qu'il fût très fort, Kintarō s'amusait joyeusement chaque jour avec tout le monde."
+      ],
+      "translationsEn": [
+        "Long ago, deep in the mountain, lived a little boy named \"Kintarō.\"",
+        "Kintarō lived together with his mother in a small house in the mountain.",
+        "",
+        "Always wearing red clothes, Kintarō was a very energetic boy.",
+        "Because he played outside so much every day, his body was also very strong and healthy.",
+        "",
+        "He pushed big trees lightly and ran swiftly along the mountain paths.",
+        "Although he was very strong, Kintarō played happily with everyone every day."
+      ]
+    },
+    {
+      "id": "chap-2",
+      "chapterNumber": 2,
+      "titleJa": "二：山の ともだち",
+      "titleFr": "Chapitre 2 : Les amis de la montagne",
+      "titleEn": "Chapter 2: Friends of the Mountain",
+      "summaryFr": "Kintarō retrouve chaque jour ses amis de la forêt — un grand ours, un chien adorable et de petits oiseaux — pour courir, nager et chanter.",
+      "summaryEn": "Every day Kintarō meets his forest friends—a big bear, a cute dog, and little birds—to run, swim, and sing together.",
+      "imageUrl": "images/kintaro_friends_1794954931913.jpg",
+      "text": "きんたろうには、山の ともだちが たくさん いました。\n大きなくまや、かわいい いぬや、小さな とりも みんな ともだちです。\n\n毎日 いえの 外で あうと、みんなで いっしょに あそびます。\n「きょうは 何を しましょうか。」\n「あちらの 川へ 行きましょう。そして、およぎましょう！」\n\nとりが 木の上で きれいな うたを うたいます。\nくまや いぬも、きんたろうと はしったり およいだり して、とても たのしいです。",
+      "translationsFr": [
+        "Kintarō avait de nombreux amis dans la montagne.",
+        "Un grand ours, un gentil chien et de petits oiseaux étaient tous ses amis.",
+        "",
+        "Chaque jour, dès qu'ils se retrouvaient dehors, ils jouaient tous ensemble.",
+        "« Qu'allons-nous faire aujourd'hui ? »",
+        "« Allons à la rivière là-bas, et nageons ensemble ! »",
+        "",
+        "Dans les arbres, les oiseaux chantaient de jolies chansons.",
+        "L'ours et le chien s'amusaient beaucoup eux aussi à courir et nager avec Kintarō."
+      ],
+      "translationsEn": [
+        "Kintarō had many friends in the mountain.",
+        "A big bear, a cute dog, and little birds were all his friends.",
+        "",
+        "Every day, when they met outside the house, they all played together.",
+        "\"What shall we do today?\"",
+        "\"Let's go to the river over there and swim!\"",
+        "",
+        "Up in the trees, the birds sang pretty songs.",
+        "The bear and the dog had such a great time running and swimming with Kintarō too."
+      ]
+    },
+    {
+      "id": "chap-3",
+      "chapterNumber": 3,
+      "titleJa": "三：川の 上の ふとい 木",
+      "titleFr": "Chapitre 3 : Le grand tronc au-dessus de la rivière",
+      "titleEn": "Chapter 3: The Thick Tree Over the River",
+      "summaryFr": "Après une forte pluie qui a emporté le pont, Kintarō pousse un tronc épais par-dessus la rivière pour aider ses amis à traverser.",
+      "summaryEn": "After heavy rain washes away the bridge, Kintarō pushes a heavy tree trunk across the river so his friends can cross safely.",
+      "imageUrl": "images/kintaro_bridge_1794954932625.jpg",
+      "text": "ある日、みんなで 川の そばを あるいて いました。\nしかし、きのうの つよい 雨で、川の はしが ありませんでした。\n川の水も はやくて、とても あぶないです。いぬも とりも たいへん こまって いました。\n\n「だいじょうぶですよ。わたしが はしを つくります。」\nきんたろうは 川の そばの おもくて ふとい 木を 見ました。\n\nそして、つよい てで、その 大きな 木を おしました。\n木が 川の 上に のって、りっぱな はしに なりました。\nみんな あたらしい 木のはしを わたって、あちらへ 行きました。",
+      "translationsFr": [
+        "Un jour, ils marchaient tous ensemble le long de la rivière.",
+        "Cependant, à cause de la forte pluie de la veille, il n'y avait plus de pont.",
+        "L'eau de la rivière coulait vite et c'était très dangereux. Le chien et l'oiseau étaient bien embarrassés.",
+        "",
+        "« Ne vous inquiétez pas, je vais fabriquer un pont. »",
+        "Kintarō remarqua un arbre lourd et épais juste au bord de la rivière.",
+        "",
+        "Alors, de ses mains puissantes, il poussa ce grand arbre.",
+        "Le tronc retomba au-dessus de la rivière et devint un magnifique pont.",
+        "Tous traversèrent le nouveau pont de bois pour rejoindre l'autre rive."
+      ],
+      "translationsEn": [
+        "One day, everyone was walking beside the river together.",
+        "However, due to yesterday's heavy rain, the river bridge was gone.",
+        "The river water was fast and very dangerous. Both the dog and the bird were in great trouble.",
+        "",
+        "\"Don't worry. I will make a bridge.\"",
+        "Kintarō looked at a heavy, thick tree beside the river.",
+        "",
+        "Then, with his strong hands, he pushed that big tree.",
+        "The tree landed across the river and became a splendid bridge.",
+        "Everyone crossed the new wooden bridge to the other side."
+      ]
+    },
+    {
+      "id": "chap-4",
+      "chapterNumber": 4,
+      "titleJa": "四：りっぱな 男の人",
+      "titleFr": "Chapitre 4 : L'homme distingué",
+      "titleEn": "Chapter 4: The Noble Man",
+      "summaryFr": "Un voyageur venu de la grande ville, Yorimitsu, observe la force de Kintarō près du pont et l'invite à le suivre.",
+      "summaryEn": "A traveler from the big town named Yorimitsu witnesses Kintarō's strength by the bridge and invites him to come along.",
+      "imageUrl": "images/kintaro_traveler_1794954933832.jpg",
+      "text": "その 時、川の ちかくを あるいて いた 男の人が いました。\n名前は「よりみつ」と いいます。大きな まちから 来た りっぱな 人です。\n男の人は、きんたろうが ふとい 木で はしを つくるのを 見ました。\n\n「とても つよい 男の子ですね！あなたの 名前は 何ですか。」\n「わたしの 名前は きんたろうです。」\n\n男の人は きんたろうと いっしょに、いろいろ 話しました。\n「おもしろい はなしですね。いっしょに 大きな まちへ 行きませんか。」",
+      "translationsFr": [
+        "À ce moment-là, un homme marchait près de la rivière.",
+        "Il s'appelait « Yorimitsu ». C'était un homme distingué venu d'une grande ville.",
+        "L'homme avait vu Kintarō construire un pont avec le gros arbre.",
+        "",
+        "« Quel garçon incroyablement fort ! Quel est ton nom ? »",
+        "« Je m'appelle Kintarō. »",
+        "",
+        "L'homme parla longuement avec Kintarō de toutes sortes de choses.",
+        "« Quelle histoire passionnante ! Veux-tu venir avec moi dans la grande ville ? »"
+      ],
+      "translationsEn": [
+        "Just then, a man was walking near the river.",
+        "His name was \"Yorimitsu.\" He was a noble person who had come from a big town.",
+        "The man had watched Kintarō build a bridge out of a thick tree.",
+        "",
+        "\"What a very strong boy you are! What is your name?\"",
+        "\"My name is Kintarō.\"",
+        "",
+        "The man talked with Kintarō about many things.",
+        "\"What an interesting story! Won't you come with me to the big town?\""
+      ]
+    },
+    {
+      "id": "chap-5",
+      "chapterNumber": 5,
+      "titleJa": "五：あたらしい 毎日へ",
+      "titleFr": "Chapitre 5 : Vers une vie nouvelle",
+      "titleEn": "Chapter 5: Toward New Days",
+      "summaryFr": "Avec la bénédiction de sa mère, Kintarō dit au revoir à ses amis de la montagne et part vers la grande ville.",
+      "summaryEn": "With his mother's blessing, Kintarō bids farewell to his mountain friends and sets off for the big town.",
+      "imageUrl": "images/kintaro_departure_1794954933837.jpg",
+      "text": "きんたろうは いえへ かえりました。そして、お母さんに 話しました。\n「お母さん、あの 男の人と いっしょに まちへ 行きます。まちで もっと りっぱな 人に なりたいです。」\n\nお母さんは すこし こまりましたが、あかるく いいました。\n「そうですか。あなたは もう とても りっぱですね。まちでも げんきで いて ください。」\n\nつぎの 日の 午前、きんたろうは お母さんと ともだちに「さようなら」と いいました。\nみんなに てを あげて、きんたろうの あたらしい 毎日が はじまりました。",
+      "translationsFr": [
+        "Kintarō rentra à la maison et parla à sa mère :",
+        "« Maman, je vais partir en ville avec cet homme. Là-bas, je veux devenir une personne encore plus accomplie. »",
+        "",
+        "Sa mère fut d'abord un peu troublée, puis elle répondit d'un ton joyeux :",
+        "« Je vois. Tu es déjà si brave. Reste en pleine forme en ville aussi, s'il te plaît. »",
+        "",
+        "Le lendemain matin, Kintarō dit « au revoir » à sa mère et à ses amis.",
+        "Faisant un signe de la main à tous, une vie toute nouvelle commença pour Kintarō."
+      ],
+      "translationsEn": [
+        "Kintarō returned home and spoke to his mother:",
+        "\"Mother, I am going to the town with that man. I want to become an even finer person in the town.\"",
+        "",
+        "His mother felt a little troubled at first, yet spoke cheerfully:",
+        "\"I see. You are already so admirable. Please stay healthy and strong in the town too.\"",
+        "",
+        "The next morning, Kintarō said \"goodbye\" to his mother and his friends.",
+        "Waving his hand to everyone, Kintarō's brand-new days began."
+      ]
+    }
+  ]
+}

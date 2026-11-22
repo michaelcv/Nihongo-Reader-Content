@@ -1,0 +1,171 @@
+{
+  "id": "yuki-onna",
+  "format": "book",
+  "titleJa": "雪女（ゆきおんな）",
+  "titleFr": "Yuki-onna - La Femme des neiges",
+  "titleEn": "Yuki-onna - The Snow Woman",
+  "coverImage": "images/yukionna_cover_1795161853299.jpg",
+  "descriptionFr": "Le célèbre conte fantastique d'hiver japonais adapté au niveau JLPT N3 en 6 chapitres. Par une nuit de tempête de neige, le jeune Minokichi fait face à un esprit glacé et doit garder un lourd secret toute sa vie.",
+  "descriptionEn": "Japan's classic winter ghost folktale adapted to JLPT N3 level across 6 chapters. On a stormy winter night, young Minokichi encounters an icy spirit and is bound by a lifelong secret.",
+  "author": "Conte traditionnel (Édition N3)",
+  "authorEn": "Traditional Folklore (N3 Edition)",
+  "level": "N3",
+  "category": "Folklore",
+  "categoryEn": "Folklore",
+  "tags": [
+    "Livre",
+    "Folklore",
+    "Contes traditionnels",
+    "N3",
+    "Hiver",
+    "Fantastique"
+  ],
+  "tagsEn": [
+    "Book",
+    "Folklore",
+    "Traditional Tales",
+    "N3",
+    "Winter",
+    "Supernatural"
+  ],
+  "chapters": [
+    {
+      "id": "chap-1",
+      "chapterNumber": 1,
+      "titleJa": "一：冬 の 小屋",
+      "titleFr": "Chapitre 1 : La cabane d'hiver",
+      "titleEn": "Chapter 1: The Winter Hut",
+      "summaryFr": "Pris dans une violente tempête de neige en montagne, le vieux Mosaku et le jeune Minokichi trouvent refuge dans une cabane isolée.",
+      "summaryEn": "Caught in a fierce snowstorm in the mountains, old Mosaku and young Minokichi take shelter inside a lonely wooden hut.",
+      "imageUrl": "images/yukionna_hut_1795161853952.jpg",
+      "text": "むかし、山 の ちかく の むら に、もさく と いう 年 を とった おじいさん と、みのきち と いう 若い 男 が 住んで いました。\nある 冬 の 日、ふたり は 山 へ 木 を きり に 出かけました。\nところが、夕方 から つよい 風 と はげしい 雪 が 降り始め、家 へ 帰る こと が できなく なりました。\nふたり は 川 の そば に あった 古い 小屋 に 入り、寒さ に ふるえながら ねむり に つきました。",
+      "translationsFr": [
+        "Il y a bien longtemps, dans un village près de la montagne, vivaient un vieil homme nommé Mosaku et un jeune homme appelé Minokichi.",
+        "Un jour d'hiver, tous deux partirent couper du bois dans la montagne.",
+        "Cependant, dès le soir, un vent violent et une neige battante se mirent à tomber, les empêchant de rentrer chez eux.",
+        "Ils se réfugièrent dans une vieille cabane au bord de la rivière et s'endormirent en grelottant de froid."
+      ],
+      "translationsEn": [
+        "Long ago, in a village near the mountains, lived an elderly man named Mosaku and a young man named Minokichi.",
+        "One winter day, the two set out into the mountains to cut wood.",
+        "However, toward evening, a fierce wind and heavy snow began to fall, making it impossible to return home.",
+        "They stepped into an old hut beside the river and drifted off to sleep shivering in the cold."
+      ]
+    },
+    {
+      "id": "chap-2",
+      "chapterNumber": 2,
+      "titleJa": "二：白い 女 と 冷たい 息",
+      "titleFr": "Chapitre 2 : La femme en blanc et le souffle glacé",
+      "titleEn": "Chapter 2: The Woman in White and the Icy Breath",
+      "summaryFr": "En pleine nuit, la porte s'ouvre sous le vent : une belle femme vêtue de blanc souffle une haleine glaciale sur Mosaku.",
+      "summaryEn": "In the dead of night, the wind blows open the door and a pale woman dressed in white breathes freezing air upon old Mosaku.",
+      "imageUrl": "images/yukionna_cover_1795161853299.jpg",
+      "text": "夜中 に なると、つよい 風 が 小屋 の と を おおきな 音 で あけました。\nみのきち が 目 を さます と、そこ に とても 白い 着物 を 着た 美しい 女 が 立って いました。\n女 は もさく の 上 に かがみ、こおり の ように 冷たい 白い 息 を 静か に かけました。\nもさく は こえ も 出さず、そのまま 動かなく なって しまいました。",
+      "translationsFr": [
+        "Au milieu de la nuit, une violente rafale ouvrit brusquement la porte de la cabane dans un grand fracas.",
+        "Lorsque Minokichi ouvrit les yeux, une femme d'une grande beauté vêtue d'un kimono d'un blanc pur se tenait là.",
+        "Elle se pencha au-dessus de Mosaku et souffla doucement sur lui une haleine blanche aussi froide que la glace.",
+        "Mosaku n'émit pas le moindre son et resta figé à jamais."
+      ],
+      "translationsEn": [
+        "In the middle of the night, a fierce gust blew the hut door open with a loud crash.",
+        "When Minokichi woke up, a strikingly beautiful woman dressed in pure white stood right there.",
+        "She bent over Mosaku and quietly breathed a white mist as cold as ice upon him.",
+        "Without uttering a sound, Mosaku became completely still."
+      ]
+    },
+    {
+      "id": "chap-3",
+      "chapterNumber": 3,
+      "titleJa": "三：いのち を 助けた 約束",
+      "titleFr": "Chapitre 3 : La promesse qui sauva sa vie",
+      "titleEn": "Chapter 3: The Promise That Spared His Life",
+      "summaryFr": "La femme des neiges épargne le jeune Minokichi à une condition absolue : ne jamais révéler à personne ce qu'il a vu cette nuit-là.",
+      "summaryEn": "The snow woman spares young Minokichi on one strict condition: never tell a single soul what he witnessed that night.",
+      "imageUrl": "images/yukionna_promise_1795161852860.jpg",
+      "text": "次 に 女 は みのきち の そば へ 来ました。みのきち は 恐ろしくて こえ も 出ません。\n女 は しばらく みのきち の 若い かお を 静か に 見て から、言いました。\n「おまえ は まだ 若い。今夜 は いのち を 助けて やろう。しかし、この 夜 に 見た こと は、だれ に も 絶対 に 話しては ならない。もし 話せば、その 時 こそ いのち を とる。」\nそう 言って、女 は 冷たい 風 と いっしょに 外 へ 消えて 行きました。",
+      "translationsFr": [
+        "Ensuite, la femme s'approcha tout près de Minokichi. Terrifié, celui-ci ne parvenait même plus à parler.",
+        "Elle observa silencieusement le jeune visage de Minokichi un instant avant de murmurer :",
+        "« Tu es encore jeune. Cette nuit, je vais t'épargner la vie. Mais tu ne dois absolument jamais raconter à qui que ce soit ce que tu as vu cette nuit. Si tu parles, ce jour-là, je te prendrai la vie. »",
+        "Sur ces mots, elle disparut dehors au cœur du vent glacé."
+      ],
+      "translationsEn": [
+        "Next, the woman stepped beside Minokichi. Terrified, Minokichi could not utter a single word.",
+        "She gazed quietly at Minokichi's youthful face for a moment, then spoke:",
+        "\"You are still young. Tonight, I shall spare your life. However, you must never tell anyone what you saw tonight. If you ever speak of it, that very moment I will take your life.\"",
+        "Saying so, the woman vanished outside along with the freezing wind."
+      ]
+    },
+    {
+      "id": "chap-4",
+      "chapterNumber": 4,
+      "titleJa": "四：お雪 と の 暮らし",
+      "titleFr": "Chapitre 4 : Une vie paisible avec Oyuki",
+      "titleEn": "Chapter 4: Quiet Days with Oyuki",
+      "summaryFr": "L'hiver suivant, Minokichi rencontre une femme douce nommée Oyuki. Ils se marient, fondent une famille et vivent heureux.",
+      "summaryEn": "The following winter, Minokichi meets a kind woman named Oyuki. They marry, raise children, and enjoy peaceful, happy years.",
+      "imageUrl": "images/yukionna_oyuki_1795161853515.jpg",
+      "text": "つぎ の 冬 の はじめ、みのきち は 町 へ 行く 道 で、「お雪」と いう 美しく やさしい 女 の 人 に 出会いました。\nふたり は やがて 一緒 に 暮らす ように なり、元気 な 子供 たち も 生まれて、とても 幸せ な 毎日 を 送りました。\nお雪 は よく はたらき、いつも あたたかい 笑顔 で 家族 を 大切 に 守って いました。",
+      "translationsFr": [
+        "Au début de l'hiver suivant, sur la route menant à la ville, Minokichi fit la rencontre d'une femme douce et belle prénommée Oyuki.",
+        "Ils finirent bientôt par vivre ensemble, eurent des enfants pleins de vie et coulèrent des jours très heureux.",
+        "Oyuki travaillait sans relâche et veillait précieusement sur sa famille avec un sourire toujours chaleureux."
+      ],
+      "translationsEn": [
+        "At the beginning of the next winter, along the road to town, Minokichi met a kind and beautiful woman named Oyuki.",
+        "Before long, the two began living together, had lively children, and spent wonderfully happy days.",
+        "Oyuki worked diligently and always protected her family with a warm, gentle smile."
+      ]
+    },
+    {
+      "id": "chap-5",
+      "chapterNumber": 5,
+      "titleJa": "五：思い出した あの 夜",
+      "titleFr": "Chapitre 5 : Le souvenir de cette nuit-là",
+      "titleEn": "Chapter 5: Remembering That Night",
+      "summaryFr": "Un soir d'hiver, en regardant le visage pâle d'Oyuki sous la lampe, Minokichi oublie sa promesse et raconte sa rencontre avec la femme des neiges.",
+      "summaryEn": "One winter night, watching Oyuki's pale face by lamplight, Minokichi forgets his vow and reveals his encounter with the snow woman.",
+      "imageUrl": "images/yukionna_lamplight_1795161853225.jpg",
+      "text": "ある 寒い 冬 の 夜、明かり の 下 で 服 を なおす お雪 の かお を 見ながら、みのきち は ふと 言い ました。\n「おまえ の 白い かお を 見て いる と、むかし 小屋 で 出会った ふしぎ な 雪 の 女 を 思い出す よ。」\nお雪 は 手 を 止め、静か な こえ で ききました。「それは どんな 女 でしたか。」\nみのきち は わすれて、あの 恐ろしい 夜 の こと を すべて 話して しまいました。",
+      "translationsFr": [
+        "Par une froide nuit d'hiver, en regardant le visage d'Oyuki qui raccommodait des vêtements sous la lampe, Minokichi laissa échapper :",
+        "« En regardant ton visage si blanc, cela me rappelle une étrange femme des neiges que j'ai rencontrée autrefois dans une cabane. »",
+        "Oyuki arrêta aussitôt ses mains et demanda d'une voix calme : « Quelle sorte de femme était-ce ? »",
+        "Oubliant sa promesse, Minokichi finit par lui raconter tout ce qui s'était passé durant cette nuit terrible."
+      ],
+      "translationsEn": [
+        "On a cold winter night, looking at Oyuki's face as she mended clothes beneath the lamp, Minokichi suddenly remarked,",
+        "\"Watching your fair white face reminds me of a mysterious snow woman I met long ago in a mountain hut.\"",
+        "Oyuki stopped her hands and asked in a quiet voice, \"What kind of woman was she?\"",
+        "Forgetting his promise, Minokichi ended up telling her everything about that terrifying night."
+      ]
+    },
+    {
+      "id": "chap-6",
+      "chapterNumber": 6,
+      "titleJa": "六：白い きり の 中 へ",
+      "titleFr": "Chapitre 6 : Dans la brume blanche",
+      "titleEn": "Chapter 6: Into the White Mist",
+      "summaryFr": "Oyuki révèle être Yuki-onna. Par pitié pour leurs enfants endormis, elle épargne Minokichi une dernière fois avant de disparaître dans la tempête.",
+      "summaryEn": "Oyuki reveals she is Yuki-onna. Out of mercy for their sleeping children, she spares Minokichi one last time before vanishing into the storm.",
+      "imageUrl": "images/yukionna_mist_1795161853156.jpg",
+      "text": "その とき、お雪 の かお は こおり の ように 冷たく 変わり、立ち上がりました。\n「あの 夜 の 女 は、わたし なのです！約束 を やぶった の だ から、ほんとう は おまえ を 殺さなければ なりません。」\nしかし、となり で 静か に 眠って いる 子供 たち を 見る と、女 の 目 に やさしい 光 が もどりました。\n「この 子たち が かわいそう だ から、いのち だけ は 許して あげます。どうか 子供 たち を りっぱ に 育てて ください。もし わるく したら、かならず 戻って 来ますよ。」\nそう 言うと、雪女 は 白い きり に なって、窓 の 外 の 雪 と 風 の 中 へ 静か に 消えて 行きました。",
+      "translationsFr": [
+        "À cet instant, le visage d'Oyuki devint glacial comme la glace, et elle se leva d'un bond.",
+        "« La femme de cette nuit-là, c'était moi ! Puisque tu as rompu ta promesse, je devrais en vérité te tuer. »",
+        "Cependant, lorsqu'elle posa les yeux sur les enfants qui dormaient paisiblement juste à côté, une lueur douce revint dans son regard.",
+        "« J'ai pitié de ces petits, alors je te fais grâce de la vie. Je t'en prie, élève bien nos enfants. Si jamais tu les maltraites, je reviendrai à coup sûr ! »",
+        "Sur ces mots, la femme des neiges se changea en brume blanche et disparut silencieusement par la fenêtre dans la neige et le vent."
+      ],
+      "translationsEn": [
+        "At that moment, Oyuki's face turned cold as ice, and she stood up.",
+        "\"I am the woman from that night! Because you broke your promise, by right I ought to take your life.\"",
+        "Yet when she looked at the children sleeping peacefully right beside them, a gentle light returned to her eyes.",
+        "\"Out of pity for these children, I will spare your life. Please raise our children well. If you ever mistreat them, I will surely return.\"",
+        "Saying so, Yuki-onna turned into a white mist and quietly vanished out the window into the snow and wind."
+      ]
+    }
+  ]
+}

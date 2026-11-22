@@ -1,0 +1,196 @@
+{
+  "id": "kobutori-jisan",
+  "format": "book",
+  "titleJa": "こぶとり じいさん",
+  "titleFr": "Le Vieil Homme à la loupe (Kobutori Jīsan)",
+  "titleEn": "The Old Man Who Lost His Lump (Kobutori Jīsan)",
+  "coverImage": "images/kobutori-jisan_cover.jpg",
+  "descriptionFr": "Un célèbre conte folklorique japonais plein d'humour adapté au niveau JLPT N4. Un vieux monsieur joyeux affligé d'une loupe à la joue charme des démons par sa danse et obtient une surprise inattendue, contrairement à son voisin grincheux.",
+  "descriptionEn": "A famous humorous Japanese folktale adapted to JLPT N4 level. A cheerful old man with a lump on his cheek delights a band of oni demons with his dancing and earns a wonderful surprise, unlike his grumpy neighbor.",
+  "author": "Conte traditionnel (Édition N4)",
+  "authorEn": "Traditional Folklore (N4 Edition)",
+  "level": "N4",
+  "category": "Folklore",
+  "categoryEn": "Folklore",
+  "tags": [
+    "Livre",
+    "Folklore",
+    "Contes traditionnels",
+    "N4",
+    "Humour"
+  ],
+  "tagsEn": [
+    "Book",
+    "Folklore",
+    "Traditional Tales",
+    "N4",
+    "Humor"
+  ],
+  "chapters": [
+    {
+      "id": "chap-1",
+      "chapterNumber": 1,
+      "titleJa": "一：ふたりの おじいさんと コブ",
+      "titleFr": "Chapitre 1 : Les deux vieillards et leur bosse",
+      "titleEn": "Chapter 1: The Two Old Men and Their Lumps",
+      "summaryFr": "Dans un petit village vivent deux vieillards portant chacun une grosse loupe sur la joue : l'un toujours joyeux et doux, l'autre sévère et grincheux.",
+      "summaryEn": "In a small village live two elderly men who each have a big lump on their cheek: one always cheerful and kind, the other strict and grumpy.",
+      "imageUrl": "images/kobutori-jisan_chapter1.jpg",
+      "text": "むかし、山の ちかくの 小さな むらに、やさしい おじいさんが 住んで いました。\nこの おじいさんの 右の ほおには、とても 大きな コブが ありました。\nでも、おじいさんは いつも あかるくて、歌を 歌ったり おどったり する のが とても すきでした。\n\nしかし、となりの 家には、いつも おこって いる きびしい おじいさんが 住んで いました。\nとなりの おじいさんにも、左の ほおに 大きな コブが ありました。\n「ああ、この コブは ほんとうに いやだ。だれか とって くれないかな。」\nとなりの おじいさんは 毎日 こまって いました。",
+      "translationsFr": [
+        "Il y a bien longtemps, dans un petit village près de la montagne, vivait un gentil vieil homme.",
+        "Sur la joue droite de ce vieil homme se trouvait une très grosse bosse.",
+        "Mais ce grand-père était toujours rayonnant et adorait chanter et danser.",
+        "",
+        "Cependant, dans la maison voisine vivait un vieil homme sévère qui était toujours en colère.",
+        "Ce voisin portait lui aussi une grosse bosse sur la joue gauche.",
+        "« Ah, cette bosse est vraiment insupportable ! Quelqu'un ne pourrait-il pas me l'enlever ? »",
+        "Le vieux voisin s'en plaignait et s'en tourmentait chaque jour."
+      ],
+      "translationsEn": [
+        "Long ago, in a small village near the mountains, lived a gentle old man.",
+        "On this old man's right cheek, there was a very large lump.",
+        "Even so, the old man was always cheerful and loved singing songs and dancing.",
+        "",
+        "However, in the house next door lived a strict old man who was always angry.",
+        "The neighbor next door also had a large lump on his left cheek.",
+        "\"Ugh, I truly hate this lump. Won't someone take it away?\"",
+        "The grumpy neighbor fretted about it every single day."
+      ]
+    },
+    {
+      "id": "chap-2",
+      "chapterNumber": 2,
+      "titleJa": "二：くらい 山の中の 大きな 木",
+      "titleFr": "Chapitre 2 : Le grand arbre dans la montagne sombre",
+      "titleEn": "Chapter 2: The Great Tree in the Dark Mountain",
+      "summaryFr": "Surpris par un soudain orage de pluie en ramassant du bois dans la montagne, le gentil vieillard se réfugie dans le creux d'un vieux tronc.",
+      "summaryEn": "Caught in a sudden heavy downpour while gathering firewood in the mountain, the kind old man takes shelter inside a huge hollow tree.",
+      "imageUrl": "images/kobutori-jisan_chapter2.jpg",
+      "text": "ある 日、やさしい おじいさんは 山へ 木を ひろいに 出かけました。\nすると、夕方から きゅうに 空が くらくなって、つよい 雨が ふり始めました。\n「たいへんだ！どこか 雨が 入らない いい 木は ないかな。」\n\nおじいさんは 急いで 山の 中を さがしました。\nしばらくして、とても ふとくて 古い 大きな 木を 見つけました。\nその 木の 下には、人が 入れる くらいの 大きな へやの ような ものが ありました。\n「よかった。ここで 雨を 待とう。」\nおじいさんは その 中に 入って、しずかに ねて しまいました。",
+      "translationsFr": [
+        "Un jour, le gentil vieil homme partit à la montagne ramasser du bois.",
+        "Soudain, dès le soir tombant, le ciel devint tout sombre et une forte pluie se mit à tomber.",
+        "« Quelle affaire ! N'y aurait-il pas quelque part un bon arbre où la pluie n'entre pas ? »",
+        "",
+        "Le vieil homme chercha en toute hâte à travers la montagne.",
+        "Au bout d'un moment, il découvrit un très vieux et immense arbre bien épais.",
+        "À la base de cet arbre se trouvait un grand creux ressemblant à une pièce où quelqu'un pouvait entrer.",
+        "« Quelle chance ! Attendons la fin de la pluie ici. »",
+        "Le vieil homme entra à l'intérieur et finit par s'endormir tranquillement."
+      ],
+      "translationsEn": [
+        "One day, the kind old man went out to the mountain to gather wood.",
+        "Then, as evening fell, the sky suddenly darkened and a heavy rain began to fall.",
+        "\"Oh dear! Is there a good tree somewhere where the rain won't get in?\"",
+        "",
+        "The old man hurriedly searched through the mountain.",
+        "After a little while, he found a very thick, ancient giant tree.",
+        "At the bottom of the tree, there was a hollow like a large room big enough for a person to step inside.",
+        "\"Thank goodness. I'll wait out the rain right here.\"",
+        "The old man climbed inside and quietly fell fast asleep."
+      ]
+    },
+    {
+      "id": "chap-3",
+      "chapterNumber": 3,
+      "titleJa": "三：オニたちと たのしい おどり",
+      "titleFr": "Chapitre 3 : La joyeuse danse avec les démons",
+      "titleEn": "Chapter 3: The Joyful Dance with the Oni",
+      "summaryFr": "Réveillé tard dans la nuit par la fête de démons rouges et bleus autour d'un feu, le grand-père oublie sa peur et danse avec entrain.",
+      "summaryEn": "Woken late at night by red and blue oni feasting around a bonfire, the old man forgets his fear and dances merrily before them.",
+      "imageUrl": "images/kobutori-jisan_cover.jpg",
+      "text": "夜 おそく なると、外から とても にぎやかな 音楽と 歌が きこえて 来ました。\nおじいさんが おどろいて 外を 見ると、たくさんの 赤い オニと 青い オニが 火の まわりに あつまって いました。\nオニたちは おさけを 飲みながら、歌ったり おどったり して います。\n\nはじめは とても こわかったです。しかし、たのしそうな 音楽を 聞いて いる うちに、おじいさんは おどりたく なりました。\n「さあ、ぼくも おどろう！」\nおじいさんは 木の 中から 出て、オニたちの 前で じょうずに おどりました。\nオニたちは おどろいて、「すごい！この おじいさんは おどりが とても 上手だ！」と たいへん よろこびました。",
+      "translationsFr": [
+        "Tard dans la nuit, une musique très animée et des chants se firent entendre de l'extérieur.",
+        "Surpris, le vieil homme regarda dehors et vit de nombreux démons rouges et bleus rassemblés autour d'un feu.",
+        "Tout en buvant du saké, les démons chantaient et dansaient ensemble.",
+        "",
+        "Au début, il eut très peur. Pourtant, à force d'écouter cette musique si joyeuse, l'envie de danser le prit.",
+        "« Allons-y, moi aussi je vais danser ! »",
+        "Le vieil homme sortit de l'arbre et dansa avec brio devant les démons.",
+        "Émerveillés, les démons se réjouirent fort : « Incroyable ! Ce grand-père danse vraiment à merveille ! »"
+      ],
+      "translationsEn": [
+        "Late in the night, very lively music and singing drifted in from outside.",
+        "Startled, the old man peeked out and saw many red oni and blue oni gathered around a crackling fire.",
+        "Drinking sake, the oni were singing and dancing away.",
+        "",
+        "At first he was terribly frightened. However, as he listened to the cheerful music, the old man felt the urge to dance.",
+        "\"Here goes, I'll dance too!\"",
+        "Stepping out from inside the tree, the old man danced skillfully right before the oni.",
+        "Amazed, the oni cheered in delight, \"Incredible! This old man is such a wonderful dancer!\""
+      ]
+    },
+    {
+      "id": "chap-4",
+      "chapterNumber": 4,
+      "titleJa": "四：コブが なくなった 朝",
+      "titleFr": "Chapitre 4 : Le matin où la bosse a disparu",
+      "titleEn": "Chapter 4: The Morning the Lump Vanished",
+      "summaryFr": "Enchantés, les démons gardent sa grosse loupe en gage de son retour le lendemain soir. Le grand-père rentre heureux avec une joue toute lisse.",
+      "summaryEn": "Delighted, the oni take his lump for safekeeping so he will surely return the next night. He returns home joyful with a smooth cheek.",
+      "imageUrl": "images/kobutori-jisan_chapter4.jpg",
+      "text": "オニたちは おじいさんが とても すきに なりました。\n「おじいさん、あしたの 夜も また ここへ 来て ください。」\n「もちろんです。かならず 来ますよ。」\nすると、いちばん 大きな オニが 言いました。\n「かならず 来る ように、その 大切な ものを とって おきましょう。」\nそう 言って、オニは おじいさんの 右の ほおの コブを かるく とりました。\n\n朝に なって 家へ 帰ると、コブは もう どこにも ありません。\n「おじいさん、右の ほおが とても きれいに なりましたね！」とおばあさんも おどろきました。\nおじいさんは うれしくて、たのしく わらって ほおを さわりました。",
+      "translationsFr": [
+        "Les démons prirent ce vieil homme en grande affection.",
+        "« Grand-père, revenez encore ici demain soir, s'il vous plaît ! »",
+        "« Bien sûr ! Je reviendrai sans faute. »",
+        "Alors le plus grand des démons prit la parole :",
+        "« Pour être sûrs que vous reviendrez, gardons donc ce bien si précieux ! »",
+        "Ce disant, le démon détacha tout doucement la bosse de la joue droite du vieil homme.",
+        "",
+        "Au matin, lorsqu'il rentra chez lui, la bosse n'était plus nulle part.",
+        "« Oh, grand-père, votre joue droite est devenue toute lisse ! » s'émerveilla aussi sa femme.",
+        "Fou de joie, le vieil homme rit gaiement en se caressant la joue."
+      ],
+      "translationsEn": [
+        "The oni grew very fond of the old man.",
+        "\"Old man, please come back here tomorrow night as well!\"",
+        "\"Of course! I will certainly come.\"",
+        "At that, the biggest oni spoke up:",
+        "\"So that you are sure to return, let us hold onto that precious thing of yours.\"",
+        "Saying so, the oni gently plucked the lump right off the old man's right cheek.",
+        "",
+        "When morning came and he returned home, the lump was nowhere to be found.",
+        "\"My goodness, your right cheek has become completely smooth!\" exclaimed his wife in amazement.",
+        "Overjoyed, the old man laughed happily and touched his cheek."
+      ]
+    },
+    {
+      "id": "chap-5",
+      "chapterNumber": 5,
+      "titleJa": "五：となりの おじいさん",
+      "titleFr": "Chapitre 5 : Le vieux voisin",
+      "titleEn": "Chapter 5: The Neighbor Next Door",
+      "summaryFr": "Jaloux, le voisin grincheux tente sa chance la nuit suivante, mais sa danse maladroite irrite les démons qui lui collent la deuxième loupe sur l'autre joue.",
+      "summaryEn": "Envious, the grumpy neighbor tries his luck the next night, but his clumsy dancing annoys the oni, who stick the second lump onto his other cheek.",
+      "imageUrl": "images/kobutori-jisan_chapter5.jpg",
+      "text": "その 話を 聞いた となりの おじいさんは、つぎの 日 早く 山へ 行きました。\n「ぼくの 左の コブも オニに とって もらおう。」\n夜に なると、また オニたちが あつまって 来ました。\n「さあ、きょうも あの おじいさんの おどりを 見よう！」\n\nとなりの おじいさんは オニたちの 前へ 出ましたが、こわくて うまく おどる ことが できません。\n足も 手も うまく うごきませんから、おどりは とても 下手でした。\nオニたちは おこって 言いました。「きのうの おじいさんと ちがう！この おじいさんは もう いらない！」\nそう 言って、オニは きのう とった コブを となりの おじいさんの 右の ほおに つけました。\nとなりの おじいさんは、右にも 左にも、二つの 大きな コブを つけて 家へ 帰りました。",
+      "translationsFr": [
+        "Ayant entendu cette histoire, le vieux voisin monta dès le lendemain matin de bonne heure à la montagne.",
+        "« Je vais moi aussi demander aux démons de m'enlever ma bosse de gauche ! »",
+        "La nuit tombée, les démons se rassemblèrent de nouveau.",
+        "« Allez, admirons encore aujourd'hui la danse de ce grand-père ! »",
+        "",
+        "Le vieux voisin s'avança devant les démons, mais la peur l'empêchait de bien danser.",
+        "Comme ni ses pieds ni ses mains ne bougeaient correctement, sa danse était très maladroite.",
+        "Furieux, les démons s'écrièrent : « Ce n'est pas le grand-père d'hier ! Nous ne voulons plus de celui-ci ! »",
+        "Sur ces mots, un démon colla sur la joue droite du voisin la bosse prise la veille.",
+        "Et le vieux voisin rentra chez lui avec deux grosses bosses, une à droite et une à gauche."
+      ],
+      "translationsEn": [
+        "Hearing that story, the neighbor next door went up the mountain early the very next day.",
+        "\"I'll have the oni take away my left lump too!\"",
+        "Once night fell, the oni gathered together once again.",
+        "\"Come on, let's watch that old man's dance today too!\"",
+        "",
+        "The neighbor stepped out in front of the oni, yet he was too scared to dance well.",
+        "Because neither his feet nor his hands moved smoothly, his dancing was terribly clumsy.",
+        "Angry, the oni shouted, \"He's different from yesterday's old man! We don't want this old man anymore!\"",
+        "Saying so, the oni stuck yesterday's lump right onto the neighbor's right cheek.",
+        "And so the grumpy neighbor walked home with two big lumps, one on his right cheek and one on his left."
+      ]
+    }
+  ]
+}

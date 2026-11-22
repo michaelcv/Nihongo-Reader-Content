@@ -1,0 +1,455 @@
+{
+  "id": "asakusa-mystery",
+  "format": "gamebook",
+  "titleJa": "あさくさ の ふしぎ な 話",
+  "titleFr": "Un Mystère à Asakusa",
+  "titleEn": "A Mystery in Asakusa",
+  "coverImage": "images/asakusa_lantern_gate_1795335908533.jpg",
+  "synopsisFr": "Une enquête nocturne en niveau JLPT N4 au cœur du vieux Tokyo ! À la tombée du jour devant la grande lanterne rouge d'Asakusa, vous trouvez une petite clé en bois accompagnée d'un billet mystérieux. Saurez-vous parcourir les ruelles, les maisons de thé et les bords de la rivière Sumida pour percer le secret avant les huit coups de la cloche ?",
+  "synopsisEn": "A JLPT N4 twilight mystery in historic Tokyo! At dusk beneath the giant red lantern gate of Asakusa, you discover a tiny wooden key wrapped in a mysterious note. Explore lantern-lit market alleys, cozy teahouses, and the Sumida River to uncover the secret before the 8 PM temple bell rings!",
+  "author": "Nihongo Reader Aventure",
+  "authorEn": "Nihongo Reader Adventure",
+  "level": "N4",
+  "category": "Livre-Jeu Interactif",
+  "categoryEn": "Interactive Gamebook",
+  "tags": [
+    "Livre-Jeu",
+    "Mystère",
+    "Tokyo",
+    "Asakusa",
+    "N4"
+  ],
+  "tagsEn": [
+    "Gamebook",
+    "Mystery",
+    "Tokyo",
+    "Asakusa",
+    "N4"
+  ],
+  "startChapterId": "node_gate",
+  "chapters": {
+    "node_gate": {
+      "id": "node_gate",
+      "chapterNumber": 1,
+      "titleJa": "一：赤い 門 と 小さな 木 の かぎ",
+      "titleFr": "Chapitre 1 : La porte rouge et la petite clé en bois",
+      "titleEn": "Chapter 1: The Red Gate and the Wooden Key",
+      "imageUrl": "images/asakusa_lantern_gate_1795335908533.jpg",
+      "text": "夕方 の 六時 ごろ、あなた は あさくさ の 大きい 赤い 門 の 前 を 歩いて います。\nあたり は もう 少し 暗く なって、あたたかい 赤い あかり が きれい に 光って います。\n\nその とき、足もと に 小さな 木 の かぎ と 白い かみ が おちて いる の を 見つけました。\nかみ に は「夜 八時 まで に、すみだ川 の ちかく の 古い 茶屋 へ 来て ください。」と かいて あります。",
+      "choices": [
+        {
+          "id": "c_nakamise_street",
+          "textJa": "門 の 中 に ある にぎやか な おみせ の とおり を 歩いて みる",
+          "textFr": "Emprunter l'allée marchande animée juste derrière la porte",
+          "textEn": "Walk through the lively market street right past the gate",
+          "targetChapterId": "node_shopping_street",
+          "hintFr": "Demander aux commerçants s'ils connaissent ce salon de thé",
+          "hintEn": "Ask shopkeepers if they recognize the teahouse"
+        },
+        {
+          "id": "c_river_path",
+          "textJa": "すみだ川 の ほう へ まっすぐ 行って、茶屋 を さがして みる",
+          "textFr": "Vous diriger directement vers la rivière Sumida",
+          "textEn": "Head straight toward the Sumida River path",
+          "targetChapterId": "node_river_path",
+          "hintFr": "Suivre l'indice écrit sur le papier près du fleuve",
+          "hintEn": "Follow the river clue written on the paper"
+        }
+      ],
+      "translationsFr": [
+        "Vers six heures du soir, vous marchez devant la grande porte rouge d'Asakusa.",
+        "Les alentours s'assombrissent peu à peu, et la chaude lueur des lanternes rouges brille joliment.",
+        "",
+        "À ce moment, vous repérez par terre une petite clé en bois et un bout de papier blanc.",
+        "Sur le papier est écrit : « Venez avant huit heures du soir au vieux salon de thé près de la rivière Sumida. »"
+      ],
+      "translationsEn": [
+        "Around six in the evening, you walk in front of the great red gate of Asakusa.",
+        "Twilight is gathering, and the warm red lanterns glow brightly.",
+        "",
+        "Just then, you spot a small wooden key and a white note lying near your feet.",
+        "The note reads: \"Please come before 8:00 PM to the old teahouse near the Sumida River.\""
+      ]
+    },
+    "node_shopping_street": {
+      "id": "node_shopping_street",
+      "chapterNumber": 2,
+      "titleJa": "二：あかり の ある おみせ の とおり",
+      "titleFr": "Chapitre 2 : La rue commerçante aux lanternes",
+      "titleEn": "Chapter 2: The Lantern Market Street",
+      "imageUrl": "images/asakusa_shopping_street_1795335910399.jpg",
+      "text": "門 を くぐる と、左右 に おかし や おみやげ の 小さな おみせ が たくさん ならんで います。\n上 に は 赤 と 白 の あかり が ついて いて、とても きれい です。\n\n少し さき を 見る と、月 の え が かいて ある 静か な 茶屋 が 見えます。\nまた、ちかく の おみせ の 前 で は、しんぱいそう な おばあさん が 立って います。",
+      "choices": [
+        {
+          "id": "c_ask_old_woman",
+          "textJa": "おばあさん に 小さな 木 の かぎ を 見せて、話を きく",
+          "textFr": "Montrer la clé en bois à la grand-mère inquiète et lui parler",
+          "textEn": "Show the wooden key to the worried grandmother and ask her",
+          "targetChapterId": "node_woman_clue",
+          "hintFr": "Elle semble chercher quelque chose d'important",
+          "hintEn": "She looks like she is searching for something important"
+        },
+        {
+          "id": "c_enter_moon_shop",
+          "textJa": "月 の え の ある 静か な 茶屋 へ 入って みる",
+          "textFr": "Entrer directement dans le calme salon de thé à l'enseigne de lune",
+          "textEn": "Step directly into the quiet teahouse with the moon sign",
+          "targetChapterId": "node_teahouse_inside",
+          "hintFr": "Vérifier s'il s'agit du salon de thé du message",
+          "hintEn": "Check if this is the teahouse from the note"
+        }
+      ],
+      "translationsFr": [
+        "En franchissant la porte, de nombreuses petites boutiques de confiseries et de souvenirs bordent les deux côtés.",
+        "Au-dessus brillent des lanternes rouges et blanches, offrant un spectacle magnifique.",
+        "",
+        "Un peu plus loin, vous apercevez un salon de thé tranquille orné d'un dessin de lune.",
+        "De plus, devant une boutique voisine se tient une grand-mère à l'air soucieux."
+      ],
+      "translationsEn": [
+        "Passing through the gate, many small shops selling sweets and souvenirs line both sides of the street.",
+        "Red and white lanterns glow overhead, creating a lovely evening scene.",
+        "",
+        "A little further ahead, you spot a quiet teahouse with a crescent moon painted on its sign.",
+        "Meanwhile, a worried-looking grandmother stands right outside a nearby shop."
+      ]
+    },
+    "node_woman_clue": {
+      "id": "node_woman_clue",
+      "chapterNumber": 3,
+      "titleJa": "三：おばあさん の 古い 思い出",
+      "titleFr": "Chapitre 3 : Le vieux souvenir de la grand-mère",
+      "titleEn": "Chapter 3: The Grandmother's Old Memory",
+      "imageUrl": "images/asakusa_shopping_street_1795335910399.jpg",
+      "text": "あなた が かぎ と かみ を 見せる と、おばあさん は びっくり して 言いました。\n「まあ！ これ は お兄さん が 作った 大切 な はこ の かぎ です！」\n\nおばあさん の 話 に よる と、お兄さん は さっき おてら の にわ へ 歩き に 行った か、月 の 茶屋 で お茶 を 飲んで 待って いる そうです。\n時計 を 見る と、もう 七時 三十分 です。あと 三十分 しか ありません。",
+      "choices": [
+        {
+          "id": "c_go_teahouse_from_woman",
+          "textJa": "おばあさん と いっしょに 月 の 茶屋 へ いそぐ",
+          "textFr": "Se dépêcher d'aller au salon de thé de la Lune avec la grand-mère",
+          "textEn": "Hurry to the Moon Teahouse together with the grandmother",
+          "targetChapterId": "node_teahouse_inside",
+          "hintFr": "Le frère attend peut-être déjà autour d'un thé",
+          "hintEn": "Her brother might already be waiting over tea"
+        },
+        {
+          "id": "c_go_temple_garden",
+          "textJa": "先 に おてら の にわ の ほう を 見 に 行って みる",
+          "textFr": "Aller d'abord jeter un coup d'œil dans le jardin du temple",
+          "textEn": "Go check the temple garden first",
+          "targetChapterId": "node_garden_search",
+          "hintFr": "Explorer le jardin paisible avant la tombée de la nuit",
+          "hintEn": "Search the tranquil garden before 8 PM"
+        }
+      ],
+      "translationsFr": [
+        "Lorsque vous lui montrez la clé et le papier, la grand-mère s'exclame avec surprise :",
+        "« Oh ! C'est la clé du précieux coffret fabriqué par mon grand frère ! »",
+        "",
+        "D'après elle, son frère est soit parti marcher dans le jardin du temple, soit en train d'attendre au salon de thé de la Lune.",
+        "En regardant votre montre, il est déjà 19 h 30. Il ne reste plus que trente minutes."
+      ],
+      "translationsEn": [
+        "When you show her the key and paper, the grandmother gasps in surprise:",
+        "\"Oh my! That is the key to the treasured keepsake box my older brother made!\"",
+        "",
+        "According to her, her brother either went for a walk in the temple garden or is waiting inside the Moon Teahouse.",
+        "Checking your watch, it is already 7:30 PM. Only thirty minutes remain."
+      ]
+    },
+    "node_river_path": {
+      "id": "node_river_path",
+      "chapterNumber": 2,
+      "titleJa": "二：すみだ川 と 月 の 夜",
+      "titleFr": "Chapitre 2 : La rivière Sumida au clair de lune",
+      "titleEn": "Chapter 2: Sumida River Under the Moon",
+      "imageUrl": "images/asakusa_river_night_1795335911203.jpg",
+      "text": "すみだ川 の そば に 来る と、すずしい 風 が ふいて いて、とても 静か です。\n夜 の 空 に は ほそい 月 が 出て、石 の あかり が 水 の 上 に きれい に うつって います。\n\n川 の そば で、ひとりの わかもの が え を かいて います。\nまた、右 の ほう に は あたたかい 光 が もれる 小さな 茶屋 へ の 道 も あります。",
+      "choices": [
+        {
+          "id": "c_ask_painter",
+          "textJa": "え を かいて いる 人 に、かみ の こと を きいて みる",
+          "textFr": "Interroger le jeune dessinateur au sujet du billet",
+          "textEn": "Ask the young sketch artist about the note",
+          "targetChapterId": "node_painter_hint",
+          "hintFr": "Il connaît sûrement les vieux cafés du quartier",
+          "hintEn": "He likely knows the old neighborhood teahouses"
+        },
+        {
+          "id": "c_follow_lane_teahouse",
+          "textJa": "あたたかい 光 の ある 茶屋 へ の 道 を 歩いて みる",
+          "textFr": "Suivre le sentier éclairé menant au petit salon de thé",
+          "textEn": "Follow the lantern-lit lane toward the cozy teahouse",
+          "targetChapterId": "node_teahouse_inside",
+          "hintFr": "Aller directement voir qui s'y trouve",
+          "hintEn": "Go directly to see who is inside"
+        }
+      ],
+      "translationsFr": [
+        "En arrivant près de la rivière Sumida, une brise fraîche souffle dans un calme apaisant.",
+        "Dans le ciel nocturne brille un fin croissant de lune, et les lanternes de pierre se reflètent joliment sur l'eau.",
+        "",
+        "Au bord du fleuve, un jeune homme est en train de dessiner.",
+        "Sur la droite, une petite ruelle baignée d'une lumière chaleureuse mène aussi vers un salon de thé."
+      ],
+      "translationsEn": [
+        "Arriving beside the Sumida River, a cool breeze blows and everything feels peaceful.",
+        "A thin crescent moon shines in the night sky while stone lanterns reflect softly upon the water.",
+        "",
+        "Along the riverbank, a young artist sits sketching the scenery.",
+        "To the right, a narrow lane bathed in warm glow also leads toward a small teahouse."
+      ]
+    },
+    "node_painter_hint": {
+      "id": "node_painter_hint",
+      "chapterNumber": 3,
+      "titleJa": "三：えかき さん の しらせ",
+      "titleFr": "Chapitre 3 : L'indice du dessinateur",
+      "titleEn": "Chapter 3: The Artist's Clue",
+      "imageUrl": "images/asakusa_river_night_1795335911203.jpg",
+      "text": "え を かいて いた 人 は、かみ の はし に ある 小さな 月 の しるし を 見つけました。\n「あ、これ は あさくさ で 一ばん 古い『月 の 茶屋』 の しるし ですよ！ この 道 を まっすぐ 行く と すぐ です。」\n\nそう 教えて くれた あと、かれ は 川 の ほう を 見て「今夜 は 月 も とても きれい ですね。」と 言いました。",
+      "choices": [
+        {
+          "id": "c_hurry_teahouse",
+          "textJa": "おれい を 言って、すぐ 月 の 茶屋 へ 行く",
+          "textFr": "Le remercier et partir aussitôt vers le salon de thé de la Lune",
+          "textEn": "Thank him and head straight to the Moon Teahouse",
+          "targetChapterId": "node_teahouse_inside",
+          "hintFr": "Il reste encore un peu de temps avant 20 h",
+          "hintEn": "There is still enough time before 8:00 PM"
+        },
+        {
+          "id": "c_rest_by_river",
+          "textJa": "少し つかれた ので、川 の そば に すわって 月 を 見る",
+          "textFr": "Vous asseoir au bord de l'eau pour admirer la lune un moment",
+          "textEn": "Sit by the river for a moment to admire the moonlight",
+          "targetChapterId": "node_neutral_river_ending",
+          "hintFr": "Profiter simplement du calme de la soirée",
+          "hintEn": "Simply enjoy the peaceful evening atmosphere"
+        }
+      ],
+      "translationsFr": [
+        "Le dessinateur remarque une petite marque en forme de lune dans le coin du papier.",
+        "« Ah, c'est l'emblème du plus ancien salon de thé d'Asakusa, le Tsuki no Chaya ! C'est tout droit par ce chemin. »",
+        "",
+        "Après vous avoir renseigné, il regarde vers le fleuve et ajoute : « Ce soir, la lune est vraiment superbe aussi. »"
+      ],
+      "translationsEn": [
+        "The artist spots a tiny crescent-moon seal printed in the corner of the paper.",
+        "\"Oh, that's the mark of Asakusa's oldest teahouse, Tsuki no Chaya! Just follow this path straight ahead.\"",
+        "",
+        "After telling you, he glances back toward the river and smiles: \"The moon looks truly lovely tonight, too.\""
+      ]
+    },
+    "node_teahouse_inside": {
+      "id": "node_teahouse_inside",
+      "chapterNumber": 4,
+      "titleJa": "四：茶屋 の つくえ と 古い はこ",
+      "titleFr": "Chapitre 4 : La table du salon de thé et le coffret",
+      "titleEn": "Chapter 4: The Teahouse Table and Keepsake Box",
+      "imageUrl": "images/asakusa_teahouse_clue_1795335910257.jpg",
+      "text": "古い 木 の ドア を 開ける と、中 は お茶 の いい におい が して、とても あたたかい です。\nつくえ の 上 に は、きれい な 木 の はこ と 白い てがみ、そして あつい お茶 が おいて あります。\n\nおく から やさしそう な おじいさん が 出て きました。\n「すみません、小さい 木 の かぎ を 見ませんでしたか？ 妹 が おてら の にわ に いる かも しれない の です。」",
+      "choices": [
+        {
+          "id": "c_give_key_open_box",
+          "textJa": "「はい、これ です！」と かぎ を わたして、いっしょに はこ を 開ける",
+          "textFr": "« La voici ! » Lui remettre la clé et ouvrir le coffret ensemble",
+          "textEn": "\"Here it is!\" Hand over the key and open the box together",
+          "targetChapterId": "node_victory_teahouse_ending",
+          "hintFr": "Découvrir ce que renferme le mystérieux coffret",
+          "hintEn": "Discover what lies inside the keepsake box"
+        },
+        {
+          "id": "c_take_tea_check_garden",
+          "textJa": "「おてら の にわ で 妹さん も よんで きましょうか？」と きく",
+          "textFr": "Proposer d'aller chercher sa sœur au jardin du temple avec la clé",
+          "textEn": "Offer to go find his sister in the temple garden first",
+          "targetChapterId": "node_garden_search",
+          "hintFr": "Réunir le frère et la sœur sous la lune",
+          "hintEn": "Reunite brother and sister under the moonlight"
+        }
+      ],
+      "translationsFr": [
+        "En ouvrant la vieille porte en bois, une bonne odeur de thé emplit la pièce chaleureuse.",
+        "Sur la table basse sont posés un joli coffret en bois sculpté, une lettre blanche et une tasse de thé brûlant.",
+        "",
+        "Un vieil homme à l'air bienveillant sort alors de l'arrière-boutique :",
+        "« Excusez-moi, n'auriez-vous pas vu une petite clé en bois ? Ma sœur est peut-être partie m'attendre dans le jardin du temple. »"
+      ],
+      "translationsEn": [
+        "Opening the old wooden door, the warm room greets you with the comforting scent of roasted tea.",
+        "On the low wooden table sit a finely carved wooden box, a white envelope, and a steaming cup of tea.",
+        "",
+        "A gentle elderly tea master steps out from the back room:",
+        "\"Excuse me, have you happened to see a small wooden key? My younger sister might be waiting in the temple garden.\""
+      ]
+    },
+    "node_garden_search": {
+      "id": "node_garden_search",
+      "chapterNumber": 4,
+      "titleJa": "四：月 の 光 と おてら の にわ",
+      "titleFr": "Chapitre 4 : Le jardin du temple au clair de lune",
+      "titleEn": "Chapter 4: The Moonlit Temple Garden",
+      "imageUrl": "images/asakusa_temple_garden_1795335911434.jpg",
+      "text": "おてら の にわ へ 来る と、さくら の 花 と 金色 の あかり が 池 に うつって、ゆめ の ようです。\n石 の あかり の そば で、きれい な 着物 を 着た おばあさん が 時計 を 見ながら 待って います。\n\n時計 は もうすぐ 夜 八時 に なります。あわてて 声 を かけないと、おてら の 門 が しまって しまいます！",
+      "choices": [
+        {
+          "id": "c_return_key_garden",
+          "textJa": "すぐ に 走って 行って、「この かぎ は あなた の ですか？」と きく",
+          "textFr": "Courir aussitôt vers elle et lui montrer la clé en bois",
+          "textEn": "Hurry over right away and show her the wooden key",
+          "targetChapterId": "node_victory_garden_ending",
+          "hintFr": "Agir vite avant les huit coups de la cloche",
+          "hintEn": "Act before the 8:00 PM bell tolls"
+        },
+        {
+          "id": "c_hesitate_too_long",
+          "textJa": "人 が おおい の で、少し 池 の そば で ようす を 見る",
+          "textFr": "Hésiter et observer un instant depuis le bord de l'étang",
+          "textEn": "Hesitate and watch quietly from beside the pond",
+          "targetChapterId": "node_missed_bell_ending",
+          "hintFr": "Attention : il est presque 20 h !",
+          "hintEn": "Careful: it is almost 8:00 PM!"
+        }
+      ],
+      "translationsFr": [
+        "En arrivant dans le jardin du temple, les cerisiers en fleurs et les lanternes dorées se reflètent dans l'étang comme dans un rêve.",
+        "Près d'une lanterne de pierre, une grand-mère vêtue d'un beau kimono regarde sa montre en attendant.",
+        "",
+        "Il va bientôt être huit heures du soir. Si vous ne lui parlez pas vite, les portes du temple vont fermer !"
+      ],
+      "translationsEn": [
+        "Arriving at the temple garden, cherry blossoms and golden lanterns reflect on the pond like a scene from a dream.",
+        "Beside a stone lantern, a grandmother in a graceful kimono glances at her watch while waiting.",
+        "",
+        "It is nearly 8:00 PM. If you don't speak up soon, the temple gates will close for the night!"
+      ]
+    },
+    "node_victory_teahouse_ending": {
+      "id": "node_victory_teahouse_ending",
+      "chapterNumber": 5,
+      "titleJa": "おわり：はこ の 中 の たいせつ な 思い出",
+      "titleFr": "Épilogue Parfait : Le trésor du vieux salon de thé",
+      "titleEn": "Perfect Epilogue: The Keepsake Inside the Box",
+      "imageUrl": "images/asakusa_teahouse_clue_1795335910257.jpg",
+      "isEnding": true,
+      "endingType": "victory",
+      "endingBadge": "Fin Parfaite · Détective d'Asakusa (あさくさ の 名たんてい)",
+      "endingBadgeFr": "Fin Parfaite · Détective d'Asakusa (あさくさ の 名たんてい)",
+      "endingBadgeEn": "Perfect Ending · Detective of Asakusa (あさくさ の 名たんてい)",
+      "endingSummaryFr": "Félicitations ! Vous avez rendu la clé à temps au salon de thé : le vieux coffret contenait des photos d'enfance d'Asakusa et deux rubans de fête.",
+      "endingSummaryEn": "Congratulations! You returned the key in time at the teahouse—the carved box held childhood photos of Asakusa and two festival ribbons.",
+      "text": "おじいさん が かぎ を まわす と、木 の はこ は「カチッ」と 静か な 音 を たてて 開きました。\n中 に は、五十年 前 の あさくさ の 古い しゃしん と、あかい ひも が 二本 入って いました。\n\n「これ で 妹 と むかし の 思い出 を 話せます！ ほんとう に ありがとう。」\nちょうど 妹さん も 店 に 帰って きて、ふたり は あなた に あたたかい お茶 と おかし を ごちそう して くれました。\nあさくさ の 夜 は、とても 心 が あたたかく なりました。",
+      "choices": [],
+      "translationsFr": [
+        "Lorsque le vieil homme tourne la clé, le coffret en bois s'ouvre dans un doux déclic.",
+        "À l'intérieur reposaient d'anciennes photographies d'Asakusa d'il y a cinquante ans et deux rubans rouges.",
+        "",
+        "« Grâce à vous, ma sœur et moi allons pouvoir nous remémorer nos souvenirs d'enfance ! Merci infiniment. »",
+        "Sa sœur revient justement dans la boutique, et tous deux vous offrent du thé chaud et des pâtisseries.",
+        "Cette soirée à Asakusa vous laisse le cœur rempli de chaleur."
+      ],
+      "translationsEn": [
+        "As the elderly man turns the key, the wooden box opens with a soft click.",
+        "Inside lie old photographs of Asakusa from fifty years ago alongside two red festival ribbons.",
+        "",
+        "\"Now my sister and I can share our childhood memories again! Thank you from the bottom of my heart.\"",
+        "Just then his sister returns to the shop, and together they treat you to warm tea and traditional sweets.",
+        "Your night in Asakusa leaves your heart wonderfully warm."
+      ]
+    },
+    "node_victory_garden_ending": {
+      "id": "node_victory_garden_ending",
+      "chapterNumber": 5,
+      "titleJa": "おわり：さくら の 下 の うれしい 出会い",
+      "titleFr": "Épilogue Heureux : Retrouvailles sous les cerisiers",
+      "titleEn": "Happy Epilogue: Reunion Under the Blossoms",
+      "imageUrl": "images/asakusa_temple_garden_1795335911434.jpg",
+      "isEnding": true,
+      "endingType": "victory",
+      "endingBadge": "Bonne Fin · Cœur Bienveillant (やさしい 旅人)",
+      "endingBadgeFr": "Bonne Fin · Cœur Bienveillant (やさしい 旅人)",
+      "endingBadgeEn": "Good Ending · Kindhearted Traveler (やさしい 旅人)",
+      "endingSummaryFr": "Juste avant 20 heures, vous retrouvez la propriétaire dans le jardin du temple et réunissez le frère et la sœur sous la lune.",
+      "endingSummaryEn": "Just before 8:00 PM, you find the owner in the moonlit temple garden and reunite brother and sister.",
+      "text": "あなた が かぎ を わたす と、おばあさん の かお が ぱっと あかるく なりました。\n「よかった！ さっき 門 の 前 で おとして、とても しんぱい して いた の です。」\n\nふたり で 茶屋 へ もどる と、お兄さん も よろこんで まって いました。\n夜 の さくら と 金色 の あかり の 下 で、あさくさ の ふしぎ な 一日 は すてき な 思い出 に なりました。",
+      "choices": [],
+      "translationsFr": [
+        "Lorsque vous lui tendez la clé, le visage de la grand-mère s'illumine aussitôt.",
+        "« Quel soulagement ! Je l'avais perdue tout à l'heure devant la porte et j'étais très inquiète. »",
+        "",
+        "En retournant ensemble au salon de thé, son frère vous attendait avec joie.",
+        "Sous les cerisiers nocturnes et les lanternes dorées, cette soirée mystérieuse à Asakusa devient un merveilleux souvenir."
+      ],
+      "translationsEn": [
+        "As you hand her the wooden key, the grandmother's face brightens immediately.",
+        "\"Thank goodness! I dropped it earlier near the gate and was so worried.\"",
+        "",
+        "Walking back together to the teahouse, her brother greets you both with a joyful smile.",
+        "Beneath the night sakura and golden lanterns, this mysterious evening in Asakusa turns into an unforgettable memory."
+      ]
+    },
+    "node_neutral_river_ending": {
+      "id": "node_neutral_river_ending",
+      "chapterNumber": 5,
+      "titleJa": "おわり：静か な 川 と 月 の 夜",
+      "titleFr": "Épilogue Calme : Soirée paisible au bord de l'eau",
+      "titleEn": "Quiet Epilogue: A Peaceful Night by the River",
+      "imageUrl": "images/asakusa_river_night_1795335911203.jpg",
+      "isEnding": true,
+      "endingType": "neutral",
+      "endingBadge": "Fin Neutre · Promenade Nocturne (静か な さんぽ)",
+      "endingBadgeFr": "Fin Neutre · Promenade Nocturne (静か な さんぽ)",
+      "endingBadgeEn": "Neutral Ending · Moonlit Stroll (静か な さんぽ)",
+      "endingSummaryFr": "Vous avez choisi de savourer le calme de la rivière Sumida, puis avez confié la clé au poste de police près de la grande porte.",
+      "endingSummaryEn": "You chose to savor the calm of the Sumida River, then safely left the key at the neighborhood police box near the gate.",
+      "text": "川 の 風 を 聞き ながら、あなた は すこし 休み ました。\n遠く から「ゴーン」と 夜 八時 の おてら の 音 が 聞こえて きます。\n\n帰り道 に、大きい 門 の そば の こうばん へ 木 の かぎ と かみ を あずけて おきました。\nきっと もちぬし に とどく でしょう。月 の 光 の 下、静か な 夜 の さんぽ は とても 気持ち よかったです。",
+      "choices": [],
+      "translationsFr": [
+        "En écoutant la brise glisser sur la rivière, vous prenez un moment pour vous reposer.",
+        "Au loin retentit le son grave de la cloche du temple sonnant huit heures du soir.",
+        "",
+        "Sur le chemin du retour, vous déposez la clé en bois et le papier au poste de police près de la grande porte.",
+        "Son propriétaire finira sûrement par la retrouver. Sous le clair de lune, cette promenade nocturne était fort apaisante."
+      ],
+      "translationsEn": [
+        "Listening to the gentle breeze over the water, you take some time to rest.",
+        "From the distance, the deep tone of the 8:00 PM temple bell echoes across the night.",
+        "",
+        "On your way back, you safely entrust the wooden key and paper note to the police box beside the great gate.",
+        "Surely it will reach its owner. Beneath the moonlight, the quiet evening stroll felt deeply soothing."
+      ]
+    },
+    "node_missed_bell_ending": {
+      "id": "node_missed_bell_ending",
+      "chapterNumber": 5,
+      "titleJa": "おわり：八時 の おてら と あした の やくそく",
+      "titleFr": "Épilogue Imprévu : Les huit coups de la cloche",
+      "titleEn": "Unexpected Epilogue: The 8 PM Bell",
+      "imageUrl": "images/asakusa_lantern_gate_1795335908533.jpg",
+      "isEnding": true,
+      "endingType": "defeat",
+      "endingBadge": "Fin Déroutante · Trop Tard ce Soir (八時 の 門)",
+      "endingBadgeFr": "Fin Déroutante · Trop Tard ce Soir (八時 の 門)",
+      "endingBadgeEn": "Unexpected Ending · Gates Closed (八時 の 門)",
+      "endingSummaryFr": "Vous avez hésité quelques minutes de trop : à 20 heures précises, les portes du temple se ferment et l'énigme est remise à demain !",
+      "endingSummaryEn": "You hesitated just a moment too long: right at 8:00 PM the temple gates close, leaving the mystery for tomorrow morning!",
+      "text": "「ゴーン、ゴーン…」と、おてら の おおきな 音 が 夜 の 空 に ひびきました。\nちょうど 八時 に なり、おてら の 門 が ゆっくり と しまって 行きます。\n\nさっき の おばあさん も もう いなく なって いて、おみせ の とおり も しずか に なりました。\n手 の 中 の 小さな 木 の かぎ を 見ながら、あなた は あした の 朝 また ここ へ 来る こと に しました。",
+      "choices": [],
+      "translationsFr": [
+        "« Bong, bong... » Le son puissant de la cloche du temple résonne dans le ciel nocturne.",
+        "Il est huit heures précises, et les portes du temple se referment lentement.",
+        "",
+        "La grand-mère de tout à l'heure est déjà partie, et la rue marchande est devenue toute silencieuse.",
+        "En regardant la petite clé en bois dans votre main, vous décidez de revenir ici dès demain matin."
+      ],
+      "translationsEn": [
+        "\"Bong, bong...\" The deep chime of the temple bell echoes into the night sky.",
+        "It has struck 8:00 PM sharp, and the wooden temple gates slowly swing shut.",
+        "",
+        "The grandmother has already left, and the lively shopping street has grown quiet for the night.",
+        "Looking down at the small wooden key in your palm, you decide to come back first thing tomorrow morning."
+      ]
+    }
+  }
+}

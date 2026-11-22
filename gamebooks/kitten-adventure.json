@@ -1,0 +1,650 @@
+{
+  "id": "kitten-adventure",
+  "format": "gamebook",
+  "titleJa": "白いねこと小さなさんぽ",
+  "titleFr": "Le Chaton Blanc et la Petite Aventure",
+  "titleEn": "The Little White Kitten's Big Adventure",
+  "coverImage": "images/white_kitten_adventure_1793745010079.jpg",
+  "synopsisFr": "Une aventure interactive spécialement conçue pour les débutants (JLPT N5) avec un vocabulaire accessible et uniquement des kanji de base ! En sortant d'une petite gare le matin, vous faites la rencontre d'un chaton blanc avec un joli foulard rouge. Vos choix vous mèneront au parc, dans les boutiques animées ou sur la colline pour retrouver sa famille.",
+  "synopsisEn": "An interactive adventure specially crafted for beginners (JLPT N5) with simple vocabulary and fundamental kanji! Stepping out of a quaint train station, you encounter a lost white kitten with a red handkerchief collar. Your choices will take you through the town to help her find her way home.",
+  "author": "Nihongo Reader Débutant",
+  "authorEn": "Nihongo Reader Beginner",
+  "level": "N5",
+  "category": "Livre-Jeu Débutant (N5)",
+  "categoryEn": "Beginner Gamebook (N5)",
+  "tags": [
+    "Livre-Jeu",
+    "Débutant",
+    "N5",
+    "Aventure",
+    "Animaux"
+  ],
+  "tagsEn": [
+    "Gamebook",
+    "Beginner",
+    "N5",
+    "Adventure",
+    "Animals"
+  ],
+  "startChapterId": "node_station",
+  "chapters": {
+    "node_station": {
+      "id": "node_station",
+      "chapterNumber": 1,
+      "titleJa": "一：えきと 小さな ねこ",
+      "titleFr": "Chapitre 1 : La gare et le petit chat",
+      "titleEn": "Chapter 1: The Station and the Little Cat",
+      "imageUrl": "images/white_kitten_adventure_1793745010079.jpg",
+      "text": "今日は とても いい 天気です。\n九時に、あなたは 小さな えきに つきました。\nそらは あおく、あたたかい かぜが ふいています。\n\n「ニャー、ニャー」\nあしの そばを 見ると、小さな 白い ねこが います。\nねこには、あかい ハンカチが あります。\nねこは ごはんが ほしいです。あなたを 見て います。\nあなたは どうしますか？",
+      "choices": [
+        {
+          "id": "c_water",
+          "textJa": "かばんから 水を 出して、ねこに あげる",
+          "textFr": "Sortir de l'eau de son sac pour la donner au chat",
+          "textEn": "Take water from your bag and give the thirsty cat a drink",
+          "targetChapterId": "node_park_bench",
+          "hint": "Prendre soin du chaton et regarder son foulard de plus près",
+          "hintFr": "Prendre soin du chaton et regarder son foulard de plus près",
+          "hintEn": "Care for the kitten and check its handkerchief more closely"
+        },
+        {
+          "id": "c_street",
+          "textJa": "ねこと いっしょに、にぎやかな みせへ 行く",
+          "textFr": "Aller avec le chat vers les boutiques animées",
+          "textEn": "Go together with the cat toward the lively shops",
+          "targetChapterId": "node_shopping_street",
+          "hint": "Explorer les boutiques et demander aux commerçants",
+          "hintFr": "Explorer les boutiques et demander aux commerçants",
+          "hintEn": "Explore the local shops and ask friendly shopkeepers"
+        },
+        {
+          "id": "c_koban",
+          "textJa": "えきの 前に ある 小さな こうばんへ 行く",
+          "textFr": "Aller au petit poste de police devant la gare",
+          "textEn": "Head to the police box (Koban) in front of the station",
+          "targetChapterId": "node_koban",
+          "hint": "Demander de l'aide à l'agent de quartier",
+          "hintFr": "Demander de l'aide à l'agent de quartier",
+          "hintEn": "Ask the friendly neighborhood officer for lost pet reports"
+        }
+      ],
+      "translationsFr": [
+        "Aujourd'hui, il fait très beau.",
+        "À neuf heures, vous arrivez dans une petite gare.",
+        "Le ciel est bleu, et un vent doux souffle.",
+        "",
+        "« Miaou, miaou ! »",
+        "En regardant près de vos pieds, vous voyez un petit chat blanc.",
+        "Le chat porte un mouchoir rouge.",
+        "Le chat veut manger. Il vous regarde.",
+        "Que faites-vous ?"
+      ],
+      "translationsEn": [
+        "Today the weather is very nice.",
+        "At nine o'clock, you arrive at a small train station.",
+        "The sky is blue, and a warm wind is blowing.",
+        "",
+        "\"Meow, meow!\"",
+        "Looking beside your feet, there is a small white cat.",
+        "The cat has a red handkerchief.",
+        "The cat wants food. It is looking at you.",
+        "What will you do?"
+      ]
+    },
+    "node_park_bench": {
+      "id": "node_park_bench",
+      "chapterNumber": 2,
+      "titleJa": "二：こうえんの いすと あかい ハンカチ",
+      "titleFr": "Chapitre 2 : La chaise du parc et le foulard rouge",
+      "titleEn": "Chapter 2: The Park Chair and the Red Handkerchief",
+      "imageUrl": "images/japanese_park_pond_1793745023799.jpg",
+      "text": "あなたは ねこと ちかくの こうえんへ 行きました。\n大きな 木の 下に、ふるい いすが あります。\nきれいな はなが たくさん さいています。\n\nねこは げんきに 水を のみました。\nよく 見ると、あかい ハンカチに 「はな」と 書いて あります。\n「この ねこの 名前は、はなですね。」\n\nこうえんの そばに、はなの みせと、こどもが あそぶ いけが あります。\nどちらへ 行きますか？",
+      "choices": [
+        {
+          "id": "c_flower",
+          "textJa": "きれいな はなが ならぶ はなの みせへ 行く",
+          "textFr": "Aller vers la boutique où sont alignées de jolies fleurs",
+          "textEn": "Head to the flower shop lined with pretty flowers",
+          "targetChapterId": "node_flower_shop",
+          "hint": "Demander à la fleuriste si elle connaît le chaton",
+          "hintFr": "Demander à la fleuriste si elle connaît le chaton",
+          "hintEn": "Ask the florist if she recognizes the lost kitten"
+        },
+        {
+          "id": "c_pond",
+          "textJa": "こどもが あそんでいる いけの そばへ 行く",
+          "textFr": "Aller près de l'étang où jouent des enfants",
+          "textEn": "Walk near the pond where children are playing",
+          "targetChapterId": "node_park_pond",
+          "hint": "Demander aux enfants s'ils ont vu sa maîtresse",
+          "hintFr": "Demander aux enfants s'ils ont vu sa maîtresse",
+          "hintEn": "Ask the kids if someone is looking for a kitten named Hana"
+        }
+      ],
+      "translationsFr": [
+        "Vous allez avec le chat dans un parc tout proche.",
+        "Sous un grand arbre se trouve une vieille chaise.",
+        "De nombreuses jolies fleurs sont écloses.",
+        "",
+        "Le chat boit l'eau avec entrain.",
+        "En regardant bien, le prénom « Hana » est écrit sur le foulard rouge.",
+        "« Le nom de ce chat est donc Hana. »",
+        "",
+        "À côté du parc se trouvent un fleuriste et un étang où jouent des enfants.",
+        "Où allez-vous ?"
+      ],
+      "translationsEn": [
+        "You go with the cat to a nearby park.",
+        "Under a large tree, there is an old chair.",
+        "Many pretty flowers are in bloom.",
+        "",
+        "The cat drinks the water energetically.",
+        "Looking closely, \"Hana\" is written on the red handkerchief.",
+        "\"So this cat's name is Hana.\"",
+        "",
+        "Next to the park, there is a flower shop and a pond where children play.",
+        "Which way will you go?"
+      ]
+    },
+    "node_shopping_street": {
+      "id": "node_shopping_street",
+      "chapterNumber": 3,
+      "titleJa": "三：にぎやかな みせと パンの みせ",
+      "titleFr": "Chapitre 3 : Les boutiques animées et la boulangerie",
+      "titleEn": "Chapter 3: The Bustling Shops and Bakery",
+      "imageUrl": "images/white_kitten_adventure_1793745010079.jpg",
+      "text": "まちには たくさんの みせが あります。\nさかなの みせ、本の みせ、やおやが ならんでいます。\nみんなが「かわいい ねこですね」と いいます。\n\nねこは 前を あるいて、おいしい パンの みせの 前で とまりました。\nみせの 中から、おばあさんが 出ました。\n「その 白い ねこは、川の ちかくに すむ さくらさんの ねこですね。」\n\nおばあさんは あなたに おいしい パンを 一つ わたしました。\nあなたは どうしますか？",
+      "choices": [
+        {
+          "id": "c_river_from_shop",
+          "textJa": "川の ちかくに ある いえへ 行く",
+          "textFr": "Aller vers la maison près de la rivière",
+          "textEn": "Go toward the house near the river",
+          "targetChapterId": "node_river_path",
+          "hint": "Suivre les indications de la boulangère vers la rivière",
+          "hintFr": "Suivre les indications de la boulangère vers la rivière",
+          "hintEn": "Follow the baker's clue toward the riverside"
+        },
+        {
+          "id": "c_quiet_lane_from_shop",
+          "textJa": "パンの みせの そばの しずかな みちへ 入る",
+          "textFr": "Entrer dans le chemin calme à côté de la boulangerie",
+          "textEn": "Enter the quiet path next to the bakery",
+          "targetChapterId": "node_quiet_lane",
+          "hint": "Prendre un raccourci paisible entre les maisons",
+          "hintFr": "Prendre un raccourci paisible entre les maisons",
+          "hintEn": "Take a quiet shortcut between houses"
+        }
+      ],
+      "translationsFr": [
+        "En ville, il y a de nombreuses boutiques.",
+        "Une poissonnerie, une librairie et un marchand de légumes sont alignés côte à côte.",
+        "Tout le monde dit : « Quel joli chat ! »",
+        "",
+        "Le chat marche devant et s'arrête devant une bonne boulangerie.",
+        "De l'intérieur de la boutique sort une dame âgée.",
+        "« Ce chat blanc est le chat de Sakura qui habite près de la rivière, n'est-ce pas ? »",
+        "",
+        "La dame vous remet un délicieux pain.",
+        "Que faites-vous ?"
+      ],
+      "translationsEn": [
+        "There are many shops in town.",
+        "A fish shop, a bookstore, and a greengrocer stand side by side.",
+        "Everyone says, \"What a cute cat!\"",
+        "",
+        "The cat walks ahead and stops in front of a tasty bakery.",
+        "An elderly woman comes out from inside the shop.",
+        "\"That white cat is Sakura's cat who lives near the river, isn't it?\"",
+        "",
+        "The elderly woman hands you a piece of delicious bread.",
+        "What will you do?"
+      ]
+    },
+    "node_koban": {
+      "id": "node_koban",
+      "chapterNumber": 4,
+      "titleJa": "四：えきの 前の こうばんと おまわりさん",
+      "titleFr": "Chapitre 4 : Le poste de police et l'agent de quartier",
+      "titleEn": "Chapter 4: The Station Koban and Police Officer",
+      "imageUrl": "images/white_kitten_adventure_1793745010079.jpg",
+      "text": "えきの 前の こうばんに 入ると、おまわりさんが いました。\n「こんにちは。どうしましたか？」\n\nあなたが 白い ねこを 見せると、おまわりさんは ノートを 見ました。\n「けさ、女の子と お母さんが『白い ねこが いません』と 来ましたよ！\n名前は『はな』で、川の そばの 大きな 白い いえに すんでいます。」\n\nおまわりさんは ノートに まちの えを かいて わたしました。\n「北の はしを わたると、ちかいですよ。」",
+      "choices": [
+        {
+          "id": "c_bridge_from_koban",
+          "textJa": "ノートを 見て、北の はしへ まっすぐ あるく",
+          "textFr": "Regarder le plan et marcher tout droit vers le pont du nord",
+          "textEn": "Look at the sketch and walk straight toward the north bridge",
+          "targetChapterId": "node_stone_bridge",
+          "hint": "Aller tout droit vers le pont sur la rivière",
+          "hintFr": "Aller tout droit vers le pont sur la rivière",
+          "hintEn": "Head directly toward the bridge over the river"
+        },
+        {
+          "id": "c_hill_from_koban",
+          "textJa": "高い 山の みちを 行く",
+          "textFr": "Prendre le chemin de la haute colline",
+          "textEn": "Take the path up the high hill",
+          "targetChapterId": "node_hill_view",
+          "hint": "Monter sur la hauteur pour observer la ville",
+          "hintFr": "Monter sur la hauteur pour observer la ville",
+          "hintEn": "Climb the viewpoint to overlook the town"
+        }
+      ],
+      "translationsFr": [
+        "En entrant dans le poste de police devant la gare, il y a un policier.",
+        "« Bonjour. Que se passe-t-il ? »",
+        "",
+        "Lorsque vous lui montrez le chat blanc, le policier consulte son cahier.",
+        "« Ce matin, une fille et sa mère sont venues dire : \"Notre chat blanc n'est plus là\" !",
+        "Elle s'appelle Hana et habite dans une grande maison blanche près de la rivière. »",
+        "",
+        "Le policier dessine un plan de la ville dans son cahier et vous le tend.",
+        "« Dès que vous aurez traversé le pont du nord, ce sera tout près. »"
+      ],
+      "translationsEn": [
+        "Entering the police box in front of the station, there is a police officer.",
+        "\"Hello. How can I help you?\"",
+        "",
+        "When you show him the white cat, the officer looks at his notebook.",
+        "\"This morning, a girl and her mother came saying, 'Our white cat is missing!'",
+        "Her name is Hana, and she lives in a big white house by the river.\"",
+        "",
+        "The officer draws a sketch of the town in his notebook and hands it to you.",
+        "\"Once you cross the north bridge, it's right nearby.\""
+      ]
+    },
+    "node_flower_shop": {
+      "id": "node_flower_shop",
+      "chapterNumber": 5,
+      "titleJa": "五：はなの みせの おばあさん",
+      "titleFr": "Chapitre 5 : La dame du magasin de fleurs",
+      "titleEn": "Chapter 5: The Kind Florist at the Flower Shop",
+      "imageUrl": "images/japanese_park_pond_1793745023799.jpg",
+      "text": "はなの みせの 前には、あか、白、きいろの きれいな はなが たくさん あります。\nおばあさんが、はなに 水を あげて いました。\n\nねこが なくと、おばあさんは 大きな こえで いいました。\n「はな！ げんきでしたか。\nさくらさんは けさから こうえんや 山の 上を あるいて いましたよ。」\n\nおばあさんは あなたに おいしい くだものを わたしました。",
+      "choices": [
+        {
+          "id": "c_hill_from_flower",
+          "textJa": "さくらさんが いる 山の 上の こうえんへ 行く",
+          "textFr": "Aller au parc en haut de la colline où se trouve Sakura",
+          "textEn": "Go to the park atop the hill where Sakura is",
+          "targetChapterId": "node_hill_view",
+          "hint": "Sakura se trouve peut-être encore en haut",
+          "hintFr": "Sakura se trouve peut-être encore en haut",
+          "hintEn": "Sakura may still be up on the hill"
+        },
+        {
+          "id": "c_bridge_from_flower",
+          "textJa": "川の はしを わたって いえへ 行く",
+          "textFr": "Traverser le pont de la rivière et aller vers la maison",
+          "textEn": "Cross the river bridge and head toward the house",
+          "targetChapterId": "node_stone_bridge",
+          "hint": "Aller directement vers la maison près de la rivière",
+          "hintFr": "Aller directement vers la maison près de la rivière",
+          "hintEn": "Head directly toward the house near the river"
+        }
+      ],
+      "translationsFr": [
+        "Devant la boutique de fleurs, il y a beaucoup de jolies fleurs rouges, blanches et jaunes.",
+        "Une dame âgée était en train d'arroser les fleurs.",
+        "",
+        "Quand le chat miaule, la dame dit à haute voix :",
+        "« Hana ! Vas-tu bien ?",
+        "Depuis ce matin, Sakura marchait dans le parc et en haut de la colline. »",
+        "",
+        "La dame vous remet de délicieux fruits."
+      ],
+      "translationsEn": [
+        "In front of the flower shop, there are many pretty red, white, and yellow flowers.",
+        "An elderly woman was watering the flowers.",
+        "",
+        "When the cat meows, the woman says loudly:",
+        "\"Hana! Have you been well?",
+        "Since this morning, Sakura has been walking through the park and atop the hill.\"",
+        "",
+        "The elderly woman hands you delicious fruit."
+      ]
+    },
+    "node_park_pond": {
+      "id": "node_park_pond",
+      "chapterNumber": 6,
+      "titleJa": "六：こうえんの いけと ともだち",
+      "titleFr": "Chapitre 6 : L'étang du parc et les amis",
+      "titleEn": "Chapter 6: The Park Pond and Friends",
+      "imageUrl": "images/japanese_park_pond_1793745023799.jpg",
+      "text": "こうえんの いけでは、とりが およいで います。\nいけの そばで、二人の 男の子と 女の子が あそんで いました。\n\nねこを 見た 女の子が いいました。\n「はなです！ ともだちの さくらさんの ねこですよ！\nさくらさんは 川の ちかくの いえから、山の 上へ はしって 行きましたよ。」\n\n男の子も「あっちの 山の みちを のぼると、上へ 行きますよ！」と おしえました。",
+      "choices": [
+        {
+          "id": "c_stairs_hill",
+          "textJa": "山の みちを のぼって、山の 上へ 行く",
+          "textFr": "Monter le chemin et aller au sommet de la colline",
+          "textEn": "Climb the path and go to the top of the hill",
+          "targetChapterId": "node_hill_view",
+          "hint": "Retrouver Sakura au sommet",
+          "hintFr": "Retrouver Sakura au sommet",
+          "hintEn": "Catch up with Sakura at the top"
+        },
+        {
+          "id": "c_direct_river",
+          "textJa": "さくらさんの いえが ある 川の そばへ 行く",
+          "textFr": "Aller près de la rivière où se trouve la maison de Sakura",
+          "textEn": "Go near the river where Sakura's house is",
+          "targetChapterId": "node_river_path",
+          "hint": "Marcher le long de la rivière",
+          "hintFr": "Marcher le long de la rivière",
+          "hintEn": "Walk along the river path"
+        }
+      ],
+      "translationsFr": [
+        "Dans l'étang du parc, des oiseaux nagent.",
+        "À côté de l'étang, deux garçons et une fille jouaient.",
+        "",
+        "La fille qui a vu le chat a dit :",
+        "« C'est Hana ! C'est le chat de mon amie Sakura !",
+        "Sakura est partie en courant de sa maison près de la rivière vers le haut de la colline. »",
+        "",
+        "Un garçon a aussi indiqué : « En montant le chemin là-bas, on arrive en haut ! »"
+      ],
+      "translationsEn": [
+        "In the park pond, birds are swimming.",
+        "Beside the pond, two boys and a girl were playing.",
+        "",
+        "The girl who saw the cat said:",
+        "\"It's Hana! That's my friend Sakura's cat!",
+        "Sakura ran from her house near the river toward the top of the hill.\"",
+        "",
+        "The boy also told you, \"If you climb that mountain path over there, you reach the top!\""
+      ]
+    },
+    "node_quiet_lane": {
+      "id": "node_quiet_lane",
+      "chapterNumber": 7,
+      "titleJa": "七：しずかな ふるい みち",
+      "titleFr": "Chapitre 7 : Le vieux chemin calme",
+      "titleEn": "Chapter 7: The Quiet Old Road",
+      "imageUrl": "images/white_kitten_adventure_1793745010079.jpg",
+      "text": "ここは くるまが こない、しずかな みちです。\nふるい 木の いえが ならんで、いえの 木から とりが きれいな うたを うたって います。\n\nねこは たのしく あなたの 前を あるいて います。\nときどき 後ろを 見て、ちいさく なきます。\n\nみちの さきには、きれいな 川と、小さな はしが あります。\n川の そばの いえから、人の こえが します。",
+      "choices": [
+        {
+          "id": "c_stone_bridge_from_lane",
+          "textJa": "小さな はしを しずかに わたる",
+          "textFr": "Traverser doucement le petit pont",
+          "textEn": "Quietly cross the small bridge",
+          "targetChapterId": "node_stone_bridge",
+          "hint": "Passer sur l'autre rive",
+          "hintFr": "Passer sur l'autre rive",
+          "hintEn": "Cross to the other side of the river"
+        },
+        {
+          "id": "c_follow_river_path",
+          "textJa": "川の そばの きれいな みちを あるく",
+          "textFr": "Marcher sur le joli chemin près de la rivière",
+          "textEn": "Walk along the pretty path by the river",
+          "targetChapterId": "node_river_path",
+          "hint": "Longer la rivière",
+          "hintFr": "Longer la rivière",
+          "hintEn": "Follow the riverbank"
+        }
+      ],
+      "translationsFr": [
+        "C'est un chemin calme où les voitures ne viennent pas.",
+        "De vieilles maisons en bois sont alignées, et dans les arbres des maisons les oiseaux chantent une jolie chanson.",
+        "",
+        "Le chat marche joyeusement devant vous.",
+        "De temps en temps, il regarde en arrière et miaule doucement.",
+        "",
+        "Au bout du chemin, il y a une jolie rivière et un petit pont.",
+        "De la maison près de la rivière vient une voix humaine."
+      ],
+      "translationsEn": [
+        "This is a quiet road where cars do not come.",
+        "Old wooden houses stand in a row, and birds are singing a pretty song from the house trees.",
+        "",
+        "The cat walks happily in front of you.",
+        "Sometimes it looks back and meows softly.",
+        "",
+        "Ahead on the path, there is a pretty river and a small bridge.",
+        "From a house beside the river, a human voice can be heard."
+      ]
+    },
+    "node_hill_view": {
+      "id": "node_hill_view",
+      "chapterNumber": 8,
+      "titleJa": "八：山の 上から 見る まち",
+      "titleFr": "Chapitre 8 : La ville vue du haut de la colline",
+      "titleEn": "Chapter 8: The Town Seen from the Hilltop",
+      "imageUrl": "images/japanese_park_pond_1793745023799.jpg",
+      "text": "山の 上に のぼると、ひろい まちと きれいな 川が あります。\nそらは とても あかるくて、川の水が とても きれいです。\n\nいすの ちかくに、きいろい ぼうしの 小さな 女の子が たって います。\n女の子は 下を 見て います。\n「はな、どこに いますか…。」\n\nねこは あなたの てから とんで、はしりました。\n女の子が すぐに 前を 見ました。",
+      "choices": [
+        {
+          "id": "c_call_sakura",
+          "textJa": "「はなが いましたよ！」と 女の子に いう",
+          "textFr": "Dire à la fillette : « Hana est là ! »",
+          "textEn": "Tell the girl: \"Hana is right here!\"",
+          "targetChapterId": "node_happy_reunion",
+          "hint": "Rassurer immédiatement la jeune fille",
+          "hintFr": "Rassurer immédiatement la jeune fille",
+          "hintEn": "Reassure the young girl right away"
+        },
+        {
+          "id": "c_walk_family_home",
+          "textJa": "女の子と いっしょに、いえへ かえる",
+          "textFr": "Rentrer à la maison avec la fillette",
+          "textEn": "Go back home together with the girl",
+          "targetChapterId": "node_grand_reunion",
+          "hint": "Partager ce moment chaleureux avec toute la famille",
+          "hintFr": "Partager ce moment chaleureux avec toute la famille",
+          "hintEn": "Celebrate the heartwarming homecoming with the family"
+        }
+      ],
+      "translationsFr": [
+        "En montant en haut de la colline, il y a la vaste ville et la jolie rivière.",
+        "Le ciel est très clair, et l'eau de la rivière est très belle.",
+        "",
+        "Près d'une chaise se tient une petite fille au chapeau jaune.",
+        "La fillette regarde en bas.",
+        "« Hana, où es-tu... ? »",
+        "",
+        "Le chat saute de vos mains et se met à courir.",
+        "La fillette regarde aussitôt devant elle."
+      ],
+      "translationsEn": [
+        "Climbing to the top of the hill, there is the wide town and the pretty river.",
+        "The sky is very bright, and the river water is very clean.",
+        "",
+        "Near a chair, a little girl in a yellow hat is standing.",
+        "The girl is looking down below.",
+        "\"Hana, where are you...?\"",
+        "",
+        "The cat leaps from your hands and runs.",
+        "The girl immediately looks forward."
+      ]
+    },
+    "node_stone_bridge": {
+      "id": "node_stone_bridge",
+      "chapterNumber": 9,
+      "titleJa": "九：川の はしと きれいな 木",
+      "titleFr": "Chapitre 9 : Le pont de la rivière et les jolis arbres",
+      "titleEn": "Chapter 9: The River Bridge and Pretty Trees",
+      "imageUrl": "images/japanese_park_pond_1793745023799.jpg",
+      "text": "川には たくさんの 大きな さかなが げんきに およいで います。\n川の そばには きれいな はなの 木が ならんで います。\n\nはしを わたると、大きな 木の もんが ある ふるい きれいな いえが ありました。\nもんの 前に 「たなか」 と 書いて あります。\n\nいえの なかから、女の子の こえが します。\n「はな！ どこですか？」\nねこは ちいさく なきます。そして、もんの なかへ はしって 行きました。",
+      "choices": [
+        {
+          "id": "c_open_gate",
+          "textJa": "もんを あけて「こんにちは！」と げんきに いう",
+          "textFr": "Ouvrir le portail et dire joyeusement : « Konnichiwa ! »",
+          "textEn": "Open the gate and cheerfully say: \"Konnichiwa!\"",
+          "targetChapterId": "node_grand_reunion",
+          "hint": "Rencontrer les propriétaires de la maison",
+          "hintFr": "Rencontrer les propriétaires de la maison",
+          "hintEn": "Greet the homeowners directly"
+        },
+        {
+          "id": "c_wait_river_side",
+          "textJa": "もんの 前で まって、名前を よぶ",
+          "textFr": "Attendre devant le portail et appeler par son nom",
+          "textEn": "Wait in front of the gate and call out by name",
+          "targetChapterId": "node_happy_reunion",
+          "hint": "Laisser le chat retrouver sa jeune maîtresse",
+          "hintFr": "Laisser le chat retrouver sa jeune maîtresse",
+          "hintEn": "Let the cat joyfully run toward its owner"
+        }
+      ],
+      "translationsFr": [
+        "Dans la rivière, de nombreux gros poissons nagent avec entrain.",
+        "Au bord de la rivière, de jolis arbres en fleurs sont alignés.",
+        "",
+        "Après avoir traversé le pont, il y a une belle maison ancienne avec un grand portail en bois.",
+        "Devant le portail est écrit « Tanaka ».",
+        "",
+        "De l'intérieur de la maison vient la voix d'une fille :",
+        "« Hana ! Où es-tu ? »",
+        "Le chat miaule doucement et court à l'intérieur du portail."
+      ],
+      "translationsEn": [
+        "In the river, many big fish are swimming energetically.",
+        "Beside the river, pretty flowering trees stand in a row.",
+        "",
+        "Crossing the bridge, there is a handsome old house with a large wooden gate.",
+        "In front of the gate, it says \"Tanaka\".",
+        "",
+        "From inside the house, a girl's voice is heard:",
+        "\"Hana! Where are you?\"",
+        "The cat meows softly and runs inside the gate."
+      ]
+    },
+    "node_river_path": {
+      "id": "node_river_path",
+      "chapterNumber": 10,
+      "titleJa": "十：川の そばの みち",
+      "titleFr": "Chapitre 10 : Le chemin au bord de la rivière",
+      "titleEn": "Chapter 10: The Path Beside the River",
+      "imageUrl": "images/happy_kitten_reunion_1793745036650.jpg",
+      "text": "川の そばの みちを あるいていると、むこうから はしって くる お母さんと 小さな 女の子が いました。\n女の子は みちを よく 見て います。\n\nあなたの ての なかの 白い ねこを 見て、女の子は とまりました。\n「はな！！」\n\nねこも 大きな こえで なきました。とても げんきです。\nお母さんも「ほんとうに いい ひです！」と いいました。",
+      "choices": [
+        {
+          "id": "c_hand_cat",
+          "textJa": "「どうぞ」と いって、ねこを 女の子に わたす",
+          "textFr": "Dire « Tenez » et remettre le chat à la petite fille",
+          "textEn": "Say \"Here you go\" and hand the cat to the little girl",
+          "targetChapterId": "node_happy_reunion",
+          "hint": "Assister à ces belles retrouvailles",
+          "hintFr": "Assister à ces belles retrouvailles",
+          "hintEn": "Witness this lovely reunion"
+        },
+        {
+          "id": "c_follow_home_tea",
+          "textJa": "お父さんと お母さんの いえへ いっしょに 行く",
+          "textFr": "Aller avec la famille vers leur maison toute proche",
+          "textEn": "Go together to the parents' nearby house",
+          "targetChapterId": "node_grand_reunion",
+          "hint": "Accepter leur chaleureuse invitation",
+          "hintFr": "Accepter leur chaleureuse invitation",
+          "hintEn": "Accept their warm invitation"
+        }
+      ],
+      "translationsFr": [
+        "En marchant sur le chemin près de la rivière, vous voyez une maman et une petite fille qui courent d'en face.",
+        "La fillette observe attentivement le chemin.",
+        "",
+        "En voyant le chat blanc dans vos mains, la fillette s'arrête.",
+        "« Hana !! »",
+        "",
+        "Le chat miaule aussi très fort et déborde d'énergie.",
+        "La maman dit également : « C'est vraiment une belle journée ! »"
+      ],
+      "translationsEn": [
+        "Walking on the path by the river, a mother and a little girl come running from the other side.",
+        "The girl is looking carefully along the path.",
+        "",
+        "Seeing the white cat in your hands, the girl stops.",
+        "\"Hana!!\"",
+        "",
+        "The cat meows loudly too and is full of energy.",
+        "The mother also says, \"It really is a wonderful day!\""
+      ]
+    },
+    "node_happy_reunion": {
+      "id": "node_happy_reunion",
+      "chapterNumber": 11,
+      "titleJa": "おわり：たのしい 一日",
+      "titleFr": "Épilogue Heureux : Une joyeuse journée",
+      "titleEn": "Happy Epilogue: A Joyful Day",
+      "imageUrl": "images/happy_kitten_reunion_1793745036650.jpg",
+      "isEnding": true,
+      "endingType": "victory",
+      "endingBadge": "Fin Heureuse · Ami du Chaton (ねこの ともだち)",
+      "endingBadgeFr": "Fin Heureuse · Ami du Chaton (ねこの ともだち)",
+      "endingBadgeEn": "Happy Ending · Friend of Kittens (ねこの ともだち)",
+      "endingSummaryFr": "Félicitations ! Grâce à votre gentillesse et à votre sens de l'observation, la petite Hana a retrouvé sa maîtresse Sakura dans la joie et la sérénité.",
+      "endingSummaryEn": "Congratulations! Thanks to your kindness and observation skills, little Hana is back safe with Sakura.",
+      "text": "「はな！ ほんとうに よかったです！」\n女の子の さくらさんは、ねこを よく みました。\nねこも げんきに なきます。さくらさんの ての そばに います。\n\n「どうも ありがとう ございます！」\nお母さんと さくらさんは、また「どうも ありがとう！」と いいました。\n\n三人は へやで すわって、つめたい 水と おいしい おかしを たべました。\nすずしい かぜが ふいて、とても いい 天気です。\n今日、あなたは とても いい ともだちが できました。",
+      "choices": [],
+      "translationsFr": [
+        "« Hana ! Quel bonheur, vraiment ! »",
+        "La fillette Sakura regarde attentivement le chat.",
+        "Le chat miaule joyeusement et reste près de la main de Sakura.",
+        "",
+        "« Merci infiniment ! »",
+        "La maman et Sakura répètent encore : « Merci beaucoup ! »",
+        "",
+        "Tous les trois s'assoient dans la pièce et profitent d'eau fraîche et de délicieuses pâtisseries.",
+        "Un vent frais souffle et il fait très beau.",
+        "Aujourd'hui, vous vous êtes fait de très bons amis."
+      ],
+      "translationsEn": [
+        "\"Hana! I am really so glad!\"",
+        "The girl Sakura looks closely at the cat.",
+        "The cat meows happily too and stays beside Sakura's hand.",
+        "",
+        "\"Thank you very much!\"",
+        "The mother and Sakura say again, \"Thank you so much!\"",
+        "",
+        "The three sit in the room and enjoy cold water and tasty sweets.",
+        "A cool breeze blows, and the weather is very nice.",
+        "Today, you made very good friends."
+      ]
+    },
+    "node_grand_reunion": {
+      "id": "node_grand_reunion",
+      "chapterNumber": 11,
+      "titleJa": "おわり：おいしい りょうり",
+      "titleFr": "Épilogue Parfait : Le délicieux repas en famille",
+      "titleEn": "Perfect Epilogue: Delicious Family Meal",
+      "imageUrl": "images/happy_kitten_reunion_1793745036650.jpg",
+      "isEnding": true,
+      "endingType": "victory",
+      "endingBadge": "Fin Parfaite · Ami de la Famille (いい ともだち)",
+      "endingBadgeFr": "Fin Parfaite · Ami de la Famille (いい ともだち)",
+      "endingBadgeEn": "Perfect Victory · Honored Family Friend (いい ともだち)",
+      "endingSummaryFr": "Victoire Parfaite ! La famille de Sakura vous accueille chaleureusement chez elle et partage un délicieux repas maison pour vous remercier.",
+      "endingSummaryEn": "Grand Victory! Sakura's family warmly welcomes you as an honored guest, sharing a delicious homemade meal to express their gratitude.",
+      "text": "もんを 入ると、さくらさんと お父さんと お母さんが 外に いました。\nいえへ 来た はなを 見て、みんな たのしく なりました！\nお父さんも お母さんも、「よく 来ましたね！」と いいました。\n\n「ほんとうに ありがとう ございます。とても いい 人ですね。」\nみんな あなたを へやに よんで、おいしい ごはんと りょうりを あげました。\n\nはなは あなたの あしの 上で よく ねています。\nあなたは みんなと たのしく たくさん はなしました。とても たのしい 時間でした。\n「また あそびに 来て くださいね！」",
+      "choices": [],
+      "translationsFr": [
+        "En franchissant le portail, Sakura, son père et sa mère sont dehors.",
+        "En voyant Hana arrivée à la maison, tout le monde est rempli de joie !",
+        "Le père et la mère disent : « Soyez les bienvenus ! »",
+        "",
+        "« Merci infiniment. Vous êtes vraiment une bonne personne. »",
+        "Tout le monde vous invite dans la pièce et vous offre un bon riz et de délicieux plats.",
+        "",
+        "Hana dort paisiblement sur vos jambes.",
+        "Vous discutez joyeusement beaucoup avec tout le monde. Ce fut un moment très agréable.",
+        "« Revenez encore jouer avec nous ! »"
+      ],
+      "translationsEn": [
+        "Entering the gate, Sakura, her father, and her mother are outside.",
+        "Seeing Hana arrive home, everyone becomes joyful!",
+        "Both the father and mother say, \"Welcome!\"",
+        "",
+        "\"Thank you very much. You are truly a good person.\"",
+        "Everyone invites you into the room and treats you to tasty rice and home cooking.",
+        "",
+        "Hana is sleeping soundly on your legs.",
+        "You talk happily a lot with everyone. It was a very fun time.",
+        "\"Please come play with us again!\""
+      ]
+    }
+  }
+}
