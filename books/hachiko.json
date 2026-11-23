@@ -1,0 +1,188 @@
+{
+  "id": "hachiko",
+  "format": "book",
+  "titleJa": "ハチ の 物語 — しぶや駅 で 待ち 続けた 犬",
+  "titleFr": "L'histoire de Hachikō - Le chien qui attendait à Shibuya",
+  "titleEn": "The Story of Hachikō - The Dog Who Waited at Shibuya",
+  "coverImage": "images/hachiko_shibuya_dusk.jpg",
+  "descriptionFr": "L'histoire vraie et bouleversante d'Hachikō adaptée au niveau JLPT N3 en 5 chapitres illustrés. De son arrivée chez le professeur Ueno jusqu'à ses dix années d'attente fidèle devant la gare de Shibuya, découvrez ce symbole éternel d'amitié et de loyauté au Japon.",
+  "descriptionEn": "The touching true story of Hachikō adapted to JLPT N3 level across 5 illustrated chapters. From his first winter day with Professor Ueno to ten years of faithful waiting outside Shibuya Station, discover Japan's timeless symbol of friendship and devotion.",
+  "author": "Nihongo Reader 物語 (N3)",
+  "authorEn": "Nihongo Reader Stories (N3)",
+  "level": "N3",
+  "category": "Histoire & Culture",
+  "categoryEn": "History & Culture",
+  "tags": [
+    "Livre",
+    "Histoire vraie",
+    "Tokyo",
+    "Animaux",
+    "N3",
+    "Culture"
+  ],
+  "tagsEn": [
+    "Book",
+    "True Story",
+    "Tokyo",
+    "Animals",
+    "N3",
+    "Culture"
+  ],
+  "chapters": [
+    {
+      "id": "chap-1",
+      "chapterNumber": 1,
+      "titleJa": "一：先生 と の 出会い",
+      "titleFr": "Chapitre 1 : La rencontre avec le professeur",
+      "titleEn": "Chapter 1: Meeting the Professor",
+      "summaryFr": "Durant l'hiver 1924, un petit chiot Akita arrive dans la maison du professeur Ueno à Tokyo. Encore fragile, il retrouve vite la santé grâce à des soins remplis d'affection et reçoit le nom de « Hachi ».",
+      "summaryEn": "During the winter of 1924, a tiny Akita puppy arrives at Professor Ueno's house in Tokyo. Frail at first, he soon grows healthy through loving care and is given the name \"Hachi.\"",
+      "imageUrl": "images/hachiko_puppy_home.jpg",
+      "text": "いま から 百 年 ほど 前 の 一九二四年 の 冬、東京 の 上野（うえの）先生 の 家 に、一ぴき の 小さな 犬 が やって 来ました。\n白い 雪 の ような け を 持った、あきた犬 の 男の子 の 赤ちゃん でした。\n\n長い きしゃ の 旅 で とても 疲れて いた の で、最初 は 元気 が あり ませんでした。\nけれど、優しい 先生 と 家族 が あたたかい へや で 毎日 たいせつ に 世話 を しました。\n\nすると、子犬 は 少しずつ ご飯 を 食べる ように なり、元気 な 声 で なく ように なりました。\n先生 は うれしく なって、この 子犬 に「ハチ」と いう 名前 を つけて あげました。",
+      "translationsFr": [
+        "Il y a environ cent ans, durant l'hiver 1924, un tout petit chien arriva dans la maison du professeur Ueno à Tokyo.",
+        "C'était un bébé chien Akita mâle au pelage doux comme la neige blanche.",
+        "",
+        "Comme il était très fatigué par le long voyage en train, il manquait d'énergie au début.",
+        "Cependant, le gentil professeur et sa famille prirent grand soin de lui chaque jour dans une pièce bien chauffée.",
+        "",
+        "Le chiot se mit alors peu à peu à manger ses repas et à aboyer d'une voix pleine de vivacité.",
+        "Ravi, le professeur donna à ce petit chiot le nom de « Hachi »."
+      ],
+      "translationsEn": [
+        "About a hundred years ago, in the winter of 1924, a tiny puppy arrived at Professor Ueno's home in Tokyo.",
+        "He was a baby male Akita dog with soft fur as bright as white snow.",
+        "",
+        "Exhausted from the long train journey, he had very little strength at first.",
+        "However, the kind professor and his family cared for him tenderly every day inside a warm room.",
+        "",
+        "Before long, the puppy gradually began eating his meals and barking with a lively voice.",
+        "Overjoyed, the professor gave the little puppy the name \"Hachi.\""
+      ]
+    },
+    {
+      "id": "chap-2",
+      "chapterNumber": 2,
+      "titleJa": "二：毎朝 の 駅 へ の 道",
+      "titleFr": "Chapitre 2 : Le chemin du matin vers la gare",
+      "titleEn": "Chapter 2: The Morning Walk to the Station",
+      "summaryFr": "En grandissant, Hachi devient le compagnon fidèle du professeur Ueno : il l'accompagne chaque matin jusqu'à la gare de Shibuya et revient l'y accueillir tous les soirs.",
+      "summaryEn": "As he grows strong, Hachi becomes Professor Ueno's devoted companion, walking him to Shibuya Station every morning and returning to greet him each evening.",
+      "imageUrl": "images/hachiko_morning_walk.jpg",
+      "text": "春 に なる と、ハチ は 大きく じょうぶ な 犬 に 育ちました。\n大学 で 仕事 を して いた 先生 は、毎朝 電車 に のる ため に、しぶや駅 まで 歩いて いました。\n\nある 朝 から、ハチ も 先生 の となり を 歩いて、駅 の 入口 まで いっしょに 行く ように なりました。\nそして 夕方 に なる と、ハチ は ひとり で また 駅 へ 来て、電車 から おりて 来る 先生 を 笑顔 で むかえました。\n\nしっぽ を ふりながら よろこぶ ハチ の すがた を 見て、まち の 人々 も いつも あたたかい 気持ち に なりました。\nふたり の 深い きずな は、みんな が 知る すてき な 毎日 の 風景 でした。",
+      "translationsFr": [
+        "Quand le printemps arriva, Hachi était devenu un grand chien plein de vigueur.",
+        "Le professeur, qui travaillait à l'université, marchait chaque matin jusqu'à la gare de Shibuya pour prendre le train.",
+        "",
+        "À partir d'un certain matin, Hachi prit l'habitude de marcher aux côtés du professeur jusqu'à l'entrée de la gare.",
+        "Puis, le soir venu, Hachi revenait tout seul à la gare et accueillait avec joie le professeur qui descendait du train.",
+        "",
+        "En voyant Hachi se réjouir en remuant la queue, les habitants du quartier ressentaient toujours une douce chaleur au cœur.",
+        "Le lien profond qui les unissait formait un merveilleux tableau du quotidien connu de tous."
+      ],
+      "translationsEn": [
+        "By the time spring arrived, Hachi had grown into a large and sturdy dog.",
+        "The professor, who taught at the university, walked to Shibuya Station every morning to catch his train.",
+        "",
+        "Starting one morning, Hachi began walking beside the professor all the way to the station entrance.",
+        "Then in the evening, Hachi would walk back to the station alone and happily greet the professor stepping off the train.",
+        "",
+        "Seeing Hachi wag his tail in delight always warmed the hearts of the local townspeople.",
+        "The deep bond between the two became a cherished everyday sight known to everyone."
+      ]
+    },
+    {
+      "id": "chap-3",
+      "chapterNumber": 3,
+      "titleJa": "三：帰らぬ 先生",
+      "titleFr": "Chapitre 3 : Le professeur qui ne revint pas",
+      "titleEn": "Chapter 3: The Professor Who Never Returned",
+      "summaryFr": "En mai 1925, le professeur Ueno décède subitement à l'université. Ignorant qu'il ne reviendra plus, Hachi continue d'attendre devant la gare jusqu'à la tombée de la nuit.",
+      "summaryEn": "In May 1925, Professor Ueno passes away suddenly at the university. Unable to understand that his master will not return, Hachi keeps waiting outside the station until nightfall.",
+      "imageUrl": "images/hachiko_shibuya_dusk.jpg",
+      "text": "しかし、しあわせ な 時間 は あまり 長く 続きませんでした。\n一九二五年 の 五月、大学 で 仕事 を して いた 上野先生 は、急 な 病気 で たおれ、そのまま 帰らぬ 人 と なって しまった の です。\n\nその 日 の 夕方 も、ハチ は いつもの ように しぶや駅 の 前 に 座って、電車 を 待って いました。\n何 本 も 電車 が 着き、たくさん の 人 が 出口 から 出て 来ましたが、先生 の すがた は どこ に も あり ません。\n\nあたり が 暗く なり、夜 の 冷たい 風 が 吹いて も、ハチ は 家 へ 帰ろう と しませんでした。\n「先生 は きっと つぎ の 電車 で 帰って 来る」と 信じて、暗い 駅 の 前 で ずっと 待ち 続けました。",
+      "translationsFr": [
+        "Cependant, ces moments de bonheur ne durèrent malheureusement pas très longtemps.",
+        "En mai 1925, alors qu'il travaillait à l'université, le professeur Ueno fut frappé d'un malaise soudain et s'éteignit sans pouvoir rentrer chez lui.",
+        "",
+        "Ce soir-là encore, Hachi était assis comme d'habitude devant la gare de Shibuya et attendait le train.",
+        "De nombreux trains arrivèrent et une foule de voyageurs franchit la sortie, mais la silhouette du professeur n'apparaissait nulle part.",
+        "",
+        "Même lorsque la nuit tomba et que le vent froid du soir se mit à souffler, Hachi refusa de rentrer à la maison.",
+        "Croyant que « le professeur allait sûrement rentrer par le prochain train », il continua d'attendre sans relâche devant la gare sombre."
+      ],
+      "translationsEn": [
+        "However, those happy days sadly did not last very long.",
+        "In May 1925, while working at the university, Professor Ueno collapsed from a sudden illness and passed away, never to return.",
+        "",
+        "That very evening as well, Hachi sat in front of Shibuya Station as usual, waiting for the train.",
+        "Train after train arrived and crowds of passengers streamed through the exit, yet the professor was nowhere to be seen.",
+        "",
+        "Even as darkness fell and the chilly night wind began to blow, Hachi would not go home.",
+        "Believing that \"the professor will surely come back on the next train,\" he kept waiting endlessly before the dark station."
+      ]
+    },
+    {
+      "id": "chap-4",
+      "chapterNumber": 4,
+      "titleJa": "四：雨 の 日 も 雪 の 日 も",
+      "titleFr": "Chapitre 4 : Sous la pluie comme sous la neige",
+      "titleEn": "Chapter 4: Through Rain and Snow",
+      "summaryFr": "Pendant près de dix ans, Hachi revient chaque soir à l'heure du train. D'abord incompris, il devient célèbre grâce à un article de journal, et tout le quartier veille alors sur lui.",
+      "summaryEn": "For nearly ten years, Hachi returns every evening when the train arrives. Once misunderstood, he becomes famous after a newspaper story, and the whole neighborhood cares for him.",
+      "imageUrl": "images/hachiko_rainy_waiting.jpg",
+      "text": "その後、ハチ は ほか の 人 の 家 に あずけられました が、それでも 毎日 しぶや駅 へ 歩いて 行きました。\n雨 が はげしく 降る 日 も、白い 雪 が つもる 寒い 冬 も、夕方 に なる と 必ず 駅 の 前 に 座りました。\n\n最初 は、駅 で じゃま に する 人 も いて、ハチ は 悲しい 思い を する こと も ありました。\nしかし、九 年 近く も 先生 を 待ち 続けて いる こと が 新聞 に 書かれる と、日本 中 の 人々 が 深く 心 を 動かされました。\n\nそれ から は、駅 の 近く の お店 の 人 たち が ハチ に やさしく 声 を かけ、おいしい 食べ物 を 分けて あげる ように なりました。\n年 を とって 足 が 弱く なって も、ハチ は 先生 と の 約束 を 決して 忘れませんでした。",
+      "translationsFr": [
+        "Par la suite, Hachi fut confié à une autre famille, mais il continua malgré tout de marcher chaque jour jusqu'à la gare de Shibuya.",
+        "Les jours de pluie battante comme durant les hivers glacials où s'accumulait la neige blanche, dès le soir venu, il s'asseyait toujours devant la gare.",
+        "",
+        "Au début, certaines personnes le trouvaient gênant à la gare, et Hachi connut parfois des moments bien tristes.",
+        "Mais lorsqu'un journal raconta qu'il attendait son maître depuis près de neuf ans, les gens de tout le Japon furent profondément émus.",
+        "",
+        "Dès lors, les commerçants près de la gare se mirent à parler doucement à Hachi et à partager avec lui de bons repas.",
+        "Même lorsque l'âge affaiblit ses pattes, Hachi n'oublia jamais sa promesse envers le professeur."
+      ],
+      "translationsEn": [
+        "Afterward, Hachi was placed in the care of another household, yet he still walked to Shibuya Station every single day.",
+        "On days of pouring rain and during freezing winters when white snow piled up, he always took his seat in front of the station by evening.",
+        "",
+        "At first, some passersby treated him as a nuisance at the station, and Hachi experienced lonely, sorrowful moments.",
+        "However, once a newspaper article told how he had kept waiting for his master for nearly nine years, people across all of Japan were deeply moved.",
+        "",
+        "From then on, shopkeepers around the station began speaking kindly to Hachi and sharing warm food with him.",
+        "Even as old age weakened his legs, Hachi never once forgot his promise to the professor."
+      ]
+    },
+    {
+      "id": "chap-5",
+      "chapterNumber": 5,
+      "titleJa": "五：さくら の 下 の 約束",
+      "titleFr": "Chapitre 5 : La promesse sous les cerisiers",
+      "titleEn": "Chapter 5: The Promise Beneath the Cherry Blossoms",
+      "summaryFr": "Une statue à l'image de Hachi est inaugurée devant la gare de Shibuya de son vivant. Après sa mort en 1935, son souvenir continue de rassembler amis et voyageurs sous les cerisiers.",
+      "summaryEn": "A statue of Hachi is unveiled outside Shibuya Station during his lifetime. After his passing in 1935, his memory continues to bring friends and travelers together under the cherry blossoms.",
+      "imageUrl": "images/hachiko_statue_sakura.jpg",
+      "text": "一九三四年 の 春、しぶや駅 の 前 に ハチ の すがた を した りっぱ な ぞう が 作られました。\nその 日、多く の 人 が 集まる 中 で、ハチ 自身 も 静か に その そば に 座って いました。\n\nそして つぎ の 年 の 三月、十 年 近く 待ち 続けた ハチ は、駅 の 近く で 静か に 長い ねむり に つきました。\nやっと 大好き な 先生 と 天国 で 会えた の かも しれません。\n\nいま でも、しぶや駅 の 前 に は ハチ の ぞう が 立ち、春 に なる と きれいな さくら の 花 が やさしく ぞう を つつみます。\n毎日 たくさん の 人 が「ハチ公 の 前 で 会おう」と 約束 を して、大切な 友だち や 家族 を 待って います。",
+      "translationsFr": [
+        "Au printemps 1934, une magnifique statue à l'effigie de Hachi fut érigée devant la gare de Shibuya.",
+        "Ce jour-là, au milieu d'une grande foule rassemblée, Hachi lui-même se tenait paisiblement assis tout près.",
+        "",
+        "Puis, au mois de mars de l'année suivante, Hachi, qui avait attendu pendant près de dix ans, s'endormit doucement pour toujours près de la gare.",
+        "Peut-être put-il enfin retrouver au ciel son cher professeur qu'il aimait tant.",
+        "",
+        "Aujourd'hui encore, la statue de Hachi se dresse devant la gare de Shibuya, et lorsque revient le printemps, de belles fleurs de cerisier l'enveloppent avec douceur.",
+        "Chaque jour, de nombreuses personnes se donnent rendez-vous en disant « Retrouvons-nous devant Hachikō » et y attendent leurs amis chers ou leur famille."
+      ],
+      "translationsEn": [
+        "In the spring of 1934, a splendid statue of Hachi was erected right in front of Shibuya Station.",
+        "On that day, surrounded by a large gathered crowd, Hachi himself sat calmly right beside it.",
+        "",
+        "Then in March of the following year, after nearly ten years of waiting, Hachi quietly fell into his eternal sleep near the station.",
+        "Perhaps at last he was reunited in heaven with the beloved professor he had missed so deeply.",
+        "",
+        "Even today, Hachi's statue stands outside Shibuya Station, and every spring delicate cherry blossoms gently surround it.",
+        "Every day, countless people make plans saying, \"Let's meet in front of Hachikō,\" waiting there for their dear friends and family."
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
-  "version": 1795466331680,
-  "generatedAt": "2026-11-23T20:38:51.680Z",
+  "version": 1795470247582,
+  "generatedAt": "2026-11-23T21:44:07.583Z",
   "texts": [
     {
       "id": "asking-directions",
@@ -516,6 +516,91 @@
     }
   ],
   "books": [
+    {
+      "id": "hachiko",
+      "format": "book",
+      "titleJa": "ハチ の 物語 — しぶや駅 で 待ち 続けた 犬",
+      "titleFr": "L'histoire de Hachikō - Le chien qui attendait à Shibuya",
+      "titleEn": "The Story of Hachikō - The Dog Who Waited at Shibuya",
+      "level": "N3",
+      "author": "Nihongo Reader 物語 (N3)",
+      "authorEn": "Nihongo Reader Stories (N3)",
+      "category": "Histoire & Culture",
+      "categoryEn": "History & Culture",
+      "tags": [
+        "Livre",
+        "Histoire vraie",
+        "Tokyo",
+        "Animaux",
+        "N3",
+        "Culture"
+      ],
+      "tagsEn": [
+        "Book",
+        "True Story",
+        "Tokyo",
+        "Animals",
+        "N3",
+        "Culture"
+      ],
+      "descriptionFr": "L'histoire vraie et bouleversante d'Hachikō adaptée au niveau JLPT N3 en 5 chapitres illustrés. De son arrivée chez le professeur Ueno jusqu'à ses dix années d'attente fidèle devant la gare de Shibuya, découvrez ce symbole éternel d'amitié et de loyauté au Japon.",
+      "descriptionEn": "The touching true story of Hachikō adapted to JLPT N3 level across 5 illustrated chapters. From his first winter day with Professor Ueno to ten years of faithful waiting outside Shibuya Station, discover Japan's timeless symbol of friendship and devotion.",
+      "coverImage": "images/hachiko_shibuya_dusk.jpg",
+      "chaptersCount": 5,
+      "chaptersSummary": [
+        {
+          "id": "chap-1",
+          "chapterNumber": 1,
+          "titleJa": "一：先生 と の 出会い",
+          "titleFr": "Chapitre 1 : La rencontre avec le professeur",
+          "titleEn": "Chapter 1: Meeting the Professor",
+          "summaryFr": "Durant l'hiver 1924, un petit chiot Akita arrive dans la maison du professeur Ueno à Tokyo. Encore fragile, il retrouve vite la santé grâce à des soins remplis d'affection et reçoit le nom de « Hachi ».",
+          "summaryEn": "During the winter of 1924, a tiny Akita puppy arrives at Professor Ueno's house in Tokyo. Frail at first, he soon grows healthy through loving care and is given the name \"Hachi.\"",
+          "charCount": 225
+        },
+        {
+          "id": "chap-2",
+          "chapterNumber": 2,
+          "titleJa": "二：毎朝 の 駅 へ の 道",
+          "titleFr": "Chapitre 2 : Le chemin du matin vers la gare",
+          "titleEn": "Chapter 2: The Morning Walk to the Station",
+          "summaryFr": "En grandissant, Hachi devient le compagnon fidèle du professeur Ueno : il l'accompagne chaque matin jusqu'à la gare de Shibuya et revient l'y accueillir tous les soirs.",
+          "summaryEn": "As he grows strong, Hachi becomes Professor Ueno's devoted companion, walking him to Shibuya Station every morning and returning to greet him each evening.",
+          "charCount": 229
+        },
+        {
+          "id": "chap-3",
+          "chapterNumber": 3,
+          "titleJa": "三：帰らぬ 先生",
+          "titleFr": "Chapitre 3 : Le professeur qui ne revint pas",
+          "titleEn": "Chapter 3: The Professor Who Never Returned",
+          "summaryFr": "En mai 1925, le professeur Ueno décède subitement à l'université. Ignorant qu'il ne reviendra plus, Hachi continue d'attendre devant la gare jusqu'à la tombée de la nuit.",
+          "summaryEn": "In May 1925, Professor Ueno passes away suddenly at the university. Unable to understand that his master will not return, Hachi keeps waiting outside the station until nightfall.",
+          "charCount": 244
+        },
+        {
+          "id": "chap-4",
+          "chapterNumber": 4,
+          "titleJa": "四：雨 の 日 も 雪 の 日 も",
+          "titleFr": "Chapitre 4 : Sous la pluie comme sous la neige",
+          "titleEn": "Chapter 4: Through Rain and Snow",
+          "summaryFr": "Pendant près de dix ans, Hachi revient chaque soir à l'heure du train. D'abord incompris, il devient célèbre grâce à un article de journal, et tout le quartier veille alors sur lui.",
+          "summaryEn": "For nearly ten years, Hachi returns every evening when the train arrives. Once misunderstood, he becomes famous after a newspaper story, and the whole neighborhood cares for him.",
+          "charCount": 261
+        },
+        {
+          "id": "chap-5",
+          "chapterNumber": 5,
+          "titleJa": "五：さくら の 下 の 約束",
+          "titleFr": "Chapitre 5 : La promesse sous les cerisiers",
+          "titleEn": "Chapter 5: The Promise Beneath the Cherry Blossoms",
+          "summaryFr": "Une statue à l'image de Hachi est inaugurée devant la gare de Shibuya de son vivant. Après sa mort en 1935, son souvenir continue de rassembler amis et voyageurs sous les cerisiers.",
+          "summaryEn": "A statue of Hachi is unveiled outside Shibuya Station during his lifetime. After his passing in 1935, his memory continues to bring friends and travelers together under the cherry blossoms.",
+          "charCount": 237
+        }
+      ],
+      "updatedAt": 1795470243325
+    },
     {
       "id": "hanasaka-jiisan",
       "format": "book",
