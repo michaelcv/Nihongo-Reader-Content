@@ -73,7 +73,7 @@
       "summaryFr": "Arrivée à Kyoto, Emma rejoint son hôtel en taxi. Elle découvre une jolie chambre boisée avec du thé chaud et une vue sur les toits anciens.",
       "summaryEn": "Arriving in Kyoto, Emma takes a taxi to her hotel. She checks into a calm wooden room with warm tea and a view over historic rooftops.",
       "imageUrl": "images/emma_kyoto_hotel.jpg",
-      "text": "ひる に きょうと の えき に つきました。\n外 は あたたかくて、あおい そら が とても きれい です。\n\nエマ は えき の 前 から タクシー に のって、ホテル へ 行きました。\nホテル の 人 に 名前 を いって、へや の かぎ を もらいました。\n\nへや は しずか で とても きれい です。\nテーブル の 上 に、あたたかい みどり の おちゃ が ありました。\n外 を 見ると、ふるい まち の いえ が たくさん ありました。\nエマ は おちゃ を のんで、すこし やすみました。",
+      "text": "ひる に きょうと の えき に つきました。\n外 は あたたかくて、あおい そら が とても きれい です。\n\nエマ は えき の 前 から タクシー に のって、ホテル へ 行きました。\nホテル の 人 に 名前 を いって、へや の かぎ を もらいました。\n\nへや は しずか で とても きれい です。\nテーブル の 上 に、あたたかい おちゃ が ありました。\n外 を 見ると、ふるい まち の いえ が たくさん ありました。\nエマ は おちゃ を のんで、すこし やすみました。",
       "translationsFr": [
         "À midi, elle est arrivée à la gare de Kyoto.",
         "Dehors il fait doux, et le ciel bleu est magnifique.",
@@ -82,7 +82,7 @@
         "Elle a donné son nom à la réception et a reçu la clé de sa chambre.",
         "",
         "La chambre est calme et très jolie.",
-        "Sur la table, il y avait un thé vert bien chaud.",
+        "Sur la table, il y avait un thé bien chaud.",
         "En regardant dehors, elle aperçut de nombreuses maisons de la vieille ville.",
         "Emma a bu son thé et s'est reposée un moment."
       ],
@@ -94,7 +94,7 @@
         "She gave her name to the hotel staff and received her room key.",
         "",
         "The room is quiet and very clean and lovely.",
-        "On the table sat a warm cup of green tea.",
+        "On the table sat a warm cup of tea.",
         "Looking outside, she saw many houses of the old town.",
         "Emma drank her tea and rested for a little while."
       ]
@@ -138,35 +138,35 @@
       "id": "chap-4",
       "chapterNumber": 4,
       "titleJa": "四：おいしい ひるごはん と おちゃ",
-      "titleFr": "Chapitre 4 : Un bon déjeuner et le thé vert",
-      "titleEn": "Chapter 4: A Delicious Lunch and Green Tea",
-      "summaryFr": "Emma s'installe dans un salon de thé traditionnel en bois donnant sur un petit jardin. Elle déguste un repas chaud, du thé vert matcha et des douceurs.",
-      "summaryEn": "Emma sits down inside a cozy wooden teahouse overlooking a garden and savors a warm meal, rich green tea, and traditional sweets.",
+      "titleFr": "Chapitre 4 : Un bon déjeuner et le thé",
+      "titleEn": "Chapter 4: A Delicious Lunch and Tea",
+      "summaryFr": "Emma s'installe dans un salon de thé traditionnel en bois donnant sur un petit jardin. Elle déguste un repas chaud, du thé et des douceurs.",
+      "summaryEn": "Emma sits down inside a cozy wooden teahouse overlooking a garden and savors a warm meal, hot tea, and traditional sweets.",
       "imageUrl": "images/emma_kyoto_lunch.jpg",
-      "text": "たくさん あるいた ので、エマ は すこし つかれました。\nおてら の ちかく に、ちいさくて きれい な きっさてん が ありました。\n\nエマ は なか に 入って、ちいさい テーブル の そば に すわりました。\nそこから にわ の 木 と はな を よく 見ました。とても いい ところ です。\n\nみせ の 人 が あたたかい ごはん と、みどり の おちゃ を もって 来ました。\nあまい おかし も 三つ ありました。\nエマ は 「おいしい です！」と いって、たのしく 食べました。\nあたたかい おちゃ を のんで、とても たのしく なりました。",
+      "text": "たくさん あるいた ので、エマ は すこし つかれました。\nおてら の ちかく に、ちいさくて きれい な きっさてん が ありました。\n\nエマ は なか に 入って、ちいさい テーブル の そば に すわりました。\nそこから にわ の 木 と はな を よく 見ました。とても いい ところ です。\n\nみせ の 人 が あたたかい ごはん と、おちゃ を もって 来ました。\nあまい おかし も 三つ ありました。\nエマ は 「おいしい です！」と いって、たのしく 食べました。\nあたたかい おちゃ を のんで、とても たのしく なりました。",
       "translationsFr": [
         "Comme elle avait beaucoup marché, Emma était un peu fatiguée.",
         "Près du temple, il y avait un petit salon de thé charmant.",
         "",
         "Emma est entrée à l'intérieur et s'est assise près d'une petite table.",
-        "De là, on voyait bien les arbres et les pierres du jardin : c'était un endroit très agréable.",
+        "De là, on voyait bien les arbres et les fleurs du jardin : c'était un endroit très agréable.",
         "",
-        "La serveuse a apporté un repas bien chaud et du thé vert.",
+        "La serveuse a apporté un repas bien chaud et du thé.",
         "Il y avait aussi trois petites pâtisseries sucrées.",
         "Emma a dit « C'est délicieux ! » et a mangé avec grand plaisir.",
-        "En buvant le thé chaud, elle a retrouvé toute son énergie."
+        "En buvant le thé chaud, elle s'est sentie très heureuse."
       ],
       "translationsEn": [
         "Having walked so much, Emma felt a little tired.",
         "Near the temple stood a small, lovely teahouse.",
         "",
         "Emma stepped inside and sat down at a low wooden table.",
-        "From there she had a nice view of the garden trees and stones—it was such a pleasant spot.",
+        "From there she had a nice view of the garden trees and flowers—it was such a pleasant spot.",
         "",
-        "The shop staff brought out a warm meal along with green tea.",
+        "The shop staff brought out a warm meal along with tea.",
         "There were also three sweet traditional treats.",
         "Emma said \"It is delicious!\" and enjoyed her meal happily.",
-        "Drinking the warm green tea, she felt refreshed and full of energy."
+        "Drinking the warm tea, she felt completely cheered up."
       ]
     },
     {
