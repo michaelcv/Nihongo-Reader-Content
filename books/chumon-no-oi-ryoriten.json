@@ -1,0 +1,215 @@
+{
+  "id": "chumon-no-oi-ryoriten",
+  "format": "book",
+  "titleJa": "注文 の 多い 料理店",
+  "titleFr": "Le Restaurant aux nombreuses commandes (Chūmon no Ōi Ryōriten)",
+  "titleEn": "The Restaurant of Many Orders (Chūmon no Ōi Ryōriten)",
+  "coverImage": "images/ryoriten_forest_restaurant.jpg",
+  "descriptionFr": "Le célèbre conte fantastique et satirique de Kenji Miyazawa adapté au niveau JLPT N3 en 6 chapitres illustrés. Perdus dans les montagnes, deux jeunes chasseurs citadins entrent dans un étrange restaurant occidental dont les consignes de plus en plus curieuses cachent un terrible secret…",
+  "descriptionEn": "Kenji Miyazawa's classic tale of suspense and gentle satire adapted to JLPT N3 level across 6 illustrated chapters. Lost in the mountains, two stylish city hunters stumble upon a mysterious Western-style restaurant whose increasingly peculiar written orders hide a chilling secret.",
+  "author": "宮沢賢治 (Adaptation N3)",
+  "authorEn": "Kenji Miyazawa (N3 Adaptation)",
+  "level": "N3",
+  "category": "Littérature classique",
+  "categoryEn": "Classical Literature",
+  "tags": [
+    "Livre",
+    "Littérature",
+    "Classique",
+    "N3",
+    "Fantastique",
+    "Mystère"
+  ],
+  "tagsEn": [
+    "Book",
+    "Literature",
+    "Classics",
+    "N3",
+    "Supernatural",
+    "Mystery"
+  ],
+  "chapters": [
+    {
+      "id": "chap-1",
+      "chapterNumber": 1,
+      "titleJa": "一：山 の おく の 二人 の 客",
+      "titleFr": "Chapitre 1 : Les deux voyageurs au fond de la montagne",
+      "titleEn": "Chapter 1: The Two Gentlemen Deep in the Mountains",
+      "summaryFr": "Deux jeunes citadins élégamment vêtus partent chasser en montagne avec leurs deux chiens blancs, mais le vent froid et la brume les égarent loin de leur guide.",
+      "summaryEn": "Two stylish young city gentlemen set out hunting in the mountains with their two white dogs, only to lose their dogs and get lost in the sudden mist.",
+      "imageUrl": "images/ryoriten_mountain_hunters.jpg",
+      "text": "ある 秋 の 日、東京 から 来た 二人 の 若い 客 が、山 の おく を 歩いて いました。\n二人 は りっぱ な 洋服 を 着て、かた に 長い じゅう を かけ、白い 犬 を 二ひき つれて いました。\n\nところが、夕方 に ちかく なる と、急 に 冷たい 風 が 吹いて、山 ぜんたい が 暗い くも に つつまれ ました。\nあんない の 人 と 別れて しまい、二ひき の 白い 犬 まで どこ か へ 走って いなく なった の です。\n\n道 が わからなく なった 二人 は、おなか も すいて、とても 疲れて しまいました。\n「ああ、早く 町 へ 帰りたい なあ。何 か あたたかい もの が 食べたい よ。」",
+      "translationsFr": [
+        "Un jour d'automne, deux jeunes visiteurs venus de Tokyo marchaient au fin fond de la montagne.",
+        "Tous deux portaient de beaux costumes occidentaux, un long fusil sur l'épaule, et emmenaient deux chiens blancs.",
+        "",
+        "Cependant, à l'approche du soir, un vent froid se mit soudain à souffler et toute la montagne fut enveloppée de nuages sombres.",
+        "Séparés de leur guide, ils perdirent même de vue leurs deux chiens blancs partis en courant quelque part.",
+        "",
+        "Ayant perdu leur chemin, les deux hommes avaient très faim et étaient épuisés.",
+        "« Ah, comme j'aimerais rentrer vite en ville ! J'ai tellement envie de manger quelque chose de chaud. »"
+      ],
+      "translationsEn": [
+        "One autumn day, two young visitors from Tokyo were walking deep in the mountains.",
+        "Both wore fine Western suits, carried long rifles over their shoulders, and brought along two white dogs.",
+        "",
+        "However, as evening drew near, a chilly wind suddenly blew up and dark clouds wrapped around the entire mountain.",
+        "Separated from their guide, they even lost sight of their two white dogs, which ran off into the mist.",
+        "",
+        "Having lost the trail, the two men grew hungry and utterly exhausted.",
+        "\"Oh, how I wish we could get back to town quickly. I want to eat something warm!\""
+      ]
+    },
+    {
+      "id": "chap-2",
+      "chapterNumber": 2,
+      "titleJa": "二：もり の 中 の 西洋 料理店",
+      "titleFr": "Chapitre 2 : Le restaurant occidental dans la forêt",
+      "titleEn": "Chapter 2: The Western Restaurant in the Forest",
+      "summaryFr": "Au cœur de la forêt sombre, les deux voyageurs découvrent contre toute attente un grand restaurant occidental brillant de lumières chaleureuses.",
+      "summaryEn": "Deep in the dark forest, the two lost hunters unexpectedly spot a grand Western-style restaurant glowing warmly among the trees.",
+      "imageUrl": "images/ryoriten_forest_restaurant.jpg",
+      "text": "その とき、暗い もり の 木 の あいだ から、あかるい 光 が 見えました。\nちかく へ 行って みる と、山 の 中 に は めずらしい、りっぱ な 西洋 料理店 が 立って いた の です。\n\n入口 の 大きな ガラス の ドア が あたたかく 光り、木 の 上 に は「やまねこ」と 字 が 書かれて いました。\n「こんな 深い 山 の 中 に 料理店 が ある なんて、ほんとう に よかった！」\n\n二人 は よろこんで 石 の かいだん を のぼり、重い ドア を 開けて 中 へ 入りました。",
+      "translationsFr": [
+        "À ce moment précis, une vive lumière apparut entre les arbres de la forêt sombre.",
+        "En s'approchant, ils découvrirent un splendide restaurant occidental, tout à fait inattendu en pleine montagne.",
+        "",
+        "Les grandes portes vitrées de l'entrée brillaient d'une lueur chaleureuse, et sur le bois au-dessus étaient inscrits les mots « Yamaneko ».",
+        "« Trouver un restaurant au fond d'une montagne pareille, quelle chance ! »",
+        "",
+        "Fous de joie, les deux hommes gravirent les marches de pierre, ouvrirent la lourde porte et entrèrent."
+      ],
+      "translationsEn": [
+        "Just then, a bright warm light appeared through the trees of the dark forest.",
+        "Walking closer, they found a splendid Western-style restaurant standing right there—an astonishing sight deep in the mountains.",
+        "",
+        "The tall glass entrance doors glowed warmly, and carved letters on the wood above read \"Yamaneko.\"",
+        "\"To find a restaurant deep in a mountain like this—how fortunate!\"",
+        "",
+        "Overjoyed, the two men climbed the stone steps, pushed open the heavy door, and stepped inside."
+      ]
+    },
+    {
+      "id": "chap-3",
+      "chapterNumber": 3,
+      "titleJa": "三：ふしぎ な ドア の ことば",
+      "titleFr": "Chapitre 3 : Les étranges messages sur les portes",
+      "titleEn": "Chapter 3: The Strange Words on the Doors",
+      "summaryFr": "Dans le long couloir boisé, chaque porte porte une consigne polie mais singulière : essuyer la poussière, puis déposer fusils, chapeaux et manteaux.",
+      "summaryEn": "Along the wooden corridor, each door bears polite yet odd instructions: wipe away dust, then leave behind guns, hats, and coats.",
+      "imageUrl": "images/ryoriten_corridor_doors.jpg",
+      "text": "中 に 入る と、長い とおり が 続き、いくつ も ドア が ならんで いました。\n最初 の ドア に は、「どうぞ 髪 と 服 の ほこり を はらって ください」と 書いて あります。\nかべ の タオル で 服 を きれい に して、二人 は 次 の ドア へ 進みました。\n\n次 の ドア に は、「じゅう と ぼうし と コート は ここ に おいて ください」と ありました。\n「なるほど、りっぱ な 店 だ から 決まり が きびしい の だ な。」\nそう 話しながら、二人 は 言われた とおり に じゅう も 上着 も ぜんぶ おきました。",
+      "translationsFr": [
+        "Une fois à l'intérieur, un long passage s'étendait devant eux, jalonné de nombreuses portes.",
+        "Sur la première porte était écrit : « Veuillez ôter la poussière de vos cheveux et de vos vêtements. »",
+        "Ils nettoyèrent leurs habits avec les serviettes accrochées au mur et passèrent à la porte suivante.",
+        "",
+        "Sur la porte d'après figurait : « Veuillez déposer ici vos fusils, vos chapeaux et vos manteaux. »",
+        "« Je vois, comme c'est un établissement chic, le règlement est très strict. »",
+        "Tout en se parlant ainsi, les deux hommes déposèrent docilement leurs fusils et leurs vestes comme demandé."
+      ],
+      "translationsEn": [
+        "Once inside, a long passage stretched ahead with one door after another.",
+        "On the first door was written, \"Please brush the dust from your hair and clothes.\"",
+        "Using the cloths hanging on the wall, they tidied their coats and walked to the next door.",
+        "",
+        "The next door read, \"Please leave your guns, hats, and coats right here.\"",
+        "\"I see—because it is such a fine restaurant, the rules are very strict.\"",
+        "Chatting like that, the two men obediently set down both their rifles and their outer coats."
+      ]
+    },
+    {
+      "id": "chap-4",
+      "chapterNumber": 4,
+      "titleJa": "四：クリーム と しお の 注文",
+      "titleFr": "Chapitre 4 : L'ordre de la crème et du sel",
+      "titleEn": "Chapter 4: The Order of Cream and Salt",
+      "summaryFr": "Les consignes deviennent de plus en plus déroutantes : se mettre de la crème sur les mains et le visage, puis s'enduire le corps de vinaigre et de sel.",
+      "summaryEn": "The written orders grow stranger still: rubbing white cream on their hands and face, followed by vinegar and salt all over their bodies.",
+      "imageUrl": "images/ryoriten_cream_salt_room.jpg",
+      "text": "さらに おく の へや へ 進む と、つくえ の 上 に 白い クリーム と 大きな かがみ が ありました。\n「手 と ほほ に クリーム を よく つけて ください」と 書かれて います。\n寒い 山 で はだ が かわく から だ と 思い、二人 は まじめ に クリーム を つけました。\n\nその つぎ の へや に は、くつ を ぬぐ こと と、おどろいた こと に す と しお を 体 に つける よう に と 書かれて いました。\n「少し へんだ な。けれど、料理 が 出る まで の 大切 な 用意 に ちがいない。」\n二人 は 少し 不安 に なりながら も、しお を 体 に つけて、最後 の ドア の 前 に 立ちました。",
+      "translationsFr": [
+        "En avançant vers une pièce plus profonde, ils trouvèrent de la crème blanche et un grand miroir sur une table.",
+        "Il était écrit : « Veuillez bien appliquer la crème sur vos mains et vos joues. »",
+        "Pensant que c'était contre le dessèchement dû au froid de la montagne, ils appliquèrent sérieusement la crème.",
+        "",
+        "Dans la pièce suivante, il était demandé d'ôter ses bottes et — chose étonnante — de s'enduire le corps de vinaigre et de sel.",
+        "« C'est un peu étrange. Mais c'est sûrement une préparation importante avant que le repas ne soit servi. »",
+        "Bien que gagnés par une légère inquiétude, ils se frottèrent de sel et se tinrent devant la dernière porte."
+      ],
+      "translationsEn": [
+        "Stepping into a room deeper inside, they found a jar of white cream and a large mirror on a table.",
+        "A sign instructed, \"Please rub the cream thoroughly onto your hands and cheeks.\"",
+        "Assuming it was to protect their skin from the dry mountain cold, they earnestly applied the cream.",
+        "",
+        "In the very next room, a note told them to remove their boots and—amazingly—apply vinegar and salt onto their bodies.",
+        "\"That is a bit odd. Still, it must be an important preparation before the food is served.\"",
+        "Growing slightly uneasy, they nonetheless rubbed salt over themselves and stood before the final door."
+      ]
+    },
+    {
+      "id": "chap-5",
+      "chapterNumber": 5,
+      "titleJa": "五：ドア の むこう の 恐ろしい 声",
+      "titleFr": "Chapitre 5 : Les voix terrifiantes derrière la porte",
+      "titleEn": "Chapter 5: Terrifying Voices Beyond the Door",
+      "summaryFr": "Derrière la dernière porte, les deux chasseurs entendent qu'on s'apprête à les dévorer et comprennent le sens terrible du « restaurant aux nombreuses commandes ».",
+      "summaryEn": "Beyond the final door, the two hunters hear voices preparing to eat them and realize the chilling meaning of \"many orders.\"",
+      "imageUrl": "images/ryoriten_keyhole_panic.jpg",
+      "text": "重そうな 黒い ドア に は、「これで 用意 は 終わり です。もう 食べられます」と 書いて ありました。\n二人 が 喜ぼう と した とき、ドア の むこう から ひくく 話す 声 が 聞こえて 来ました。\n\n「おや、客 は もう しお も つけた か い？ 早く あたたかい おさら に のせて 食べよう よ。」\n\nその 声 を 聞いた とたん、二人 は とても おどろいて、体 が はげしく ふるえ ました。\n「注文 の 多い 料理店」と は、料理 が 多い の で は なく、客 を 食べる ため の 注文 だった の です！\nいそいで 戻ろう と しても、うしろ の ドア は しっかり 閉まって 動きません でした。",
+      "translationsFr": [
+        "Sur la lourde porte noire était écrit : « Les préparatifs sont terminés. On va pouvoir manger tout de suite. »",
+        "Alors qu'ils allaient s'en réjouir, des voix basses se mirent à parler derrière la porte.",
+        "",
+        "« Alors, les clients ont déjà mis le sel ? Vite, servons-les dans une assiette chaude et mangeons-les ! »",
+        "",
+        "Dès qu'ils entendirent ces mots, les deux hommes furent saisis d'effroi et leurs corps tremblèrent violemment.",
+        "« Le Restaurant aux nombreuses commandes » ne désignait pas des plats variés, mais les ordres donnés aux clients pour mieux les manger !",
+        "Ils tentèrent de rebrousser chemin en hâte, mais la porte derrière eux était solidement fermée et ne bougeait plus."
+      ],
+      "translationsEn": [
+        "On the heavy black door was written, \"Preparations are now complete. You may be eaten at once.\"",
+        "Just as the two men began to rejoice, low speaking voices reached them from beyond the door.",
+        "",
+        "\"Well now, have the guests already put on the salt? Hurry up and place them on a warm plate so we can eat them!\"",
+        "",
+        "The instant they heard that voice, the two were horrified and their bodies trembled violently.",
+        "\"The Restaurant of Many Orders\" did not mean lots of dishes—it meant orders for the guests so they could be eaten!",
+        "When they tried to rush back, the door behind them was tightly shut and would not budge."
+      ]
+    },
+    {
+      "id": "chap-6",
+      "chapterNumber": 6,
+      "titleJa": "六：犬 たち の 助ける 声 と 帰る 道",
+      "titleFr": "Chapitre 6 : Les aboiements sauveurs des chiens et le retour",
+      "titleEn": "Chapter 6: The Dogs' Rescuing Barks and the Way Home",
+      "summaryFr": "Au moment critique, leurs deux chiens blancs font irruption en aboyant. Le mystérieux restaurant s'évanouit dans la brume, laissant les deux hommes sains et saufs.",
+      "summaryEn": "At the critical moment, their two white hunting dogs burst in barking fiercely. The eerie restaurant vanishes into mist, leaving the two hunters safe.",
+      "imageUrl": "images/ryoriten_dogs_rescue.jpg",
+      "text": "ちょうど その とき、黒い ドア が すこし 開いて、中 から 青い 目 が 光りました。\nもう だめ だ と 思った とき、「ワン、ワン！」と 強い 声 が 聞こえました。\n\n別れて いた 二ひき の 白い 犬 が、ドア を 力 いっぱい 開けて 入って 来た の です！\n犬 たち が 暗い おく へ むかって ほえる と、ふしぎ な 建物 は けむり の ように きえて しまいました。\n\n気 が つく と、二人 は 秋 の 草 が 美しく 光る あかるい 山 の 上 に 立って いました。\nじゅう も 上着 も そば に あり、そこ へ あんない の 人 も 迎え に 来ました。\nけれど、恐怖 で 白く なった 二人 の 顔 は、東京 へ 帰って も なかなか 元 に 戻りません でした。",
+      "translationsFr": [
+        "À cet instant précis, la porte noire s'entrouvrit légèrement et des yeux bleus brillèrent à l'intérieur.",
+        "Au moment où ils se croyaient perdus, de puissants aboiements retentirent : « Ouaf, ouaf ! »",
+        "",
+        "Leurs deux chiens blancs, dont ils avaient été séparés, venaient de pousser la porte et d'entrer !",
+        "Tandis que les chiens aboyaient vers l'obscurité, l'étrange bâtiment se dissipa comme de la fumée.",
+        "",
+        "Lorsqu'ils reprirent leurs esprits, les deux hommes se tenaient sur une colline lumineuse couverte d'herbes d'automne éclatantes.",
+        "Leurs fusils et leurs manteaux étaient juste à côté, et leur guide arriva bientôt à leur rencontre.",
+        "Pourtant, même après leur retour à Tokyo, leurs visages pâlis par la frayeur mirent longtemps à retrouver leurs couleurs."
+      ],
+      "translationsEn": [
+        "At that very moment, the black door creaked slightly open, and glowing blue eyes flashed from within.",
+        "Just when they thought all hope was lost, strong barking echoed out: \"Woof! Woof!\"",
+        "",
+        "Their two separated white dogs had pushed open the door and burst inside!",
+        "As the dogs barked fiercely into the darkness, the mysterious building vanished like drifting smoke.",
+        "",
+        "When they came to their senses, the two men were standing on a bright hillside of gleaming autumn grass.",
+        "Their rifles and coats lay right beside them, and soon their mountain guide arrived to meet them.",
+        "Even after returning home to Tokyo, however, their pale, frightened faces took a long time to look normal again."
+      ]
+    }
+  ]
+}
