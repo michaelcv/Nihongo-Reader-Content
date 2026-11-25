@@ -28,6 +28,30 @@
     "N5",
     "Beginner"
   ],
+  "vocabulary": [
+    {
+      "word": "いけ",
+      "basicForm": "池",
+      "kanji": "池",
+      "reading": "いけ",
+      "pos": "Nom",
+      "jlpt": "N5",
+      "meaningFr": ["étang", "mare"],
+      "meaningEn": ["pond"],
+      "notes": "Écrit en hiragana dans le texte (Kuromoji le confond sinon avec l'impératif de 行く)."
+    },
+    {
+      "word": "そば",
+      "basicForm": "側",
+      "kanji": "側",
+      "reading": "そば",
+      "pos": "Nom",
+      "jlpt": "N5",
+      "meaningFr": ["à côté de", "près de", "bord"],
+      "meaningEn": ["side", "beside", "near"],
+      "notes": "Ici 側 (côté/bord), et non 蕎麦 (nouilles soba)."
+    }
+  ],
   "chapters": [
     {
       "id": "chap-1",
