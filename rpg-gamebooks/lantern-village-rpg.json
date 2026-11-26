@@ -1,0 +1,526 @@
+{
+  "id": "lantern-village-rpg",
+  "format": "rpg-gamebook",
+  "titleJa": "山 の むら と 小さな きつね",
+  "titleFr": "Le Village de la Montagne et le Petit Renard",
+  "titleEn": "The Mountain Village & The Little Fox",
+  "level": "N5",
+  "author": "Nihongo Reader RPG",
+  "authorEn": "Nihongo Reader RPG",
+  "category": "Livre-Jeu de Rôle",
+  "categoryEn": "RPG Gamebook",
+  "tags": [
+    "Livre-Jeu de Rôle",
+    "RPG",
+    "N5",
+    "Initiation",
+    "Fantastique",
+    "Aventure",
+    "Combat"
+  ],
+  "tagsEn": [
+    "RPG Gamebook",
+    "RPG",
+    "N5",
+    "Beginner",
+    "Fantasy",
+    "Adventure",
+    "Combat"
+  ],
+  "synopsisFr": "Un RPG d'initiation conçu spécialement pour le niveau JLPT N5 ! Incarnez Sora, jeune messager accompagné d'un petit renard blanc, parti gravir la montagne pour récupérer la lanterne jaune du village emportée par un grand tanuki farceur. Équipez-vous au village, évitez un piège en forêt et lancez les dés (1d20) pour remporter vos premiers combats.",
+  "synopsisEn": "A beginner-friendly RPG adventure crafted specifically for JLPT N5! Play as Sora, a young messenger joined by a little white fox, climbing the mountain to recover the village's glowing lantern taken by a mischievous tanuki. Buy supplies in the village, dodge a forest trap, and roll d20 dice in accessible turn-based battles.",
+  "coverImage": "images/rpg_n5_village_cover.jpg",
+  "initialCharacter": {
+    "nameJa": "そら（ソラ）",
+    "nameFr": "Sora le Messager",
+    "nameEn": "Sora the Messenger",
+    "classFr": "Apprenti Voyageur",
+    "classEn": "Apprentice Traveler",
+    "level": 1,
+    "baseMaxHp": 20,
+    "baseAc": 11,
+    "stats": {
+      "str": 13,
+      "dex": 14,
+      "con": 13,
+      "wis": 13
+    },
+    "startingGold": 40,
+    "startingEquipment": [
+      {
+        "id": "wooden_stick",
+        "nameJa": "木 の ぼう",
+        "nameFr": "Bâton de marche en bois",
+        "nameEn": "Wooden Walking Stick",
+        "slot": "weapon",
+        "descriptionFr": "Un bâton simple et solide pour voyager et se défendre (+1 Attaque, 1d6 dégâts).",
+        "descriptionEn": "A simple, sturdy wooden stick for travel and defense (+1 Attack, 1d6 damage).",
+        "attackBonus": 1,
+        "damageDice": "1d6",
+        "valueGold": 15
+      },
+      {
+        "id": "warm_jacket",
+        "nameJa": "あたたかい うわぎ",
+        "nameFr": "Veste de voyage matelassée",
+        "nameEn": "Warm Travel Jacket",
+        "slot": "armor",
+        "descriptionFr": "Veste chaude protégeant du froid du soir et des coups (+2 CA).",
+        "descriptionEn": "Warm jacket protecting against evening chill and blows (+2 AC).",
+        "acBonus": 2,
+        "valueGold": 20
+      },
+      {
+        "id": "sweet_onigiri",
+        "nameJa": "おにぎり",
+        "nameFr": "Onigiri du voyageur",
+        "nameEn": "Traveler Onigiri",
+        "slot": "consumable",
+        "descriptionFr": "Boule de riz réconfortante qui restaure 1d8+2 PV.",
+        "descriptionEn": "Comforting rice ball that restores 1d8+2 HP.",
+        "healDice": "1d8+2",
+        "quantity": 2,
+        "valueGold": 10
+      }
+    ]
+  },
+  "startChapterId": "node_village",
+  "chapters": {
+    "node_village": {
+      "id": "node_village",
+      "chapterNumber": 1,
+      "titleJa": "一：山 の むら と ふるい とりい",
+      "titleFr": "Chapitre 1 : Le Village de la Montagne et le Vieux Torii",
+      "titleEn": "Chapter 1: The Mountain Village and Old Torii",
+      "imageUrl": "images/rpg_n5_village_cover.jpg",
+      "text": "ゆうがた、あなた は 山 の むら の ふるい とりい の 前 に 来ました。\nそば に 小さな 白い きつね が すわって います。\n「たいへん です！ むら の たいせつ な きいろい ランプ を、おおきな たぬき が 山 の 上 へ もって 行きました。」\n右 の みち に あたたかい おみせ が あります。おみせ で かいもの が できます。\n左 の ふるい いし の 上 に、ふるい じ が 書いて あります。",
+      "translationsFr": [
+        "En fin d'après-midi, vous arrivez devant le vieux torii d'un village de montagne.",
+        "À vos côtés est assis un petit renard blanc.",
+        "« C'est terrible ! Un grand tanuki a emporté la précieuse lanterne jaune du village au sommet de la montagne. »",
+        "Sur le chemin de droite se trouve une boutique chaleureuse où vous pouvez faire des achats.",
+        "Sur une vieille pierre à gauche sont gravés d'anciens caractères."
+      ],
+      "translationsEn": [
+        "In the early evening, you arrive before the old torii gate of a mountain village.",
+        "Sitting beside you is a small white fox.",
+        "\"Oh no! A big tanuki carried the village's precious yellow lantern up to the top of the mountain.\"",
+        "Along the path to the right stands a cozy shop where you can buy supplies.",
+        "On an old stone to the left, ancient characters are carved."
+      ],
+      "choices": [
+        {
+          "id": "choice_n5_shop",
+          "textJa": "右 の おみせ へ 入って、おばあさん と 話す",
+          "textFr": "Entrer dans la boutique à droite et parler à la grand-mère",
+          "textEn": "Enter the shop on the right and talk to the grandmother",
+          "targetChapterId": "node_shop",
+          "hintFr": "Boutique du village (équipement et thé chaud)",
+          "hintEn": "Village shop (gear & warm tea)"
+        },
+        {
+          "id": "choice_n5_read_stone",
+          "textJa": "左 の ふるい いし の じ を ゆっくり 読む",
+          "textFr": "Lire attentivement les caractères sur la vieille pierre à gauche",
+          "textEn": "Carefully read the characters on the old stone to the left",
+          "targetChapterId": "node_secret_box",
+          "hintFr": "Test de Sagesse (SAG, DD 10) pour découvrir un secret",
+          "hintEn": "Wisdom (WIS, DC 10) check to uncover a secret",
+          "skillCheck": {
+            "stat": "wis",
+            "dc": 10,
+            "labelFr": "Lire les anciens caractères",
+            "labelEn": "Read the ancient characters",
+            "failureChapterId": "node_forest_path",
+            "failureDamageDice": "1d4"
+          }
+        },
+        {
+          "id": "choice_n5_straight_forest",
+          "textJa": "すぐ に 山 の 木 の みち へ 行く",
+          "textFr": "Partir tout de suite par le sentier boisé de la montagne",
+          "textEn": "Head straight onto the forested mountain path",
+          "targetChapterId": "node_forest_path",
+          "hintFr": "Départ direct vers la forêt",
+          "hintEn": "Direct route into the forest"
+        }
+      ]
+    },
+    "node_secret_box": {
+      "id": "node_secret_box",
+      "chapterNumber": 2,
+      "titleJa": "二：いし の 下 の 小さな はこ",
+      "titleFr": "Chapitre 2 : Le Petit Coffret sous la Pierre",
+      "titleEn": "Chapter 2: The Small Box Beneath the Stone",
+      "text": "ふるい いし の じ を ゆっくり 読みました！\nいし の 下 から 小さな はこ が 出ました。\nはこ の 中 に お金 と、きれい な 白い「ほし の いし」が ありました。",
+      "translationsFr": [
+        "Vous parvenez à lire lentement les anciens caractères sur la pierre !",
+        "Sous la pierre apparaît un petit coffret.",
+        "À l'intérieur se trouvent des pièces d'or et une jolie « Pierre Étoile » blanche."
+      ],
+      "translationsEn": [
+        "You carefully read the ancient characters on the stone!",
+        "From beneath the stone emerges a small box.",
+        "Inside lie gold coins and a lovely white \"Star Stone\"."
+      ],
+      "rewards": {
+        "xp": 40,
+        "gold": 30,
+        "items": [
+          {
+            "id": "fox_star_stone",
+            "nameJa": "ほし の いし",
+            "nameFr": "Pierre Étoile du Renard",
+            "nameEn": "Fox Star Stone",
+            "slot": "accessory",
+            "descriptionFr": "Jolie pierre porte-bonheur (+1 SAG, +1 CA).",
+            "descriptionEn": "Lovely lucky charm stone (+1 WIS, +1 AC).",
+            "acBonus": 1,
+            "statBonuses": {
+              "wis": 1
+            },
+            "valueGold": 35
+          }
+        ]
+      },
+      "choices": [
+        {
+          "id": "choice_n5_box_to_shop",
+          "textJa": "お金 を もって、むら の おみせ へ 行く",
+          "textFr": "Emporter votre or vers la boutique du village",
+          "textEn": "Take your gold and visit the village shop",
+          "targetChapterId": "node_shop"
+        },
+        {
+          "id": "choice_n5_box_to_forest",
+          "textJa": "ほし の いし を もって、山 の 木 の みち へ 行く",
+          "textFr": "Garder la Pierre Étoile et entrer sur le sentier de la montagne",
+          "textEn": "Take the Star Stone and enter the mountain forest path",
+          "targetChapterId": "node_forest_path"
+        }
+      ]
+    },
+    "node_shop": {
+      "id": "node_shop",
+      "chapterNumber": 3,
+      "titleJa": "三：むら の おみせ と やさしい おばあさん",
+      "titleFr": "Chapitre 3 : La Boutique du Village et la Gentille Grand-Mère",
+      "titleEn": "Chapter 3: The Village Shop and Kind Grandmother",
+      "imageUrl": "images/rpg_n5_village_shop.jpg",
+      "text": "あたたかい おみせ の 中 に、やさしい おばあさん が います。\n「いらっしゃい、そら さん。山 に は わるい どうぶつ が います よ。いい もの を もって 行きましょう。」\nテーブル の 上 に、じょうぶ な 長い 木 の ぼう と、あたたかい おちゃ が あります。",
+      "translationsFr": [
+        "Dans la boutique chaleureuse vous accueille une gentille grand-mère.",
+        "« Bienvenue, Sora. Il y a des animaux farceurs dans la montagne, emportons du bon matériel ! »",
+        "Sur le comptoir sont posés un solide bâton en bois de chêne et des tasses de thé bien chaud."
+      ],
+      "translationsEn": [
+        "Inside the warm shop waits a kind grandmother.",
+        "\"Welcome, Sora. Mischievous animals roam the mountain tonight, so let's get you good gear!\"",
+        "On the counter sit a sturdy long oak walking staff and cups of hot tea."
+      ],
+      "choices": [
+        {
+          "id": "choice_n5_buy_staff",
+          "textJa": "「いい 長い 木 の ぼう を ください」（35G）",
+          "textFr": "Acheter le Solide Bâton de Chêne (35 Or)",
+          "textEn": "Buy the Sturdy Oak Staff (35 Gold)",
+          "targetChapterId": "",
+          "stayOnChapter": true,
+          "costGold": 35,
+          "hintFr": "Meilleure arme (+2 Attaque, 1d8+1 dégâts)",
+          "hintEn": "Better weapon (+2 Attack, 1d8+1 damage)",
+          "grantItems": [
+            {
+              "id": "oak_staff",
+              "nameJa": "いい 木 の ぼう",
+              "nameFr": "Solide Bâton de Chêne",
+              "nameEn": "Sturdy Oak Staff",
+              "slot": "weapon",
+              "descriptionFr": "Bâton de chêne poli par l'artisan du village (+2 Attaque, 1d8+1 dégâts).",
+              "descriptionEn": "Polished oak staff crafted in the village (+2 Attack, 1d8+1 damage).",
+              "attackBonus": 2,
+              "damageDice": "1d8+1",
+              "valueGold": 55
+            }
+          ]
+        },
+        {
+          "id": "choice_n5_buy_tea",
+          "textJa": "「あたたかい おちゃ を 二つ ください」（20G）",
+          "textFr": "Acheter deux Thés Chauds du Village (20 Or)",
+          "textEn": "Buy two Warm Village Teas (20 Gold)",
+          "targetChapterId": "",
+          "stayOnChapter": true,
+          "costGold": 20,
+          "hintFr": "2x Soins efficaces (2d6+2 PV)",
+          "hintEn": "2x Strong Healing (2d6+2 HP)",
+          "grantItems": [
+            {
+              "id": "village_hot_tea",
+              "nameJa": "あたたかい おちゃ",
+              "nameFr": "Thé Chaud du Village",
+              "nameEn": "Warm Village Tea",
+              "slot": "consumable",
+              "descriptionFr": "Thé parfumé qui restaure 2d6+2 PV.",
+              "descriptionEn": "Fragrant hot tea that restores 2d6+2 HP.",
+              "healDice": "2d6+2",
+              "quantity": 2,
+              "valueGold": 15
+            }
+          ]
+        },
+        {
+          "id": "choice_n5_shop_to_forest",
+          "textJa": "「ありがとう」と いって、山 の 木 の みち へ 出かける",
+          "textFr": "Dire merci et partir sur le sentier de la forêt",
+          "textEn": "Say thank you and head out onto the forest path",
+          "targetChapterId": "node_forest_path",
+          "hintFr": "Continuer vers le Chapitre 4 (Sentier de la forêt)",
+          "hintEn": "Continue to Chapter 4 (Forest Path)"
+        },
+        {
+          "id": "choice_n5_shop_to_river",
+          "textJa": "ちかみち を あるいて、すぐ 川 の はし へ 行く",
+          "textFr": "Prendre le raccourci directement vers le pont de la rivière",
+          "textEn": "Take the shortcut straight to the river bridge",
+          "targetChapterId": "node_river_bridge",
+          "hintFr": "Aller directement au Chapitre 5 (Pont de la rivière)",
+          "hintEn": "Proceed directly to Chapter 5 (River Bridge)"
+        }
+      ]
+    },
+    "node_forest_path": {
+      "id": "node_forest_path",
+      "chapterNumber": 4,
+      "titleJa": "四：くらい 木 の みち と わな",
+      "titleFr": "Chapitre 4 : Le Sentier Sombre et le Piège des Bois",
+      "titleEn": "Chapter 4: The Dark Forest Path & Branch Trap",
+      "imageUrl": "images/rpg_n5_forest_trap.jpg",
+      "text": "山 の くらい 木 の みち に 入りました。\nその とき、あし の 下 で パチン！ と きこえました。\n上 の 木 から、おおきい 木 の えだ が たくさん とんで きます。\nはやく 右 か 左 へ とんで、あぶない わな を よけましょう！",
+      "translationsFr": [
+        "Vous pénétrez sur le sombre sentier boisé de la montagne.",
+        "À ce moment-là, un bruit sec retentit sous votre pied !",
+        "Du haut des arbres tombent soudain de nombreuses grosses branches.",
+        "Sautez vite à droite ou à gauche pour éviter ce piège dangereux !"
+      ],
+      "translationsEn": [
+        "You enter the dark, tree-lined mountain path.",
+        "Just then, a sharp snap sounds beneath your foot!",
+        "From the trees above, heavy wooden branches suddenly come flying down.",
+        "Leap quickly to the right or left to dodge the dangerous trap!"
+      ],
+      "trap": {
+        "id": "trap_forest_branches",
+        "nameJa": "木 の わな",
+        "nameFr": "Piège des Branches",
+        "nameEn": "Falling Branch Trap",
+        "stat": "dex",
+        "dc": 10,
+        "damageDice": "1d4+1",
+        "successTextFr": "D'un bond agile sur le côté, vous esquivez toutes les branches et trouvez quelques pièces oubliées sur le sentier !",
+        "successTextEn": "With a nimble leap aside, you dodge every falling branch and spot a few coins along the trail!",
+        "failureTextFr": "Une branche heurte votre épaule tandis que vous vous mettez à l'abri.",
+        "failureTextEn": "A falling branch clips your shoulder as you scramble to safety."
+      },
+      "rewards": {
+        "xp": 35,
+        "gold": 20
+      },
+      "choices": [
+        {
+          "id": "choice_n5_forest_to_river",
+          "textJa": "川 の ほう へ あるいて、木 の はし を わたる",
+          "textFr": "Marcher vers la rivière pour traverser le pont de bois",
+          "textEn": "Walk toward the river to cross the wooden bridge",
+          "targetChapterId": "node_river_bridge"
+        },
+        {
+          "id": "choice_n5_forest_to_hilltop",
+          "textJa": "はやく 山 の 上 へ まっすぐ のぼる",
+          "textFr": "Monter directement et sans détour au sommet de la montagne",
+          "textEn": "Climb straight up to the mountaintop right away",
+          "targetChapterId": "node_hilltop_shrine",
+          "hintFr": "Combat final direct (plus risqué)",
+          "hintEn": "Direct final encounter (riskier)"
+        }
+      ]
+    },
+    "node_river_bridge": {
+      "id": "node_river_bridge",
+      "chapterNumber": 5,
+      "titleJa": "五：川 の はし と おおきな サル",
+      "titleFr": "Chapitre 5 : Le Pont de la Rivière et le Grand Singe",
+      "titleEn": "Chapter 5: The River Bridge & Big Monkey",
+      "imageUrl": "images/rpg_n5_river_monkey.jpg",
+      "text": "きれいな 川 の 上 に、ふるい 木 の はし が あります。\nはし の 上 に、おおきな サル が たって います！\n「こら、そら！ この はし を わたる 前 に、わたし と あそぼう！」\nサル は 長い 木 の ぼう を もって、こちら へ 来ます。",
+      "translationsFr": [
+        "Au-dessus d'une jolie rivière claire s'étend un vieux pont de bois.",
+        "Sur le pont se dresse un grand singe !",
+        "« Hé, Sora ! Avant de traverser ce pont, viens jouer avec moi ! »",
+        "Le singe brandit un long bâton de bambou et s'avance vers vous."
+      ],
+      "translationsEn": [
+        "Stretching over a clear mountain river is an old wooden bridge.",
+        "Standing right on the bridge is a large monkey!",
+        "\"Hey, Sora! Before you cross this bridge, come play a match with me!\"",
+        "Holding a long bamboo stick, the monkey steps toward you."
+      ],
+      "enemy": {
+        "id": "enemy_bridge_monkey",
+        "nameJa": "はし の サル",
+        "nameFr": "Singe Farceur du Pont",
+        "nameEn": "Mischievous Bridge Monkey",
+        "level": 1,
+        "maxHp": 10,
+        "ac": 10,
+        "attackBonus": 2,
+        "damageDice": "1d4+1",
+        "xpReward": 60,
+        "goldReward": 25,
+        "fleeDc": 9,
+        "fleeTargetChapterId": "node_forest_path",
+        "descriptionFr": "Un macaque malicieux qui adore défier les voyageurs sur son pont.",
+        "descriptionEn": "A playful mountain macaque who loves challenging travelers on his bridge.",
+        "lootItems": [
+          {
+            "id": "river_pebble_charm",
+            "nameJa": "川 の まもり",
+            "nameFr": "Talisman de la Rivière",
+            "nameEn": "River Pebble Charm",
+            "slot": "accessory",
+            "descriptionFr": "Galet lisse et porte-bonheur (+1 DEX, +1 CA).",
+            "descriptionEn": "Smooth lucky river charm (+1 DEX, +1 AC).",
+            "acBonus": 1,
+            "statBonuses": {
+              "dex": 1
+            },
+            "valueGold": 30
+          }
+        ]
+      },
+      "rewards": {
+        "healHp": 5
+      },
+      "choices": [
+        {
+          "id": "choice_n5_river_to_hilltop",
+          "textJa": "きれいな 水 を のんで から、山 の 上 へ 行く",
+          "textFr": "Boire un peu d'eau fraîche (+5 PV) puis monter au sommet",
+          "textEn": "Drink some fresh water (+5 HP) and climb to the mountaintop",
+          "targetChapterId": "node_hilltop_shrine"
+        }
+      ]
+    },
+    "node_hilltop_shrine": {
+      "id": "node_hilltop_shrine",
+      "chapterNumber": 6,
+      "titleJa": "六：山 の 上 と おおきな たぬき",
+      "titleFr": "Chapitre 6 : Le Sommet et le Grand Tanuki",
+      "titleEn": "Chapter 6: The Mountaintop & Big Tanuki",
+      "imageUrl": "images/rpg_n5_hilltop_tanuki.jpg",
+      "text": "ほし の きれいな よる に、山 の 上 の ふるい ところ に つきました。\nいし の 上 に、むら の たいせつ な「きいろい ランプ」が あります。\nその 前 に、おおきな たぬき が 木 の ぼう を もって たって います！\n「わたし の きれい な ランプ だ！ ほしい なら、わたし と やって みましょう！」",
+      "translationsFr": [
+        "Sous une belle nuit étoilée, vous atteignez l'ancien sanctuaire au sommet de la montagne.",
+        "Sur un piédestal de pierre brille la précieuse « lanterne jaune » du village.",
+        "Juste devant se tient un grand tanuki armé d'un gourdin de bois !",
+        "« C'est ma jolie lanterne maintenant ! Si tu la veux, viens donc te mesurer à moi ! »"
+      ],
+      "translationsEn": [
+        "Under a starry night sky, you reach the old clearing atop the mountain.",
+        "Resting upon a stone pedestal is the village's precious \"yellow lantern\".",
+        "Standing right in front of it is a big tanuki holding a wooden club!",
+        "\"This bright lantern is mine! If you want it back, let's see what you've got!\""
+      ],
+      "enemy": {
+        "id": "enemy_hilltop_tanuki",
+        "nameJa": "おおきな たぬき",
+        "nameFr": "Grand Tanuki du Sommet",
+        "nameEn": "Big Hilltop Tanuki",
+        "level": 2,
+        "maxHp": 16,
+        "ac": 11,
+        "attackBonus": 3,
+        "damageDice": "1d6+1",
+        "xpReward": 110,
+        "goldReward": 45,
+        "fleeDc": 11,
+        "fleeTargetChapterId": "node_river_bridge",
+        "descriptionFr": "Un gros tanuki farceur coiffé d'une feuille qui garde la lanterne du village.",
+        "descriptionEn": "A boastful leaf-hatted tanuki guarding the glowing village lantern.",
+        "lootItems": [
+          {
+            "id": "tanuki_bell_charm",
+            "nameJa": "たぬき の すず",
+            "nameFr": "Grelot du Tanuki",
+            "nameEn": "Tanuki Lucky Bell",
+            "slot": "accessory",
+            "descriptionFr": "Petit grelot doré plein d'entrain (+2 FOR).",
+            "descriptionEn": "Cheerful golden bell (+2 STR).",
+            "statBonuses": {
+              "str": 2
+            },
+            "valueGold": 70
+          }
+        ]
+      },
+      "choices": [
+        {
+          "id": "choice_n5_claim_lantern",
+          "textJa": "「きいろい ランプ」を とって、むら へ かえる",
+          "textFr": "Prendre la « lanterne jaune » et redescendre au village",
+          "textEn": "Take the \"yellow lantern\" and return to the village",
+          "targetChapterId": "node_ending"
+        }
+      ]
+    },
+    "node_ending": {
+      "id": "node_ending",
+      "chapterNumber": 7,
+      "titleJa": "おわり：あかるい むら と 小さな きつね",
+      "titleFr": "Chapitre Final : Le Village Illuminé et le Petit Renard",
+      "titleEn": "Final Chapter: The Lit Village & Little Fox",
+      "imageUrl": "images/rpg_n5_village_cover.jpg",
+      "text": "おおきな たぬき は 「すみません、もう かえします」と いいました。\nあなた が「きいろい ランプ」を もつ と、山 の 下 まで あかるく なりました。\n小さな 白い きつね は うれしそう で、むら の みんな も「ありがとう！」と いいました。\nそれから、そら の はじめて の りょこう は とても たのしく おわりました！",
+      "translationsFr": [
+        "Le grand tanuki dit alors : « Pardon, je vais vous la rendre tout de suite. »",
+        "Lorsque vous prenez la « lanterne jaune », la lumière éclaire jusqu'au pied de la montagne.",
+        "Le petit renard blanc semble rayonnant de joie, et tout le village s'écrie : « Merci ! »",
+        "C'est ainsi que la toute première expédition de Sora s'achève dans la bonne humeur !"
+      ],
+      "translationsEn": [
+        "The big tanuki says politely, \"Sorry, I will give it right back.\"",
+        "As you hold the \"yellow lantern\", warm light shines all the way down the mountain.",
+        "The little white fox looks overjoyed, and everyone in the village calls out, \"Thank you!\"",
+        "And so Sora's very first journey ended happily!"
+      ],
+      "rewards": {
+        "xp": 100,
+        "gold": 80,
+        "items": [
+          {
+            "id": "fox_golden_lantern",
+            "nameJa": "きいろい ランプ",
+            "nameFr": "Lanterne Dorée du Renard",
+            "nameEn": "Golden Fox Lantern",
+            "slot": "accessory",
+            "descriptionFr": "Précieuse lanterne rayonnante (+2 CON, +2 SAG, +1 CA).",
+            "descriptionEn": "Precious radiant lantern (+2 CON, +2 WIS, +1 AC).",
+            "acBonus": 1,
+            "statBonuses": {
+              "con": 2,
+              "wis": 2
+            },
+            "valueGold": 200
+          }
+        ]
+      },
+      "choices": [],
+      "isEnding": true,
+      "endingType": "victory",
+      "endingBadgeFr": "Héros du Village de la Montagne",
+      "endingBadgeEn": "Hero of the Mountain Village",
+      "endingSummaryFr": "Félicitations ! Vous avez réussi votre premier RPG japonais : vous avez aidé le petit renard, déjoué le piège de la forêt et vaincu le Singe et le Grand Tanuki.",
+      "endingSummaryEn": "Congratulations! You completed your first Japanese RPG: you helped the little fox, dodged the forest trap, and defeated both the Monkey and the Big Tanuki."
+    }
+  }
+}
