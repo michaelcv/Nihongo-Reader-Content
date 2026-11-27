@@ -1,0 +1,11 @@
+{
+  "name": "nihongo-reader-content",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/preview-server.mjs",
+    "build": "node scripts/build-manifest.mjs",
+    "start": "node scripts/preview-server.mjs"
+  }
+}
